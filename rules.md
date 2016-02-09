@@ -69,29 +69,29 @@ Depew. Re-designed components and player aids by Todd Sanders.
 
 # Rules
 
-* R201 Characters R222 Robots
-* R202 Cunning R223 Hirelings’ Equipment
-* R203 Daily Actions R224 Encounters
-* R204 Maps & Classifications R225 Entry Detection/Encounters
-* R205 Area Types R226 System Entry Encounters
-* R206 Asteroids R227 Contact Try Encounters
-* R207 Guide to the Pavonis Sector R228 Ship’s Papers, ID, Wanted
-* R208 Random System Connections R229 Cargo, Goods and Services
-* R209 Random System Design R230 Combat
-* R210 Vehicles & Equipment R231 Wounds & Endurance
-* R211 CU, RU and FU R232 Record keeping
-* R212 Antelope Class Starship R233 Entry & Contact Table
-* R213 Life Support R234 Sector: System Connections
-* R214 Ship’s Boat R235 Tech Level of Equipment
-* R215 Planetary Vehicles R236 Equipment Table
-* R216 Weaponry R237 Critical Hit Table
-* R217 Damage R238 Entry Detection Table
-* R218 Breakdown R240 Recovery from Stasis Table
-* R219 Repair R241 Base Price Multiplier Table
-* R220 Retinue R242 Cache Factor Table
-* R221 Roles of Hirelings R300+ Rules References
+| <a href="#R201">R201 Characters</a> | <a href="#R201">R222 Robots</a> |
+| <a href="#R202">R202 Cunning</a> | <a href="#R201">R223 Hirelings’ Equipment</a> |
+| <a href="#R203">R203 Daily Actions</a> | <a href="#R201">R224 Encounters</a> |
+| <a href="#R204">R204 Maps & Classifications</a> | <a href="#R201">R225 Entry Detection/Encounters</a> |
+| <a href="#R205">R205 Area Types</a> | <a href="#R201">R226 System Entry Encounters</a> |
+| <a href="#R206">R206 Asteroids</a> | <a href="#R201">R227 Contact Try Encounters</a> |
+| <a href="#R207">R207 Guide to the Pavonis Sector</a> | <a href="#R201">R228 Ship’s Papers, ID, Wanted</a> |
+| <a href="#R208">R208 Random System Connections</a> | <a href="#R201">R229 Cargo, Goods and Services</a> |
+| <a href="#R209">R209 Random System Design</a> | <a href="#R201">R230 Combat</a> |
+| <a href="#R210">R210 Vehicles & Equipment</a> | <a href="#R201">R231 Wounds & Endurance</a> |
+| <a href="#R211">R211 CU, RU and FU</a> | <a href="#R201">R232 Record keeping</a> |
+| <a href="#R212">R212 Antelope Class Starship</a> | <a href="#R201">R233 Entry & Contact Table</a> |
+| <a href="#R213">R213 Life Support</a> | <a href="#R201">R234 Sector: System Connections</a> |
+| <a href="#R214">R214 Ship’s Boat</a> | <a href="#R201">R235 Tech Level of Equipment</a> |
+| <a href="#R215">R215 Planetary Vehicles</a> | <a href="#R201">R236 Equipment Table</a> |
+| <a href="#R216">R216 Weaponry</a> | <a href="#R201">R237 Critical Hit Table</a> |
+| <a href="#R217">R217 Damage</a> | <a href="#R201">R238 Entry Detection Table</a> |
+| <a href="#R218">R218 Breakdown</a> | <a href="#R201">R240 Recovery from Stasis Table</a> |
+| <a href="#R219">R219 Repair</a> | <a href="#R201">R241 Base Price Multiplier Table</a> |
+| <a href="#R220">R220 Retinue</a> | <a href="#R201">R242 Cache Factor Table</a> |
+| <a href="#R221">R221 Roles of Hirelings</a> | <a href="#R201">R300+ Rules References</a> |
 
-## R201 Characters
+## <a name="R201">R201 Characters</a>
 Each character in the game has three ratings: Marksmanship (“M”), Hand-to-Hand
 fighting (“H”), and Endurance (“E”). Each is rated numerically, with higher
 numbers superior. Characters may also have skills, such as pilot/navigator,
@@ -114,7 +114,7 @@ simply go on their way, and “disappear” from the game.
 To determine your own personal characteristics at the start of the game, 
 see R201B.
 
-### Characteristics and Skills (R201A):
+### <a name="R201A">Characteristics and Skills (R201A):</a>
 Marksmanship measures your ability to fire all ranged weapons (sidearms,
 skimmer guns, etc.) except starship guns (which require a special skill
 instead). The higher your rating, the better you shoot. Ratings range from 0
@@ -128,7 +128,7 @@ defense against such attacks, see R230G for details.
 Endurance value is a measure of how much damage you can take in combat, and
 still survive. See R231 for detailed rules about wounds.
 
-### Your Character — Duke Springer (R201B):
+### <a name="R201B">Your Character — Duke Springer (R201B):</a>
 You begin play as the star smuggler, Duke Springer, a talented and experienced
 starship pilot who is having trouble being successful in legal commercial
 enterprises. You have a starship (Antelope-class), a speedy and versatile
@@ -143,7 +143,7 @@ excellent condition, your endurance value is 10. In addition to these
 characters, you have a Cunning rating (R202) which other characters do not.
 See E001 for complete details of your possessions at the start of the game.
 
-## R202 Cunning
+## <a name="R202">R202 Cunning</a>
 Cunning is an ability that combines smooth talking, staying cool, thinking fast
 in an emergency, rapidly figuring alternatives when a plan is blocked, and
 generally outsmarting your adversaries. Duke Springer is the only character
@@ -156,7 +156,7 @@ trying playing with a Cunning rating of 0! When an event calls for a “Cunning
 roll,” you roll one die and must get less than or equal to your Cunning rating
 to succeed, unless some other requirement is indicated.
 
-## R203 Daily Actions
+## <a name="R203">R203 Daily Actions</a>
 At the start of each day, you either perform normal travel and contact, or stay
 in place for RRR (Rest, Recuperation and Repair). At the end of each day, you
 must check for breakdowns of equipment, and after each 10-day week, make
@@ -167,7 +167,7 @@ get extra hours that day to finish it (an event will not carry over to the
 next day). Any other people in your party either travel with you, or stay
 behind doing little (see R220 for details).
 
-### Travel (R203A)
+### <a name="R203A">Travel (R203A)</a>
 During a normal day of travel and contact, you may travel about the land area
 (R204G). You have the following travel options, provided the vehicle is
 present and available:
@@ -186,13 +186,13 @@ travel, and you have sufficient fuel (R211) and life support (R213) where
 necessary. You may alternate travel and contact activities in the same day,
 provided sufficient time remains.
 
-### Contact (R203B)
+### <a name="R203B">Contact (R203B)</a>
 During a day of travel and contact, you may attempt to make contacts. See R227
 for details and procedure. Basically, in a contact try you consult the Entry &
 Contact Table (R233) for the result, so it may take many attempts before you
 find what you are seeking (i.e., get the desired result).
 
-### RRR — Rest, Recuperation & Repair (R203C)
+### <a name="R203C">RRR — Rest, Recuperation & Repair (R203C)</a>
 This action is allowed only if you spend a full day (all 10 hours) doing it. No
 travel and no contact is allowed during an RRR day.
 
@@ -204,7 +204,7 @@ If a repairman or mobile repairman is needed, you must have already arranged
 to have him (or it) present during the RRR day — searching for repairmen is
 not part of RRR.
 
-### Breakdown (R203D)
+### <a name="R203D">Breakdown (R203D)</a>
 At the end of each day, any vehicle or piece of equipment you used may break
 down. Consult R218 for details. Preventive maintenance (R218B) avoids the
 danger of breakdown. Breakdown need not be checked for vehicles that didn’t
@@ -213,7 +213,7 @@ and boats in orbit or docked at a space station. Breakdown of individual items
 (such as weapons) is separate from any vehicle carrying them, or any other
 device.
 
-### Loan Payments (R203E)
+### <a name="R203E">Loan Payments (R203E)</a>
 At the end of each 10-day week, a loan payment is due on your Antelope-class
 starship. The ship originally cost 120,000 Secs (Sector Exchange Units, the
 “money” used here, see R232A), and your loan for this amount is 300 S interest
@@ -234,7 +234,7 @@ unlikely you’ll play long enough to worry about this! Using banks to hold some
 of your money, you can have loan payments made from your account (in case you
 aren’t around a place with banks when the week is up). See R232A for details.
 
-### Victory / Defeat (R203F)
+### <a name="R203F">Victory / Defeat (R203F)</a>
 An overwhelming victory in this game is paying off your entire spaceship loan
 of 120,000 S, and have a substantial fortune left for high living (how much
 left determines the degree of victory you can keep on looking for more
@@ -248,19 +248,19 @@ the game is death. Actually, the process of playing the game is designed to be
 sufficient enjoyment unto itself – how well can you survive as a
 roughand-tumble free booting captain of the spaceways?
 
-## R204 Maps / Classifications
+## <a name="R204">R204 Maps / Classifications</a>
 Star Smuggler is set in the Pavonis Sector, a distant star region with ten
 inhabited star systems. Various classifications and codes are used for each
 system, and a unique mapping system for the various planets. The standard
 description of the sector is in R207, but variants and modifications are
 possible (R208 & R209).
 
-### System Characteristics (R204A)
+### <a name="R204A">System Characteristics (R204A)</a>
 Each star system has a wealth code, a technology (tech) code, and one or more
 planets, perhaps with a separate asteroid belt as well. Planets have varying
 tile layouts, gravity, atmosphere.
 
-### Wealth Code (R204B)
+### <a name="R204B">Wealth Code (R204B)</a>
 This code ranges from 0 to 100, and represents the general level of wealth and
 economic strength of the system. Generally, in wealthy systems things cost
 more, while in poorer systems things cost less. However, a high wealth code
@@ -268,7 +268,7 @@ system could still have numerous slums, with many discontents dwelling in
 utter poverty. Costs for goods and services will vary with the wealth code;
 often a cost multiplier is used after consulting the base price table (R241).
 
-### Tech Code (R204C)
+### <a name="R204C">Tech Code (R204C)</a>
 This code ranges from 0 to 100, and represents the sophistication of equipment
 in use. Although all equipment is futuristic, high tech items work better, and
 are more powerful, than lower tech, but tend to break down more often. Often
@@ -276,7 +276,7 @@ high tech items bring good prices on low tech worlds, although it may be
 illegal to introduce such equipment for sale on certain worlds. Technology has
 important effects on weaponry (R216) and on breakdown (R218).
 
-### Planetary Characteristics (R204D)
+### <a name="R204D">Planetary Characteristics (R204D)</a>
 Within each system, each planet has various characteristics. This includes the
 two map tiles used to form the planet, its gravity, and atmosphere. All
 planets within a star system have the same political structure, and are in
@@ -285,7 +285,7 @@ constant communication. Travel in orbits, or from one planet to another
 planetary governments concentrate their interest on ships arriving from
 hyperspace, and at the various spaceports and stations.
 
-### Gravity (R204E)
+### <a name="R204E">Gravity (R204E)</a>
 The gravity factor of a planet varies from 1 to 16, the higher number
 indicating a stronger pull. A gravity of 10 or more prevents a ship’s boat
 from climbing to orbit (it lacks sufficient fuel and power), although the boat
@@ -294,7 +294,7 @@ stations have a gravity factor of 0, as do ships in orbit, although spin and
 small accelerations, or the minor mass of the asteroid, provide a light
 gravity effect on people and items.
 
-### Atmosphere (R204F)
+### <a name="R204F">Atmosphere (R204F)</a>
 A planet’s atmosphere is rated as “good,” “bad” or “no” air. Regardless of
 planet atmosphere, land areas with white letters as their title all have good
 air (on bad or no air planets, they have domes or force screens). In bad or no
@@ -307,7 +307,7 @@ good air. No skimmer can function in “no air.” No air also prevents starship
 and ship’s boat from making a powerless glide landing; instead, a powered
 landing is needed (which uses fuel).
 
-### Land Areas (R204G)
+### <a name="R204G">Land Areas (R204G)</a>
 Each planet is composed of two map tiles, joined in a circular shape. The
 planet has various colored symbols on it, each symbol is a “land area.” Each
 symbol has a name indicating its type, and additional codes for special
@@ -337,7 +337,7 @@ possible between without life support, even on a bad or no air planet.
 number is the distance in “land steps” between areas. See travel rules (R203A)
 for time needed to traverse a land step.
 
-## R205 Area Types
+## <a name="R205">R205 Area Types</a>
 There are sixteen different types of areas on planets, each with a different
 map tile symbol. Sometimes a contact try (R227) will reference one of the
 paragraphs below, which simply means you roll 2d6 dice to determine which
@@ -354,7 +354,7 @@ represents the difficulty of dealing with local directories, languages,
 communication problems, and the fact that the items or services you desire may
 be rare, already “booked up” for a period, etc.
 
-### City (R205A)
+### <a name="R205A">City (R205A)</a>
 An extensive built-up area with a large population. There are many
 opportunities to buy and sell items. Banking and medical centers are present.
 Each roll takes one hour, roll two dice (2d6):
@@ -373,7 +373,7 @@ Each roll takes one hour, roll two dice (2d6):
 | 11  | hire driver (E062)          |
 | 12  | hire medic (E065)           |
 
-### Colony (R205B)
+### <a name="R205B">Colony (R205B)</a>
 A residence outpost on a planet, it can supply nearly every need of the
 colonists that live on planet. It is very difficult for an outsider to pass
 without notice in a colony. Banks and medical centers are present. Each roll
@@ -393,96 +393,103 @@ takes one hour, roll two dice (2d6):
 | 11  | skimmer (E033)                                                         |
 | 12  | skimmer guns (E051)                                                    |
 
-### Craters (R205C)
+### <a name="R205C">Craters (R205C)</a>
 A cratered region due to natural causes when the planet was formed, or the
 result of planet-wide wars in the past or present. It is not possible to
 purchase goods or services here, but items may be found. Anything found is
 free (there is no charge to you). Each roll takes six hours, roll one die
 (1d6):
 
-1 no more rolls
-2 special event (E070)
-3 damaged utility suit (R213) that requires one repair unit (R219)
-4 damaged robot that requires one repair unit (R219),
- roll 1d6 again for type of robot:
- 1-3 PS robot (R222C), 4-6 U robot (R222B)
-5 undamaged heavy hand weapon (E049) of system’s tech level
-6 special event (E085)
+| D6  | Result                                                                 |
+|-----|------------------------------------------------------------------------|
+|  1  | no more rolls                                                          |
+|  2  | special event (E070)                                                   |
+|  3  | damaged utility suit (R213) that requires one repair unit (R219)       |
+|  4  | damaged robot that requires one repair unit (R219), roll 1d6 again for type of robot: 1-3 PS robot (R222C), 4-6 U robot (R222B) |
+|  5  | undamaged heavy hand weapon (E049) of system’s tech level              |
+|  6  | special event (E085)                                                   |
 
-### Gambling (R205D)
+### <a name="R205D">Gambling (R205D)</a>
 This is an area dedicated to games of chance, sports, and a wide variety of
 recreational activities. You may win money here (or lose it), make contact
 with the underworld, or run afoul of the law. Banking facilities are present.
 Each roll takes one hour:
 
-roll two dice (2d6):
-2 heavy hand weapon (E048)
-3 no more rolls
-4 sidearms (E047)
-5 hire driver (E062)
-6 hire bodyguard (E064)
-7 gamble (E071)
-8 commercial transport (E074)
-9 hire repairman (E060)
-10 hire medic (E065)
-11 fuel units (E027)
-12 hire starship gunner (E069).
+| 2D6 | Result                      |
+|-----|-----------------------------|
+|  2  | heavy hand weapon (E048)    |
+|  3  | no more rolls               |
+|  4  | sidearms (E047)             |
+|  5  | hire driver (E062)          |
+|  6  | hire bodyguard (E064)       |
+|  7  | gamble (E071)               |
+|  8  | commercial transport (E074) |
+|  9  | hire repairman (E060)       | 
+| 10  | hire medic (E065)           |
+| 11  | fuel units (E027)           |
+| 12  | hire starship gunner (E069) |
 
-### Industrial (R205E)
+### <a name="R205E">Industrial (R205E)</a>
 An area of industrial research and manufacturing. This is a good area to buy
 equipment. Banking facilities are present. Each roll takes two hours; roll two
 dice (2d6):
 
-2 hire starship engineer (E067)
-3 skimmer (E033) and/or skimmer guns (E051)
-4 PS robot (E060) and/or GM robot (E037)
-5 U robot (E041)
-6 hire repairman (E060)
-7 repair units (E030)
-8 fuel units (E026)
-9 commercial transport (E074);
-10 life support units (E028)
-11 utility suits (E043) and/or sidearms (E046)
-12 buy/install stasis units (E057)
+| 2D6 | Result                                      |
+|-----|---------------------------------------------|
+|  2  | hire starship engineer (E067)               |
+|  3  | skimmer (E033) and/or skimmer guns (E051)   |
+|  4  | PS robot (E060) and/or GM robot (E037)      |
+|  5  | U robot (E041)                              |
+|  6  | hire repairman (E060)                       |
+|  7  | repair units (E030)                         |
+|  8  | fuel units (E026)                           |
+|  9  | commercial transport (E074)                 |
+| 10  | life support units (E028)                   |
+| 11  | utility suits (E043) and/or sidearms (E046) |
+| 12  | buy/install stasis units (E057)             |
 
-### Military (R205F)
+### <a name="R205F">Military (R205F)</a>
 Military bases and installations have tight security and are generally risky to
 penetrate. If you can make contact, you may be able to buy military weaponry.
 Banking facilities are available inside the base, but medical are not (the
 military send all nonmilitary personnel to civilian hospitals!). Each roll
 takes four hours; roll one die (1d6):
 
-1 only buy heavy hand weapons (E050)
-2 special event (E086)
-3 no more rolls
-4 only buy boat guns (E054)
-5 only buy military utility suits (E044)
-6 hire starship gunner (E069)
+| D6 | Result                                 |
+|----|----------------------------------------|
+|  1 | only buy heavy hand weapons (E050)     |
+|  2 | special event (E086)                   |
+|  3 | no more rolls                          |
+|  4 | only buy boat guns (E054)              |
+|  5 | only buy military utility suits (E044) |
+|  6 | hire starship gunner (E069)            |
 
-### Mining (R205G)
+### <a name="R205G">Mining (R205G)</a>
 Mining facilities tend to be far from civilization, and this area type does not
 have life support automatically (workers have their own life support if on a
 world with bad or no air). Each roll takes three hours; roll two dice (2d6):
 
-2 hire mobile repairman (E061)
-3 no more rolls
-4 fuel units (E027)
-5 hire bodyguard (E063)
-6 special event (E072)
-7 life support units (E028)
-8 repair units (E030)
-9 hire driver (E062)
-10 utility suits (E044)
-11 commercial transport (E074)
-12 U robot (E041)
+| 2D6 | Result                       |
+|-----|------------------------------|
+|  2  | hire mobile repairman (E061) |
+|  3  | no more rolls                |
+|  4  | fuel units (E027)            |
+|  5  | hire bodyguard (E063)        |
+|  6  | special event (E072)         |
+|  7  | life support units (E028)    |
+|  8  | repair units (E030)          |
+|  9  | hire driver (E062)           |
+| 10  | utility suits (E044)         |
+| 11  | commercial transport (E074)  |
+| 12  | U robot (E041)               |
 
-### Palace (R205H)
+### <a name="R205H">Palace (R205H)</a>
 This is the extensive and elaborate lodging of the royal or political family in
 power on the planet. There are no items or services regularly for sale, so no
 dice rolls are given. All contact results in special events. As you might
 imagine, palaces are normally well guarded.
 
-### Prison (R205I)
+### <a name="R205I">Prison (R205I)</a>
 The area for storage of criminals and other enemies of society. A prison is
 normally easier to enter than to leave. Prisoners with life sentences are
 normally packed into 1 CU Stasis Units (R212E), to save on food and guard
@@ -490,19 +497,21 @@ requirements. As a result, stasis units of 1 and 2 CU are in common use,
 including some buying and selling. Each roll takes two hours, roll one die
 (1d6):
 
-1 special event (E073)
-2 no more rolls
-3 hire bodyguard (E064)
-4 special event (E087)
-5 stasis units in 1 CU or 2 CU sizes only (E057)
-6 no more rolls
+| D6 | Result                                         |
+|----|------------------------------------------------|
+|  1 | special event (E073)                           |
+|  2 | no more rolls                                  |
+|  3 | hire bodyguard (E064)                          |
+|  4 | special event (E087)                           |
+|  5 | stasis units in 1 CU or 2 CU sizes only (E057) |
+|  6 | no more rolls                                  |
 
-### Rough Terrain (R205J)
+### <a name="R205J">Rough Terrain (R205J)</a>
 A rugged area of poor visibility (rocks, caves, thick vegetation if planet has
 air, etc.). Rough terrain is a good place for fugitives, and tends to have
 rough inhabitants. There are no goods or services regularly for sale.
 
-### Ruins (R205K)
+### <a name="R205K">Ruins (R205K)</a>
 The abandoned and decrepit remains of former civilization. Ruins may be
 searched for usable items, but equipment found here is at technology level 20
 points below the normal planetary tech code (with a minimum tech code of 10 or
@@ -935,12 +944,12 @@ was successful (see R212D). To determine the Risk Factor, add together all the
 situations below. If no situations apply, the factor is automatically zero and
 the jump cannot fail (will always be successful):
 
-+5 jump from surface of a planet
-+4 jump from orbit, at an asteroid, or on a space station
-+3 jump from one sublight move “out” from above (see R212G)
-+2 jump from two sublight moves “out”
-+1 jump from three sublight moves “out”
-+1 for each point of damage (hit) on the starship
+| +5 | jump from surface of a planet                            |
+| +4 | jump from orbit, at an asteroid, or on a space station   |
+| +3 | jump from one sublight move “out” from above (see R212G) |
+| +2 | jump from two sublight moves “out”                       |
+| +1 | jump from three sublight moves “out”                     |
+| +1 | for each point of damage (hit) on the starship           |
 
 ### Results of Hyperdrive Jump (R212D)
 See R212C to compute results.
