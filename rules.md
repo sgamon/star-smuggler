@@ -68,28 +68,28 @@ Depew. Re-designed components and player aids by Todd Sanders.
 
 
 # Rules
-|-------------------------------------|---------------------------------|
-| <a href="#R201">R201 Characters</a> | <a href="#R201">R222 Robots</a> |
-| <a href="#R202">R202 Cunning</a> | <a href="#R201">R223 Hirelings’ Equipment</a> |
-| <a href="#R203">R203 Daily Actions</a> | <a href="#R201">R224 Encounters</a> |
-| <a href="#R204">R204 Maps & Classifications</a> | <a href="#R201">R225 Entry Detection/Encounters</a> |
-| <a href="#R205">R205 Area Types</a> | <a href="#R201">R226 System Entry Encounters</a> |
-| <a href="#R206">R206 Asteroids</a> | <a href="#R201">R227 Contact Try Encounters</a> |
-| <a href="#R207">R207 Guide to the Pavonis Sector</a> | <a href="#R201">R228 Ship’s Papers, ID, Wanted</a> |
-| <a href="#R208">R208 Random System Connections</a> | <a href="#R201">R229 Cargo, Goods and Services</a> |
-| <a href="#R209">R209 Random System Design</a> | <a href="#R201">R230 Combat</a> |
-| <a href="#R210">R210 Vehicles & Equipment</a> | <a href="#R201">R231 Wounds & Endurance</a> |
-| <a href="#R211">R211 CU, RU and FU</a> | <a href="#R201">R232 Record keeping</a> |
-| <a href="#R212">R212 Antelope Class Starship</a> | <a href="#R201">R233 Entry & Contact Table</a> |
-| <a href="#R213">R213 Life Support</a> | <a href="#R201">R234 Sector: System Connections</a> |
-| <a href="#R214">R214 Ship’s Boat</a> | <a href="#R201">R235 Tech Level of Equipment</a> |
-| <a href="#R215">R215 Planetary Vehicles</a> | <a href="#R201">R236 Equipment Table</a> |
-| <a href="#R216">R216 Weaponry</a> | <a href="#R201">R237 Critical Hit Table</a> |
-| <a href="#R217">R217 Damage</a> | <a href="#R201">R238 Entry Detection Table</a> |
-| <a href="#R218">R218 Breakdown</a> | <a href="#R201">R240 Recovery from Stasis Table</a> |
-| <a href="#R219">R219 Repair</a> | <a href="#R201">R241 Base Price Multiplier Table</a> |
-| <a href="#R220">R220 Retinue</a> | <a href="#R201">R242 Cache Factor Table</a> |
-| <a href="#R221">R221 Roles of Hirelings</a> | <a href="#R201">R300+ Rules References</a> |
+
+| <a href="#R201">R201 Characters</a>                  | <a href="#R201">R222 Robots</a>                      |
+| <a href="#R202">R202 Cunning</a>                     | <a href="#R201">R223 Hirelings’ Equipment</a>        |
+| <a href="#R203">R203 Daily Actions</a>               | <a href="#R201">R224 Encounters</a>                  |
+| <a href="#R204">R204 Maps & Classifications</a>      | <a href="#R201">R225 Entry Detection/Encounters</a>  |
+| <a href="#R205">R205 Area Types</a>                  | <a href="#R201">R226 System Entry Encounters</a>     |
+| <a href="#R206">R206 Asteroids</a>                   | <a href="#R201">R227 Contact Try Encounters</a>      |
+| <a href="#R207">R207 Guide to the Pavonis Sector</a> | <a href="#R201">R228 Ship’s Papers, ID, Wanted</a>   |
+| <a href="#R208">R208 Random System Connections</a>   | <a href="#R201">R229 Cargo, Goods and Services</a>   |
+| <a href="#R209">R209 Random System Design</a>        | <a href="#R201">R230 Combat</a>                      |
+| <a href="#R210">R210 Vehicles & Equipment</a>        | <a href="#R201">R231 Wounds & Endurance</a>          |
+| <a href="#R211">R211 CU, RU and FU</a>               | <a href="#R201">R232 Record keeping</a>              |
+| <a href="#R212">R212 Antelope Class Starship</a>     | <a href="#R201">R233 Entry & Contact Table</a>       |
+| <a href="#R213">R213 Life Support</a>                | <a href="#R201">R234 Sector: System Connections</a>  |
+| <a href="#R214">R214 Ship’s Boat</a>                 | <a href="#R201">R235 Tech Level of Equipment</a>     |
+| <a href="#R215">R215 Planetary Vehicles</a>          | <a href="#R201">R236 Equipment Table</a>             |
+| <a href="#R216">R216 Weaponry</a>                    | <a href="#R201">R237 Critical Hit Table</a>          |
+| <a href="#R217">R217 Damage</a>                      | <a href="#R201">R238 Entry Detection Table</a>       |
+| <a href="#R218">R218 Breakdown</a>                   | <a href="#R201">R240 Recovery from Stasis Table</a>  |
+| <a href="#R219">R219 Repair</a>                      | <a href="#R201">R241 Base Price Multiplier Table</a> |
+| <a href="#R220">R220 Retinue</a>                     | <a href="#R201">R242 Cache Factor Table</a>          |
+| <a href="#R221">R221 Roles of Hirelings</a>          | <a href="#R201">R300+ Rules References</a>           |
 
 ## <a name="R201">R201 Characters</a>
 Each character in the game has three ratings: Marksmanship (“M”), Hand-to-Hand
