@@ -520,45 +520,39 @@ points below the normal planetary tech code (with a minimum tech code of 10 or
 the planetary code, whichever is less); ignore purchase prices, all found
 equipment is free. Each roll takes five hours; roll two dice (2d6):
 
-2 wrecked ship’s boat with 1d6 points of damage, roll 1d6 again, on a 5 or 6 result no repair is possible, but
- you may cannibalize it for two repair units — boat contains no useful cargo or guns, and cannot be moved
- until fully repaired (R214)
-3 find one intact robot, roll 1d6 again for type
- 1-4 U robot (R222B)
- 5 PS robot (R222C)
- 6 GM robot (R222A)
-4 find intact skimmer with no fuel
-5 find 1d6 damaged utility suits, each requires one repair unit, after which another 1d6 roll is needed, result
- of 4-6 means the suit is still unsafe and must be discarded
-6 special event (E084)
-7 find damaged skimmer, roll 1d6 again, 1-5-requires one repair unit, 6-cannot be repaired but can be
- cannibalized for one repair unit instead
-8 special event (E088)
-9 find one damaged robot that requires one repair unit to fix, roll 1d6 for type of robot,
- 1-4 U robot (R222B)
- 5 PS robot (R222C)
- 6 GM robot (R222A)
-10 find one sidearm
-11 ind one repair unit
-12 find one intact utility suit in a completely destroyed vehicle
+| 2D6 | Result                                                                 |
+|-----|------------------------------------------------------------------------|
+|  2  | wrecked ship’s boat with 1d6 points of damage, roll 1d6 again, on a 5 or 6 result no repair is possible, but you may cannibalize it for two repair units — boat contains no useful cargo or guns, and cannot be moved  until fully repaired (R214) |
+|  3  | find one intact robot, roll 1d6 again for type: 1-4 U robot (R222B), 5 PS robot (R222C), 6 GM robot (R222A) |
+|  4  | find intact skimmer with no fuel                                       |
+|  5  | find 1d6 damaged utility suits, each requires one repair unit, after which another 1d6 roll is needed, result of 4-6 means the suit is still unsafe and must be discarded |
+|  6  | special event (E084)                                                   |
+|  7  | find damaged skimmer, roll 1d6 again, 1-5-requires one repair unit, 6-cannot be repaired but can be cannibalized for one repair unit instead |
+|  8  | special event (E088)                                                   |
+|  9  | find one damaged robot that requires one repair unit to fix, roll 1d6 for type of robot: 1-4 U robot (R222B), 5 PS robot (R222C), 6 GM robot (R222A) |
+| 10  | find one sidearm                                                       |
+| 11  | find one repair unit                                                   |
+| 12  | find one intact utility suit in a completely destroyed vehicle         |
 
-### Rural (R205L)
+### <a name="R205L">Rural (R205L)</a>
 An area where food is grown in a life-support environment. Banking facilities 
 are present here. Each roll takes three hours; roll two dice (2d6):
 
-2 one sidearm (E046)
-3 no more rolls
-4 hire driver (E062)
-5 hire mobile repairman (E061)
-6 fuel units (E027)
-7 life support units (E028)
-8 commercial transport (E074)
-9 repair units (E031)
-10 one U robot (E041)
-11 hire medic (E065)
-12 hire bodyguard (E063)
+| 2D6 | Result                       |
+|-----|------------------------------|
+|  2  | one sidearm (E046)           |
+|  3  | no more rolls                |
+|  4  | hire driver (E062)           |
+|  5  | hire mobile repairman (E061) |
+|  6  | fuel units (E027)            |
+|  7  | life support units (E028)    |
+|  8  | commercial transport (E074)  |
+|  9  | repair units (E031)          |
+| 10  | one U robot (E041)           |
+| 11  | hire medic (E065)            |
+| 12  | hire bodyguard (E063)        |
 
-### Scientific (R205M)
+### <a name="R205M">Scientific (R205M)</a>
 An area where scientific research and development is performed. Items purchased
 here are considered one tech level higher than normal (after tech code and
 normal die roll determines tech level). If an item from here breaks down, it
@@ -566,19 +560,21 @@ must be returned to this area on this planet for repair, or repaired by an
 engineer you hired from here. Banking facilities are present. Each roll takes
 one hour; roll two dice (2d6):
 
-2 stasis units of any size (E057)
-3 no more rolls
-4 special event (E075)
-5 hire starship engineer (E067)
-6 hire repairman (E060)
-7 commercial transport (E074)
-8 PS robot (E039) or GM robot (E037)
-9 U robot (E041) or utility suits (E043)
-10 sidearms (E045) or heavy hand weapons (E048)
-11 skimmer gun (E051) or boat gun (E053)
-12 starship guns (E055)
+| 2D6 | Result                                       |
+|-----|----------------------------------------------|
+|  2  | stasis units of any size (E057)              |
+|  3  | no more rolls                                |
+|  4  | special event (E075)                         |
+|  5  | hire starship engineer (E067)                |
+|  6  | hire repairman (E060)                        |
+|  7  | commercial transport (E074)                  |
+|  8  | PS robot (E039) or GM robot (E037)           |
+|  9  | U robot (E041) or utility suits (E043)       |
+| 10  | sidearms (E045) or heavy hand weapons (E048) |
+| 11  | skimmer gun (E051) or boat gun (E053)        |
+| 12  | starship guns (E055)                         |
 
-### Slum Area (R205N)
+### <a name="R205N">Slum Area (R205N)</a>
 A region of poverty and high crime. Slums are dangerous for outsiders to enter, 
 but have an opportunity to buy and sell a wide range of items, often at 
 inflated prices. Banking facilities are present. Each roll takes two hours, 
@@ -596,7 +592,7 @@ roll two dice (2d6):
 11 skimmer gun (E052) or boat gun (E054)
 12 hire medic (E065) without papers
 
-### Spaceport (R205O)
+### <a name="R205O">Spaceport (R205O)</a>
 The normal landing port for star ships and orbital shuttles. It is the standard
 location to purchase star ships and equipment, as well as hiring a ship’s
 crew. Banking facilities are present. Each roll takes one hour; roll two dice
