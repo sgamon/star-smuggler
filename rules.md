@@ -69,6 +69,8 @@ Depew. Re-designed components and player aids by Todd Sanders.
 
 # Rules
 
+|                                                      |                                                      |
+|------------------------------------------------------|------------------------------------------------------|
 | <a href="#R201">R201 Characters</a>                  | <a href="#R201">R222 Robots</a>                      |
 | <a href="#R202">R202 Cunning</a>                     | <a href="#R201">R223 Hirelings’ Equipment</a>        |
 | <a href="#R203">R203 Daily Actions</a>               | <a href="#R201">R224 Encounters</a>                  |
