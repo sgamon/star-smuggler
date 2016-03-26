@@ -1,8 +1,8 @@
 {
   "name": "star-smuggler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A project to convert the paper game _Star Smuggler_ to an electronic format.",
-  "main": "README.md",
+  "main": "rules.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
