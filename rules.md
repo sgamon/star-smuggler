@@ -11,8 +11,8 @@ paragraphs (E000 numbers).
 
 You can learn this game as you play. Simply start with the first event (E001
 and then read sections as necessary. You may find it convenient to read
-important rules sections first, including R203, R212, R221, R230 and R232, or
-if ambitious, read all the rules sections first (R201-R232).
+important rules sections first, including (R203), (R212), (R221), (R230) and 
+(R232), or if ambitious, read all the rules sections first (R201-R232).
 
 A pencil and some paper is needed for this game — to keep track of your
 possessions, current situation, special events, etc. You may even wish to
@@ -580,17 +580,19 @@ but have an opportunity to buy and sell a wide range of items, often at
 inflated prices. Banking facilities are present. Each roll takes two hours, 
 roll two dice (2d6):
 
-2 hire starship pilot/navigator (E066) or starship engineer (E067) although neither has papers
-3 buy U robot (E042), PS robot (E040), and/or GM robot (E038) although serial number plates are removed
-4 no more rolls
-5 fuel units (E027), life support units (E029) and/or repair units (E031)
-6 hire driver (E062) or buy/sell skimmer (E033)
-7 special event (E076)
-8 hire bodyguard (E064)
-9 sidearms (E047) or heavy hand weapons (E049)
-10 commercial transport (E074)
-11 skimmer gun (E052) or boat gun (E054)
-12 hire medic (E065) without papers
+| 2D6 | Result                                                                 |
+|-----|------------------------------------------------------------------------|
+|  2  | hire starship pilot/navigator (E066) or starship engineer (E067) although neither has papers |
+|  3  | buy U robot (E042), PS robot (E040), and/or GM robot (E038) although serial number plates are removed |
+|  4  | no more rolls                                                          |
+|  5  | fuel units (E027), life support units (E029) and/or repair units (E031) |
+|  6  | hire driver (E062) or buy/sell skimmer (E033)                          |
+|  7  | special event (E076)                                                   |
+|  8  | hire bodyguard (E064)                                                  |
+|  9  | sidearms (E047) or heavy hand weapons (E049)                           |
+| 10  | commercial transport (E074)                                            |
+| 11  | skimmer gun (E052) or boat gun (E054)                                  |
+| 12  | hire medic (E065) without papers                                       |
 
 ### <a name="R205O">Spaceport (R205O)</a>
 The normal landing port for star ships and orbital shuttles. It is the standard
@@ -598,17 +600,19 @@ location to purchase star ships and equipment, as well as hiring a ship’s
 crew. Banking facilities are present. Each roll takes one hour; roll two dice
 (2d6):
 
-2 stasis units of any size (E057)
-3 no more rolls
-4 starship (E036) or starship guns (E055)
-5 ship’s boat (E034) or boat guns (E053)
-6 commercial transport (E074) including orbital shuttles (R215A)
-7 hypercharges (E025), fuel units (E026) and/or life support units (E028)
-8 utility suits (E043) and/or repair units (E030)
-9 GM robots (E037), PS robots (E039), and/or U robots (E041)
-10 starship engineer (E067) and/or starship gunner (E068)
-11 starship pilot/navigator (E066)
-12 medic (E065)
+| 2D6 | Result                                                                 |
+|-----|------------------------------------------------------------------------|
+|  2  | stasis units of any size (E057)                                        |
+|  3  | no more rolls                                                          |
+|  4  | starship (E036) or starship guns (E055)                                |
+|  5  | ship’s boat (E034) or boat guns (E053)                                 |
+|  6  | commercial transport (E074) including orbital shuttles (R215A)         |
+|  7  | hypercharges (E025), fuel units (E026) and/or life support units (E028) |
+|  8  | utility suits (E043) and/or repair units (E030)                        |
+|  9  | GM robots (E037), PS robots (E039), and/or U robots (E041)             |
+| 10  | starship engineer (E067) and/or starship gunner (E068)                 |
+| 11  | starship pilot/navigator (E066)                                        |
+| 12  | medic (E065)                                                           |
 
 ### Space Station (R205P)
 Similar but smaller version of a star port, in orbit around the planet or near
@@ -616,17 +620,19 @@ the asteroid belt. Conditions are cramped and prices higher, with few
 opportunities for profit unless contraband is gotten through customs. Banking
 facilities are present. Each roll takes one hour; roll two dice (2d6):
 
-2 hire repairman (E060)
-3 no more rolls
-4 ship’s boat (E035) or boat guns (E056)
-5 utility suits (E044)
-6 fuel units (E027), life support units (E029) and/or repair units (E031)
-7 hypercharges (E025)
-8 orbital shuttle (E074 for rates, R215A for operation)
-9 buy/install stasis units (E057)
-10 hire starship engineer (E067)
-11 hire starship pilot/navigator (E066)
-12 hire starship gunner (E068)
+| 2D6 | Result                                                                 |
+|-----|------------------------------------------------------------------------|
+|  2  | hire repairman (E060)                                                  |
+|  3  | no more rolls                                                          |
+|  4  | ship’s boat (E035) or boat guns (E056)                                 |
+|  5  | utility suits (E044)                                                   |
+|  6  | fuel units (E027), life support units (E029) and/or repair units (E031) |
+|  7  | hypercharges (E025)                                                    |
+|  8  | orbital shuttle (E074 for rates, R215A for operation)                  |
+|  9  | buy/install stasis units (E057)                                        |
+| 10  | hire starship engineer (E067)                                          |
+| 11  | hire starship pilot/navigator (E066)                                   |
+  12  | hire starship gunner (E068)                                            |
 
 ## R206 Asteroids
 One game tile represents an asteroid belt, rather than half a planetary
@@ -789,10 +795,13 @@ shown in R234. A line between two systems indicates they are one jump apart.
 You may redesign any or all of the star systems. To create a new system, 
 roll 1d6 to determine the overall composition of the system:
 
-1-2 one planet
-3 one planet and asteroids
-4-5 two planets
-6 two planets and asteroids
+|  D6 | Result                    |
+|-----|---------------------------|
+|  2  | hire repairman (E060)     |
+| 1-2 | one planet                |
+|  3  | one planet and asteroids  |
+| 4-5 | two planets               |
+|  6  | two planets and asteroids |
 
 Next shuffle together all the planetary tiles except asteroids, and randomly 
 draw two for the first planet, and if there is a second, draw two more. This 
@@ -802,25 +811,30 @@ To determine gravity, roll 3d6 and subtract two (3d6-2).
 
 To determine atmosphere, roll 2d6:
 
-2-3 is no air
-4-9 is good air
-10-12 is bad air
+| 2D6   | Result                    |
+|-------|---------------------------|
+|  2    | hire repairman (E060)     |
+| 2-3   | is no air                 |
+| 4-9   | is good air               |
+| 10-12 | is bad air                |
 
 The designer recommends that other characteristics for a system remain 
 unchanged, including name, description, wealth, and tech codes. However, if 
 you wish to create new wealth and tech codes, a 2d6 roll can be used:
 
-2 0 (10 if a tech code)
-3 10
-4 15
-5 20
-6 25
-7 30
-8 40
-9 50
-10 60
-11 70
-12 100
+| 2D6 | Result                |
+|-----|-----------------------|
+|  2  | 0 (10 if a tech code) |
+|  3  | 10                    |
+|  4  | 15                    |
+|  5  | 20                    |
+|  6  | 25                    |
+|  7  | 30                    |
+|  8  | 40                    |
+|  9  | 50                    |
+| 10  | 60                    |
+| 11  | 70                    |
+| 12  | 100                   |
 
 ## R210 Vehicles / Equipment
 There are various ways to travel, including on foot, and in various vehicles.
@@ -942,6 +956,8 @@ was successful (see R212D). To determine the Risk Factor, add together all the
 situations below. If no situations apply, the factor is automatically zero and
 the jump cannot fail (will always be successful):
 
+| RF | Result                                                   |
+|----|----------------------------------------------------------|
 | +5 | jump from surface of a planet                            |
 | +4 | jump from orbit, at an asteroid, or on a space station   |
 | +3 | jump from one sublight move “out” from above (see R212G) |
@@ -2213,12 +2229,12 @@ other type of equipment, this is a normal tech level 1 result.
 | Skimmer                |      (R215C)      | 10 | internal capacity of 6 CU |
 | Ship’s Boat            |      (R214)       | 40 | internal capacity 25 CU min 5 CU pilotage, max 15 CU fuel |
 | Commercial Vehicle     |      (R215B)      |    | internal capacity 9 CU |
-| Orbital Shuttle        |      (R215A)      | -  | internal capacity 50 CU |
-| Starship               |      (R212)       | -  | internal capacity 128 CU unarmed |
+| Orbital Shuttle        |      (R215A)      |  - | internal capacity 50 CU |
+| Starship               |      (R212)       |  - | internal capacity 128 CU unarmed |
 | GM Robot               |      (R222A)      |  1 | general maintenance (preventive) |
 | U Robot                |      (R222B)      |  1 | utility type, carries 3 CU |
 | PS Robot               |      (R222C)      |  1 | personal support (LSU, first aid) |
-| Hypercharge            |      (R212B)      |    | for starships only, carried in special area |
+| Hypercharge            |      (R212B)      |  - | for starships only, carried in special area |
 
 ## R237 Critical Hit Table: Vehicles
 
@@ -3905,15 +3921,19 @@ roll and consult results below:
 | 5-6 | servant will let you steal two artworks, each 1 CU size, which can be sold in any city off this planet for a base price (R229A) of 200 S each |
 |  7  | servant takes your money and turns you in: to the palace guards! see E160 |
 |  8  | servant is a secret police agent, floods the room with sleep-gas, you wake up in jail — see E023 |
-|  9  | you are conducted to the chamber of a royal princess (or prince, if you prefer) for a night of unimaginable bliss, roll 1d6 tomorrow morning for results |
-
-  | 1-2 | unsatisfactory performance, the guards are called, see E160          |
-  | 3-5 | pleasing performance, you are given 1,000 S gift                     |
-  |  6  | she falls in love with you, wants to leave for a life of adventure, although she is E3, M0, H1 and penniless! her family will pay you 50,000 S for her safe return to the palace within five weeks (50 days) otherwise you become “wanted” (R228) in the system |
-
+|  9  | you are conducted to the chamber of a royal princess (or prince, if you prefer) for a night of unimaginable bliss, roll 1d6 on Bliss table tomorrow morning for results |
 | 10  | you may steal a collection of rare books from the palace, 18 CU in size, and worth 6,500 S base price (R229A) at any other palace |
 | 11  | you may steal the pet starfleeter of the King — a starfleeter is an alien lifeform with a psionic power of 20 that immediately attacks all persons in your party, evenly distributing its strength to each (see E022), and each following day it makes another such attack, until it is exposed to vacuum which causes suspended animation for one week after which roll 1d6: 1-5 it revives 6 it dies — a starfleeter is worth 5,000 S base price (R229A) anywhere in the New Karma system |
 | 12  | you may attempt to steal the crown jewels tonight; determine the makeup of your party, then consult E059; if you survive that, you take the jewels; they can be sold to any gem dealer for a base price (R229A) of 60,000 S and occupy 2 CU of space; any customs agent or inspector will recognize them instantly if found, and at that point (and only then) you will become “wanted” in this system. |
+
+### Bliss
+
+| D6  | Result                                                                 |
+|-----|------------------------------------------------------------------------|
+| 1-2 | unsatisfactory performance, the guards are called, see (E160).         |
+| 3-5 | pleasing performance, you are given 1,000 S gift                       |
+|  6  | she falls in love with you, wants to leave for a life of adventure, although she is E3, M0, H1 and penniless! her family will pay you 50,000 S for her safe return to the palace within five weeks (50 days) otherwise you become “wanted” (R228) in the system |
+
 
 ## E132 Wait or Flee Wardrone (takes 1 hour/round)
 Without hesitation the Nipnan drone speeds towards your ship, trying to strike
