@@ -2297,6 +2297,8 @@ R225.
 
 ### additions and subtractions (to detection factor) for area type:
 
+|    |                                       |
+|----|---------------------------------------|
 | +2 | entering Prison or Space Station area |
 | +1 | entering Military or Palace area      |
 | -1 | entering Rough Terrain or Ruins area  |
@@ -2345,12 +2347,15 @@ Determine cache factor by adding basic factor and all time modifiers; to recover
 a cache, 1d6 roll must be greater than the cache factor; see R229C
 
 ### Basic Cache Factor Time Modifiers for Cache Factor
-| 0 | in Asteroids Area +1 recover within 10-39 days of placement |
-| 1 | in Craters or Ruins Area +2 recover within 40-364 days of placement |
-| 2 | in Mining, Orbit, Rough, or Rural Area +3 recover within 1-99 years |
+
+|   |                                                                          |
+|---|--------------------------------------------------------------------------|
+| 0 | in Asteroids Area +1 recover within 10-39 days of placement              |
+| 1 | in Craters or Ruins Area +2 recover within 40-364 days of placement      |
+| 2 | in Mining, Orbit, Rough, or Rural Area +3 recover within 1-99 years      |
 | 3 | in City, Colony, Industrial or Scientific Area +4 recover within 100-999 years |
-| 4 | in Military or Slum Area +5 recover in 1,000 years or longer |
-| 5 | in any other land area. Spaceport, Space Station |
+| 4 | in Military or Slum Area +5 recover in 1,000 years or longer             |
+| 5 | in any other land area. Spaceport, Space Station                         |
 
 paragraphs R243 through R299 do not exist
 
@@ -2566,20 +2571,30 @@ You have the opportunity to buy the specific item mentioned below. Roll 1d6 to
 determine which item. You can only buy one. Actual cost is determined by using 
 rule R229A and table R241.
 
-
 | D6  | Result                                                                 |
 |-----|------------------------------------------------------------------------|
 |  1  | A complete set of papers for a starship and a starship pilot (R228). The papers are a good quality forgery, and take up no CU. |
 |  2  | A set of blueprints for a new type of robot, not yet available. These prints can be sold for double the base price in any other star system with Tech code 20 to 60 (determine actual selling price, based on doubled base price, using R229A and R241). Blueprints take up 1 CU of space. |
-|  3  | A vintage land vehicle that no longer functions, but is an interesting collector’s item. The vintage vehicle takes up 10 CU. It may be offered for sale at any palace. When you do, roll 1d6: |
+|  3  | A vintage land vehicle that no longer functions, but is an interesting collector’s item. The vintage vehicle takes up 10 CU. It may be offered for sale at any palace. When you do, see ((R333A)) |
+|  4  | Software for the military radar computers of this star system. You can attempt to sell them at any military base in any other star system. When you do, see (R333B). Software takes up 1 CU of space. |
+|  5  | Magnificent hypno-gem, that reveals incredible beauty to the viewer, but is very additive to use. Where laws against addictive drugs exist, this gem is illegal. You must locate an addict to sell it, but will make a grand profit if you do so. Gem in case takes 1 CU. |
+|  6  | A Mark III mining mole, complete with spare bearings. This may be sold in any mining area off this planet for a base price of triple the base price for purchase, with actual price determined by R229A and R241. The mole occupies 12 CU. You may reserve the mole for your own use, but this will consume the spare bearings, and halve (1/2) the final selling price. In use, the mole is similar to a skimmer, with an internal capacity of 6 CU. However, it can move underground at the same speed you can walk on foot. If used underground to enter an area, treaty as entry on foot with one added (+1) on the Entry Detection die roll (table R238). The maximum speed of the mole is walking on foot, treat riders in it as equivalent to foot speed. It requires one FU per day to run, but has a complete life support system inside that runs whenever fuel is being used. Any qualified skimmer driver can drive the mole. Skimmer guns can be mounted on the mole. |
+
+### Vintage Vehicle Price Table (R333A)
+
+Roll 1d6 for the result.
 
 | D6  | Result                                                               |
 |-----|----------------------------------------------------------------------|
 | 1-3 | they aren’t interested in vintage land vehicles |
-| 4-5 | they will pay three times base price (actual price then determined by R229A and R241) |
-|  6  | an eager collector offers five times base price (actual price determined by R229A and R241) |
+| 4-5 | they will pay three times base price (R333B) (actual price then determined by R229A and R241) |
+|  6  | an eager collector offers five times base price (R333B) (actual price determined by R229A and R241) |
 
-|  4  | Software for the military radar computers of this star system. You can attempt to sell them at any military base in any other star system. When you do, roll 1d6 for the result.  If you have Nipnan or Mynkurian software, add one (+1) to the above die roll, and if you are also selling to Mynkuria or Nipnan add two (+2) to the die roll. Results higher than “6” are still considered “6.” Software takes up 1 CU of space. |
+### Military Radar Software Price Table (R333B)
+
+Roll 1d6 for the result.  If you have Nipnan or Mynkurian software, add 
+one (+1) to  the die roll, and if you are also selling to Mynkuria or Nipnan 
+add two (+2) to the die roll. Results higher than “6” are still considered “6.” 
 
 | D6 | Result                                                               |
 |----|----------------------------------------------------------------------|
@@ -2590,8 +2605,6 @@ rule R229A and table R241.
 | 5  | offer you a base price of 2,000 for them                             |
 | 6  | offer you a base price of 10,000 for them                            |
 
-|  5  | Magnificent hypno-gem, that reveals incredible beauty to the viewer, but is very additive to use. Where laws against addictive drugs exist, this gem is illegal. You must locate an addict to sell it, but will make a grand profit if you do so. Gem in case takes 1 CU. |
-|  6  | A Mark III mining mole, complete with spare bearings. This may be sold in any mining area off this planet for a base price of triple the base price for purchase, with actual price determined by R229A and R241. The mole occupies 12 CU. You may reserve the mole for your own use, but this will consume the spare bearings, and halve (1/2) the final selling price. In use, the mole is similar to a skimmer, with an internal capacity of 6 CU. However, it can move underground at the same speed you can walk on foot. If used underground to enter an area, treaty as entry on foot with one added (+1) on the Entry Detection die roll (table R238). The maximum speed of the mole is walking on foot, treat riders in it as equivalent to foot speed. It requires one FU per day to run, but has a complete life support system inside that runs whenever fuel is being used. Any qualified skimmer driver can drive the mole. Skimmer guns can be mounted on the mole. |
  
 ## R334 Sell Items (Base Price 50 S)
 You have a chance to sell any of the items listed below, for the base price 
