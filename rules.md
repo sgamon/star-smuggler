@@ -1732,6 +1732,7 @@ Search Results:
 | 12  | searcher is an old acquaintance, you have no difficulties, nothing is actually searched |
 
 Results Codes for Searches:
+
 |     |                                                                        |
 |-----|------------------------------------------------------------------------|
 |  B  | boat hold and ship’s boat are searched                                 |
