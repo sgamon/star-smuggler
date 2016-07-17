@@ -11,8 +11,8 @@ paragraphs (<a href="#E000">E000</a> numbers).
 
 You can learn this game as you play. Simply start with the first event (<a href="#E001">E001</a>
 and then read sections as necessary. You may find it convenient to read
-important rules sections first, including (<a href="#R203">R203</a>), (<a href="#R212">R212</a>), (<a href="#R221">R221</a>), (<a href="#R230">R230</a>) and
-(<a href="#<a href="#R232">R232</a>">R232</a>), or if ambitious, read all the rules sections first (<a href="#R201">R201</a>-R232).
+important rules sections first, including (<a href="#R203">R203</a>), (<a href="#R212">R212</a>), (<a href="#R221">R221</a>), (<a href="#R230">R230</a>) and 
+(<a href="#R232">R232</a>), or if ambitious, read all the rules sections first (<a href="#R201">R201</a>-<a href="#R232">R232</a>).
 
 A pencil and some paper is needed for this game — to keep track of your
 possessions, current situation, special events, etc. You may even wish to
@@ -49,7 +49,7 @@ systems may wish to use this as an adventure or campaign guideline (with
 appropriate rules adjustments to suit their own RPG system). However, this
 game can be played many times, with many different results. Furthermore, the
 planets in the sector, and their attributes, can be changed from game to game
-for even greater variation.
+for even greater variation. 
 
 ## GAME EQUIPMENT
 Star Smuggler includes this instruction booklet, a separate events booklet, a
@@ -101,7 +101,7 @@ gunner, medic, driver, etc. Characters may possess certain items of equipment,
 whose quality depends on the “Tech Code” (technology level), or other items of
 worth, whose value depends on where they are bought and sold.
 
-The characters include yourself, the Star Smuggler Duke Springer (see <a href="#R201">R201</a>B),
+The characters include yourself, the Star Smuggler Duke Springer (see <a href="#R201B">R201B</a>),
 any followers in your crew or party, and any other characters, creatures, or
 robots encountered during the game. Characters can be friendly or hostile,
 intelligent or unintelligent.
@@ -109,28 +109,28 @@ intelligent or unintelligent.
 When a character joins your party, note his (or her) vital statistics as
 needed. You can voluntarily dismiss or abandon members of your party if you
 wish (sometimes expedient when making an escape, or if money or equipment runs
-short). Dismissal or abandonment may have penalties to you (<a href="#R220">R220</a>B). Characters
+short). Dismissal or abandonment may have penalties to you (<a href="#R220B">R220B</a>). Characters
 encountered who don’t join your party can be ignored after the event, they
 simply go on their way, and “disappear” from the game.
 
-To determine your own personal characteristics at the start of the game,
-see <a href="#R201">R201</a>B.
+To determine your own personal characteristics at the start of the game, 
+see <a href="#R201B">R201B</a>.
 
-### <a name="R201">Characteristics and Skills (R201A):</a>
+### <a name="R201A">Characteristics and Skills (R201A):</a>
 Marksmanship measures your ability to fire all ranged weapons (sidearms,
 skimmer guns, etc.) except starship guns (which require a special skill
 instead). The higher your rating, the better you shoot. Ratings range from 0
-to 6, if none is given, assume a 0 rating. See <a href="#R230">R230</a>D for rules on firing
+to 6, if none is given, assume a 0 rating. See <a href="#R230D">R230D</a> for rules on firing
 ranged weapons.
 
 Hand-to-hand measures your ability in close combat. The higher your rating, the
 better. Ratings range from 0 to 6. This handto-hand rating also determines
-defense against such attacks, see <a href="#R230">R230</a>G for details.
+defense against such attacks, see <a href="#R230G">R230G</a> for details.
 
 Endurance value is a measure of how much damage you can take in combat, and
 still survive. See <a href="#R231">R231</a> for detailed rules about wounds.
 
-### <a name="R201">Your Character — Duke Springer (R201B):</a>
+### <a name="R201B">Your Character — Duke Springer (R201B):</a>
 You begin play as the star smuggler, Duke Springer, a talented and experienced
 starship pilot who is having trouble being successful in legal commercial
 enterprises. You have a starship (Antelope-class), a speedy and versatile
@@ -169,9 +169,9 @@ get extra hours that day to finish it (an event will not carry over to the
 next day). Any other people in your party either travel with you, or stay
 behind doing little (see <a href="#R220">R220</a> for details).
 
-### <a name="R203">Travel (R203A)</a>
+### <a name="R203A">Travel (R203A)</a>
 During a normal day of travel and contact, you may travel about the land area
-(<a href="#R204">R204</a>G). You have the following travel options, provided the vehicle is
+(<a href="#R204G">R204G</a>). You have the following travel options, provided the vehicle is
 present and available:
 
 1. Walk on foot: travel one land step per day, or spend an hour to move to an adjacent (connected by triple line) area
@@ -179,7 +179,7 @@ present and available:
 1. Drive a skimmer: if you own one, one hour per step, see <a href="#R215">R215</a>.
 1. Fly the Ship’s Boat: 1/10 hour per step, 1 hour to go to or from orbit/space station, see <a href="#R214">R214</a> for details.
 1. Take the Orbital Shuttle: 1 hour to or from space station or spaceport, see <a href="#R215">R215</a> for details.
-1. Pilot Starship: 1/10 hour per step, 1 hour to or from orbit/space station, can also travel between planets (<a href="#<a href="#R212">R212</a>">R212</a>F-g) and between star systems (R212A-d).
+1. Pilot Starship: 1/10 hour per step, 1 hour to or from orbit/space station, can also travel between planets (<a href="#R212F">R212F</a>-g) and between star systems (<a href="#R212A">R212A</a>-d).
 
 When you travel, each new area entered requires a check for detection, with an
 entry event if detection occurs, see <a href="#R225">R225</a> for complete rules. You can travel
@@ -188,37 +188,37 @@ travel, and you have sufficient fuel (<a href="#R211">R211</a>) and life support
 necessary. You may alternate travel and contact activities in the same day,
 provided sufficient time remains.
 
-### <a name="R203">Contact (R203B)</a>
+### <a name="R203B">Contact (R203B)</a>
 During a day of travel and contact, you may attempt to make contacts. See <a href="#R227">R227</a>
 for details and procedure. Basically, in a contact try you consult the Entry &
 Contact Table (<a href="#R233">R233</a>) for the result, so it may take many attempts before you
 find what you are seeking (i.e., get the desired result).
 
-### <a name="R203">RRR — Rest, Recuperation & Repair (R203C)</a>
+### <a name="R203C">RRR — Rest, Recuperation & Repair (R203C)</a>
 This action is allowed only if you spend a full day (all 10 hours) doing it. No
 travel and no contact is allowed during an RRR day.
 
 At the start of an RRR day, first determine if an unwanted contact occurs (see
-<a href="#R227">R227</a>A). If nothing happens, you can spend the day repairing equipment (<a href="#R219">R219</a>)
+R<a href="#227A">227A</a>). If nothing happens, you can spend the day repairing equipment (<a href="#R219">R219</a>)
 or healing (<a href="#R231">R231</a>). A character cannot heal and repair at the same time, but
 some in your party could be healing while others are involved in repair work.
 If a repairman or mobile repairman is needed, you must have already arranged
 to have him (or it) present during the RRR day — searching for repairmen is
 not part of RRR.
 
-### <a name="R203">Breakdown (R203D)</a>
+### <a name="R203D">Breakdown (R203D)</a>
 At the end of each day, any vehicle or piece of equipment you used may break
-down. Consult <a href="#<a href="#R218">R218</a>">R218</a> for details. Preventive maintenance (R218B) avoids the
+down. Consult <a href="#R218">R218</a> for details. Preventive maintenance (<a href="#<a href="#R218">R218</a>B"><a href="#R218">R218</a>B</a>) avoids the
 danger of breakdown. Breakdown need not be checked for vehicles that didn’t
 move (even if providing life support and/or communications), or for starships
 and boats in orbit or docked at a space station. Breakdown of individual items
 (such as weapons) is separate from any vehicle carrying them, or any other
 device.
 
-### <a name="R203">Loan Payments (R203E)</a>
+### <a name="R203E">Loan Payments (R203E)</a>
 At the end of each 10-day week, a loan payment is due on your Antelope-class
 starship. The ship originally cost 120,000 Secs (Sector Exchange Units, the
-“money” used here, see <a href="#R232">R232</a>A), and your loan for this amount is 300 S interest
+“money” used here, see <a href="#R232A">R232A</a>), and your loan for this amount is 300 S interest
 due each 10-day week. In addition to interest, you can also pay back any part
 of the principal (the original 120,000 S) as well. Interest payments do not
 reduce the principal, and even if you pay some of the principal, interest
@@ -234,9 +234,9 @@ Incidentally, half the principal (60,000 S) is due ten years hence, and the
 rest of the principal (another 60,000 S) is due twenty years hence, but it’s
 unlikely you’ll play long enough to worry about this! Using banks to hold some
 of your money, you can have loan payments made from your account (in case you
-aren’t around a place with banks when the week is up). See <a href="#R232">R232</a>A for details.
+aren’t around a place with banks when the week is up). See <a href="#R232A">R232A</a> for details.
 
-### <a name="R203">Victory / Defeat (R203F)</a>
+### <a name="R203F">Victory / Defeat (R203F)</a>
 An overwhelming victory in this game is paying off your entire spaceship loan
 of 120,000 S, and have a substantial fortune left for high living (how much
 left determines the degree of victory you can keep on looking for more
@@ -257,12 +257,12 @@ system, and a unique mapping system for the various planets. The standard
 description of the sector is in <a href="#R207">R207</a>, but variants and modifications are
 possible (<a href="#R208">R208</a> & <a href="#R209">R209</a>).
 
-### <a name="R204">System Characteristics (R204A)</a>
+### <a name="R204A">System Characteristics (R204A)</a>
 Each star system has a wealth code, a technology (tech) code, and one or more
 planets, perhaps with a separate asteroid belt as well. Planets have varying
 tile layouts, gravity, atmosphere.
 
-### <a name="R204">Wealth Code (R204B)</a>
+### <a name="R204B">Wealth Code (R204B)</a>
 This code ranges from 0 to 100, and represents the general level of wealth and
 economic strength of the system. Generally, in wealthy systems things cost
 more, while in poorer systems things cost less. However, a high wealth code
@@ -270,7 +270,7 @@ system could still have numerous slums, with many discontents dwelling in
 utter poverty. Costs for goods and services will vary with the wealth code;
 often a cost multiplier is used after consulting the base price table (<a href="#R241">R241</a>).
 
-### <a name="R204">Tech Code (R204C)</a>
+### <a name="R204C">Tech Code (R204C)</a>
 This code ranges from 0 to 100, and represents the sophistication of equipment
 in use. Although all equipment is futuristic, high tech items work better, and
 are more powerful, than lower tech, but tend to break down more often. Often
@@ -278,7 +278,7 @@ high tech items bring good prices on low tech worlds, although it may be
 illegal to introduce such equipment for sale on certain worlds. Technology has
 important effects on weaponry (<a href="#R216">R216</a>) and on breakdown (<a href="#R218">R218</a>).
 
-### <a name="R204">Planetary Characteristics (R204D)</a>
+### <a name="R204D">Planetary Characteristics (R204D)</a>
 Within each system, each planet has various characteristics. This includes the
 two map tiles used to form the planet, its gravity, and atmosphere. All
 planets within a star system have the same political structure, and are in
@@ -287,7 +287,7 @@ constant communication. Travel in orbits, or from one planet to another
 planetary governments concentrate their interest on ships arriving from
 hyperspace, and at the various spaceports and stations.
 
-### <a name="R204">Gravity (R204E)</a>
+### <a name="R204E">Gravity (R204E)</a>
 The gravity factor of a planet varies from 1 to 16, the higher number
 indicating a stronger pull. A gravity of 10 or more prevents a ship’s boat
 from climbing to orbit (it lacks sufficient fuel and power), although the boat
@@ -296,7 +296,7 @@ stations have a gravity factor of 0, as do ships in orbit, although spin and
 small accelerations, or the minor mass of the asteroid, provide a light
 gravity effect on people and items.
 
-### <a name="R204">Atmosphere (R204F)</a>
+### <a name="R204F">Atmosphere (R204F)</a>
 A planet’s atmosphere is rated as “good,” “bad” or “no” air. Regardless of
 planet atmosphere, land areas with white letters as their title all have good
 air (on bad or no air planets, they have domes or force screens). In bad or no
@@ -309,7 +309,7 @@ good air. No skimmer can function in “no air.” No air also prevents starship
 and ship’s boat from making a powerless glide landing; instead, a powered
 landing is needed (which uses fuel).
 
-### <a name="R204">Land Areas (R204G)</a>
+### <a name="R204G">Land Areas (R204G)</a>
 Each planet is composed of two map tiles, joined in a circular shape. The
 planet has various colored symbols on it, each symbol is a “land area.” Each
 symbol has a name indicating its type, and additional codes for special
@@ -320,14 +320,14 @@ facilities: Symbol Colors denote entrance restrictions:
 1. Red areas can only be entered on foot or in a commercial vehicle, no other form of travel is allowed.
 1. Purple areas only by starship, ship’s boat, or orbital shuttle.
 
-Area Names in white denote good air within the area, area names in black denote
+Area Names in white denote good air within the area, area names in black denote 
 normal planetary air (which may be good, bad or none).
 
-[b] after the name indicates banking facilities are present (see <a href="#R232">R232</a>A).
+[b] after the name indicates banking facilities are present (see <a href="#R232A">R232A</a>).
 
-[m] after the name indicates medical facilities present (<a href="#R231">R231</a>C).
+[m] after the name indicates medical facilities present (<a href="#R231C">R231C</a>).
 
-Area Connectors are lines that indicate travel routes. You move from area to
+Area Connectors are lines that indicate travel routes. You move from area to 
 area along these lines:
 
 *Short triple-line connector* indicates one hour of travel time, regardless of
@@ -336,7 +336,7 @@ the areas are touching, and thus if both have good air in them, travel is
 possible between without life support, even on a bad or no air planet.
 
 *Long single line connectors* with a number indicate a larger distance. The
-number is the distance in “land steps” between areas. See travel rules (<a href="#R203">R203</a>A)
+number is the distance in “land steps” between areas. See travel rules (<a href="#R203A">R203A</a>)
 for time needed to traverse a land step.
 
 ## <a name="R205">R205 Area Types</a>
@@ -356,7 +356,7 @@ represents the difficulty of dealing with local directories, languages,
 communication problems, and the fact that the items or services you desire may
 be rare, already “booked up” for a period, etc.
 
-### <a name="R205">City (R205A)</a>
+### <a name="R205A">City (R205A)</a>
 An extensive built-up area with a large population. There are many
 opportunities to buy and sell items. Banking and medical centers are present.
 Each roll takes one hour, roll two dice (2d6):
@@ -375,7 +375,7 @@ Each roll takes one hour, roll two dice (2d6):
 | 11  | hire driver (<a href="#E062">E062</a>)          |
 | 12  | hire medic (<a href="#E065">E065</a>)           |
 
-### <a name="R205">Colony (R205B)</a>
+### <a name="R205B">Colony (R205B)</a>
 A residence outpost on a planet, it can supply nearly every need of the
 colonists that live on planet. It is very difficult for an outsider to pass
 without notice in a colony. Banks and medical centers are present. Each roll
@@ -395,7 +395,7 @@ takes one hour, roll two dice (2d6):
 | 11  | skimmer (<a href="#E033">E033</a>)                                                         |
 | 12  | skimmer guns (<a href="#E051">E051</a>)                                                    |
 
-### <a name="R205">Craters (R205C)</a>
+### <a name="R205C">Craters (R205C)</a>
 A cratered region due to natural causes when the planet was formed, or the
 result of planet-wide wars in the past or present. It is not possible to
 purchase goods or services here, but items may be found. Anything found is
@@ -407,11 +407,11 @@ free (there is no charge to you). Each roll takes six hours, roll one die
 |  1  | no more rolls                                                          |
 |  2  | special event (<a href="#E070">E070</a>)                                                   |
 |  3  | damaged utility suit (<a href="#R213">R213</a>) that requires one repair unit (<a href="#R219">R219</a>)       |
-|  4  | damaged robot that requires one repair unit (<a href="#R219">R219</a>), roll 1d6 again for type of robot: 1-3 PS robot (<a href="#<a href="#R222">R222</a>">R222</a>C), 4-6 U robot (R222B) |
+|  4  | damaged robot that requires one repair unit (<a href="#R219">R219</a>), roll 1d6 again for type of robot: 1-3 PS robot (<a href="#R222C">R222C</a>), 4-6 U robot (<a href="#R222B">R222B</a>) |
 |  5  | undamaged heavy hand weapon (<a href="#E049">E049</a>) of system’s tech level              |
 |  6  | special event (<a href="#E085">E085</a>)                                                   |
 
-### <a name="R205">Gambling (R205D)</a>
+### <a name="R205D">Gambling (R205D)</a>
 This is an area dedicated to games of chance, sports, and a wide variety of
 recreational activities. You may win money here (or lose it), make contact
 with the underworld, or run afoul of the law. Banking facilities are present.
@@ -426,12 +426,12 @@ Each roll takes one hour:
 |  6  | hire bodyguard (<a href="#E064">E064</a>)       |
 |  7  | gamble (<a href="#E071">E071</a>)               |
 |  8  | commercial transport (<a href="#E074">E074</a>) |
-|  9  | hire repairman (<a href="#E060">E060</a>)       |
+|  9  | hire repairman (<a href="#E060">E060</a>)       | 
 | 10  | hire medic (<a href="#E065">E065</a>)           |
 | 11  | fuel units (<a href="#E027">E027</a>)           |
 | 12  | hire starship gunner (<a href="#E069">E069</a>) |
 
-### <a name="R205">Industrial (R205E)</a>
+### <a name="R205E">Industrial (R205E)</a>
 An area of industrial research and manufacturing. This is a good area to buy
 equipment. Banking facilities are present. Each roll takes two hours; roll two
 dice (2d6):
@@ -450,7 +450,7 @@ dice (2d6):
 | 11  | utility suits (<a href="#E043">E043</a>) and/or sidearms (<a href="#E046">E046</a>) |
 | 12  | buy/install stasis units (<a href="#E057">E057</a>)             |
 
-### <a name="R205">Military (R205F)</a>
+### <a name="R205F">Military (R205F)</a>
 Military bases and installations have tight security and are generally risky to
 penetrate. If you can make contact, you may be able to buy military weaponry.
 Banking facilities are available inside the base, but medical are not (the
@@ -466,7 +466,7 @@ takes four hours; roll one die (1d6):
 |  5 | only buy military utility suits (<a href="#E044">E044</a>) |
 |  6 | hire starship gunner (<a href="#E069">E069</a>)            |
 
-### <a name="R205">Mining (R205G)</a>
+### <a name="R205G">Mining (R205G)</a>
 Mining facilities tend to be far from civilization, and this area type does not
 have life support automatically (workers have their own life support if on a
 world with bad or no air). Each roll takes three hours; roll two dice (2d6):
@@ -485,16 +485,16 @@ world with bad or no air). Each roll takes three hours; roll two dice (2d6):
 | 11  | commercial transport (<a href="#E074">E074</a>)  |
 | 12  | U robot (<a href="#E041">E041</a>)               |
 
-### <a name="R205">Palace (R205H)</a>
+### <a name="R205H">Palace (R205H)</a>
 This is the extensive and elaborate lodging of the royal or political family in
 power on the planet. There are no items or services regularly for sale, so no
 dice rolls are given. All contact results in special events. As you might
 imagine, palaces are normally well guarded.
 
-### <a name="R205">Prison (R205I)</a>
+### <a name="R205I">Prison (R205I)</a>
 The area for storage of criminals and other enemies of society. A prison is
 normally easier to enter than to leave. Prisoners with life sentences are
-normally packed into 1 CU Stasis Units (<a href="#R212">R212</a>E), to save on food and guard
+normally packed into 1 CU Stasis Units (<a href="#R212E">R212E</a>), to save on food and guard
 requirements. As a result, stasis units of 1 and 2 CU are in common use,
 including some buying and selling. Each roll takes two hours, roll one die
 (1d6):
@@ -508,12 +508,12 @@ including some buying and selling. Each roll takes two hours, roll one die
 |  5 | stasis units in 1 CU or 2 CU sizes only (<a href="#E057">E057</a>) |
 |  6 | no more rolls                                  |
 
-### <a name="R205">Rough Terrain (R205J)</a>
+### <a name="R205J">Rough Terrain (R205J)</a>
 A rugged area of poor visibility (rocks, caves, thick vegetation if planet has
 air, etc.). Rough terrain is a good place for fugitives, and tends to have
 rough inhabitants. There are no goods or services regularly for sale.
 
-### <a name="R205">Ruins (R205K)</a>
+### <a name="R205K">Ruins (R205K)</a>
 The abandoned and decrepit remains of former civilization. Ruins may be
 searched for usable items, but equipment found here is at technology level 20
 points below the normal planetary tech code (with a minimum tech code of 10 or
@@ -523,19 +523,19 @@ equipment is free. Each roll takes five hours; roll two dice (2d6):
 | 2D6 | Result                                                                 |
 |-----|------------------------------------------------------------------------|
 |  2  | wrecked ship’s boat with 1d6 points of damage, roll 1d6 again, on a 5 or 6 result no repair is possible, but you may cannibalize it for two repair units — boat contains no useful cargo or guns, and cannot be moved  until fully repaired (<a href="#R214">R214</a>) |
-|  3  | find one intact robot, roll 1d6 again for type: 1-4 U robot (<a href="#<a href="#<a href="#R222">R222</a>">R222</a>">R222</a>B), 5 PS robot (R222C), 6 GM robot (R222A) |
+|  3  | find one intact robot, roll 1d6 again for type: 1-4 U robot (<a href="#R222B">R222B</a>), 5 PS robot (<a href="#R222C">R222C</a>), 6 GM robot (<a href="#R222A">R222A</a>) |
 |  4  | find intact skimmer with no fuel                                       |
 |  5  | find 1d6 damaged utility suits, each requires one repair unit, after which another 1d6 roll is needed, result of 4-6 means the suit is still unsafe and must be discarded |
 |  6  | special event (<a href="#E084">E084</a>)                                                   |
 |  7  | find damaged skimmer, roll 1d6 again, 1-5-requires one repair unit, 6-cannot be repaired but can be cannibalized for one repair unit instead |
 |  8  | special event (<a href="#E088">E088</a>)                                                   |
-|  9  | find one damaged robot that requires one repair unit to fix, roll 1d6 for type of robot: 1-4 U robot (<a href="#<a href="#<a href="#R222">R222</a>">R222</a>">R222</a>B), 5 PS robot (R222C), 6 GM robot (R222A) |
+|  9  | find one damaged robot that requires one repair unit to fix, roll 1d6 for type of robot: 1-4 U robot (<a href="#R222B">R222B</a>), 5 PS robot (<a href="#R222C">R222C</a>), 6 GM robot (<a href="#R222A">R222A</a>) |
 | 10  | find one sidearm                                                       |
 | 11  | find one repair unit                                                   |
 | 12  | find one intact utility suit in a completely destroyed vehicle         |
 
-### <a name="R205">Rural (R205L)</a>
-An area where food is grown in a life-support environment. Banking facilities
+### <a name="R205L">Rural (R205L)</a>
+An area where food is grown in a life-support environment. Banking facilities 
 are present here. Each roll takes three hours; roll two dice (2d6):
 
 | 2D6 | Result                       |
@@ -552,7 +552,7 @@ are present here. Each roll takes three hours; roll two dice (2d6):
 | 11  | hire medic (<a href="#E065">E065</a>)            |
 | 12  | hire bodyguard (<a href="#E063">E063</a>)        |
 
-### <a name="R205">Scientific (R205M)</a>
+### <a name="R205M">Scientific (R205M)</a>
 An area where scientific research and development is performed. Items purchased
 here are considered one tech level higher than normal (after tech code and
 normal die roll determines tech level). If an item from here breaks down, it
@@ -574,10 +574,10 @@ one hour; roll two dice (2d6):
 | 11  | skimmer gun (<a href="#E051">E051</a>) or boat gun (<a href="#E053">E053</a>)        |
 | 12  | starship guns (<a href="#E055">E055</a>)                         |
 
-### <a name="R205">Slum Area (R205N)</a>
-A region of poverty and high crime. Slums are dangerous for outsiders to enter,
-but have an opportunity to buy and sell a wide range of items, often at
-inflated prices. Banking facilities are present. Each roll takes two hours,
+### <a name="R205N">Slum Area (R205N)</a>
+A region of poverty and high crime. Slums are dangerous for outsiders to enter, 
+but have an opportunity to buy and sell a wide range of items, often at 
+inflated prices. Banking facilities are present. Each roll takes two hours, 
 roll two dice (2d6):
 
 | 2D6 | Result                                                                 |
@@ -594,7 +594,7 @@ roll two dice (2d6):
 | 11  | skimmer gun (<a href="#E052">E052</a>) or boat gun (<a href="#E054">E054</a>)                                  |
 | 12  | hire medic (<a href="#E065">E065</a>) without papers                                       |
 
-### <a name="R205">Spaceport (R205O)</a>
+### <a name="R205O">Spaceport (R205O)</a>
 The normal landing port for star ships and orbital shuttles. It is the standard
 location to purchase star ships and equipment, as well as hiring a ship’s
 crew. Banking facilities are present. Each roll takes one hour; roll two dice
@@ -606,7 +606,7 @@ crew. Banking facilities are present. Each roll takes one hour; roll two dice
 |  3  | no more rolls                                                          |
 |  4  | starship (<a href="#E036">E036</a>) or starship guns (<a href="#E055">E055</a>)                                |
 |  5  | ship’s boat (<a href="#E034">E034</a>) or boat guns (<a href="#E053">E053</a>)                                 |
-|  6  | commercial transport (<a href="#E074">E074</a>) including orbital shuttles (<a href="#R215">R215</a>A)         |
+|  6  | commercial transport (<a href="#E074">E074</a>) including orbital shuttles (<a href="#R215A">R215A</a>)         |
 |  7  | hypercharges (<a href="#E025">E025</a>), fuel units (<a href="#E026">E026</a>) and/or life support units (<a href="#E028">E028</a>) |
 |  8  | utility suits (<a href="#E043">E043</a>) and/or repair units (<a href="#E030">E030</a>)                        |
 |  9  | GM robots (<a href="#E037">E037</a>), PS robots (<a href="#E039">E039</a>), and/or U robots (<a href="#E041">E041</a>)             |
@@ -614,7 +614,7 @@ crew. Banking facilities are present. Each roll takes one hour; roll two dice
 | 11  | starship pilot/navigator (<a href="#E066">E066</a>)                                        |
 | 12  | medic (<a href="#E065">E065</a>)                                                           |
 
-### <a name="R205">Space Station (R205P)</a>
+### <a name="R205P">Space Station (R205P)</a>
 Similar but smaller version of a star port, in orbit around the planet or near
 the asteroid belt. Conditions are cramped and prices higher, with few
 opportunities for profit unless contraband is gotten through customs. Banking
@@ -628,7 +628,7 @@ facilities are present. Each roll takes one hour; roll two dice (2d6):
 |  5  | utility suits (<a href="#E044">E044</a>)                                                   |
 |  6  | fuel units (<a href="#E027">E027</a>), life support units (<a href="#E029">E029</a>) and/or repair units (<a href="#E031">E031</a>) |
 |  7  | hypercharges (<a href="#E025">E025</a>)                                                    |
-|  8  | orbital shuttle (<a href="#E074">E074</a> for rates, <a href="#R215">R215</a>A for operation)                  |
+|  8  | orbital shuttle (<a href="#E074">E074</a> for rates, <a href="#R215A">R215A</a> for operation)                  |
 |  9  | buy/install stasis units (<a href="#E057">E057</a>)                                        |
 | 10  | hire starship engineer (<a href="#E067">E067</a>)                                          |
 | 11  | hire starship pilot/navigator (<a href="#E066">E066</a>)                                   |
@@ -644,7 +644,7 @@ or hide materials, and occasional finds of value do occur.
 Asteroids have a gravity factor of 0 (although they actually have a very light
 pull). Asteroids have no air, nor atmosphere. No goods or services may be
 bought at the asteroids, but normal activities and contact tries are possible
-at the space station (see <a href="#R205">R205</a>P). The dashed line for the orbit represents
+at the space station (see <a href="#R205P">R205P</a>). The dashed line for the orbit represents
 ships in the asteroid belt neither at an asteroid, nor docked at the space
 station.
 
@@ -657,11 +657,11 @@ the only way to go to or from asteroids.
 
 ## <a name="R207">R207 Guide to the Pavonis Sector</a>
 Ten star systems make up the Pavonis Sector, connected in pattern “one” (see
-<a href="#R234">R234</a>). Complete data on each is provided below. Planets and asteroids are
+R<a href="#234">234</a>). Complete data on each is provided below. Planets and asteroids are
 listed with the closest one to the star (sun) of the system first, and given
 the lowest number (i.e.. Planet I is closer than Planet II).
 
-### <a name="R207">Regari (R207A)</a>
+### <a name="R207A">Regari (R207A)</a>
 Once a key center of industrial development, Regari is now a hint of its past
 glory. People live a poorer lifestyle, and the system has suffered a serious
 economic depression for years. There is little system defense, and breakdown
@@ -671,7 +671,7 @@ of equipment is now commonplace.
 * System Codes: wealth 0, tech 30.
 * Planet I: layout J-K, gravity 3, good air.
 
-### <a name="R207">Palatek (R207B)</a>
+### <a name="R207B">Palatek (R207B)</a>
 Palatek attempted to replace the technological preeminence of Regari, but went
 to such extremes that toxic effluents poisoned the atmosphere. Despite
 scientific efforts, respiratory diseases remain a common cause of death.
@@ -682,7 +682,7 @@ against industrial espionage.
 * System Codes: wealth 30, tech 50.
 * Planet I: layout A-C, gravity 7, bad air.
 
-### <a name="R207">Byzantium (R207C)</a>
+### <a name="R207C">Byzantium (R207C)</a>
 A very old society exists here, noted for its political intrigue and
 complexity, its vigilant secret police, and underground dungeons that none are
 said to leave. It is known as a dangerous system to enter, unless one has the
@@ -693,7 +693,7 @@ right connections.
 * Planet I: layout F-C, gravity 10, good air.
 * Planet II: layout E-B, gravity 8, good air.
 
-### <a name="R207">Imperia (R207D)</a>
+### <a name="R207D">Imperia (R207D)</a>
 The self-declared capital of a modest empire that includes Palatek, Byzantium,
 and Talitar. This system assumes the trappings of an imperial capital, but
 without the actual power. Showy buildings and ornate artwork everywhere
@@ -701,12 +701,12 @@ conceal dire poverty and a mean existence. Imperia tends to waste its wealth
 on efforts of size and spectacle rather than quality, although some families
 possess valuable treasures.
 
-* System Entry 1d6 roll: 1- <a href="#E092">E092</a>, 2- <a href="#E100">E100</a>, 3- <a href="#E093">E093</a>, 4- <a href="#E114">E114</a>, 5- <a href="#E113">E113</a>, 6- <a href="#E10">E10</a>.
+* System Entry 1d6 roll: 1- <a href="#E092">E092</a>, 2- <a href="#<a href="#E10">E10</a>0"><a href="#E10">E10</a>0</a>, 3- <a href="#E093">E093</a>, 4- <a href="#E114">E114</a>, 5- <a href="#E113">E113</a>, 6- <a href="#E10">E10</a>.
 * System Codes: wealth 100, tech 25.
 * Planet I: layout C-G, gravity 11, good air.
 * System includes asteroids.
 
-### <a name="R207">Talitar (R207E)</a>
+### <a name="R207E">Talitar (R207E)</a>
 Noted for its vicious and repressive government. Talitarians have few freedoms;
 the army is in firm control, and troopers vigorously patrol both the planets
 and the space lanes of the system. Careful bribery can be useful here, but it
@@ -717,7 +717,7 @@ is exceedingly risky.
 * Planet I: layout F-l, gravity 13, good air.
 * Planet II: layout E-H, gravity 4, good air.
 
-### <a name="R207">Cubro (R207F)</a>
+### <a name="R207F">Cubro (R207F)</a>
 This system has been a rich source of metals, semiconductors, and crystals for
 centuries. Much of the planetary surface is now mined out, with extensive
 wastelands, acid drainage, and mine tailings. There are still valuable mineral
@@ -729,19 +729,19 @@ non-metallic materials, especially the still experimental “bio-plastic” allo
 * System Codes: wealth 15, tech 70.
 * Planet I: layout K-A, gravity 7, good air.
 
-### <a name="R207">Uruskop (R207G)</a>
+### <a name="R207G">Uruskop (R207G)</a>
 Throughout its long history, Uruskop has been very isolationist, having little
 trade with other systems and developing in its own unique way. It now has a
 moderately advanced technology, but its machines and devices tend to confuse
 outsiders. Foreigners also tend to make social errors, which offend or anger
 the residents. For these reasons, this system is avoided by wise travelers.
 
-* System Entry 1d6 roll: 1- <a href="#<a href="#E119">E119</a>, 2- <a href="#E093">E093</a>, 3- <a href="#E119">E119</a>, 4- <a href="#E109">E109</a>, 5- <a href="#E119">E119</a>, 6- <a href="#E119">E119</a>
+* System Entry 1d6 roll: 1-<a href="#E119">E119</a>, 2-<a href="#E093">E093</a>, 3-<a href="#E119">E119</a>, 4-<a href="#E109">E109</a>, 5-<a href="#E119">E119</a>, 6-<a href="#E119">E119</a>
 * System Codes: wealth 40, tech 40
 * Planet I: layout G-B, gravity 6, bad air.
 * System includes asteroids.
 
-### <a name="R207">Nipna (R207H)</a>
+### <a name="R207H">Nipna (R207H)</a>
 This system seems to have a perpetual war with Mynkuria, with a history of
 battles for at least a thousand years. The system is preoccupied with
 developing its war machine, and attempts to annihilate life at Mynkuria. Nipna
@@ -749,12 +749,12 @@ uses the long-range strategy of high-technology weapons, especially due to its
 population losses, and all industrial and scientific efforts are devoted to
 armaments.
 
-* System Entry 1d6 roll: 1- <a href="#E098">E098</a>, 2- <a href="#E110">E110</a>, 3- <a href="#E094">E094</a>, 4- <a href="#E098">E098</a>, 5- <a href="#E120">E120</a>, 6- <a href="#E112">E112</a>
+* System Entry 1d6 roll: 1-<a href="#E098">E098</a>, 2-<a href="#E110">E110</a>, 3-<a href="#E094">E094</a>, 4-<a href="#E098">E098</a>, 5-<a href="#E120">E120</a>, 6-<a href="#E112">E112</a>
 * System Codes: wealth 60, tech 100.
 * Planet I: layout J-D, gravity 12, good air.
 * Planet II: layout A-l, gravity 9, no air.
 
-### <a name="R207">Mynkuria (R207I)</a>
+### <a name="R207I">Mynkuria (R207I)</a>
 This system seems to have a perpetual war with Nipna, with a history of battles
 for at least one thousand years. The system is preoccupied with destroying
 Nipna, with a long-range strategy centered on the fanatical dedication of its
@@ -770,7 +770,7 @@ efficient spies and saboteurs, notorious for their resistance to torture
 * Planet II: layout C-K, gravity 9, good air.
 * System includes asteroids.
 
-### <a name="R207">New Karma (R207J)</a>
+### <a name="R207J">New Karma (R207J)</a>
 This system emphasizes personal spiritual development over technology. There
 has been an increase in mental powers, including psionic abilities. Many
 unusual religious cults are centered here, as well as various arts and other
@@ -792,7 +792,7 @@ standard connection pattern “one”, roll 1d6 and use the resulting pattern, a
 shown in <a href="#R234">R234</a>. A line between two systems indicates they are one jump apart.
 
 ## <a name="R209">R209 Random Star System Design</a>
-You may redesign any or all of the star systems. To create a new system,
+You may redesign any or all of the star systems. To create a new system, 
 roll 1d6 to determine the overall composition of the system:
 
 |  D6 | Result                    |
@@ -803,8 +803,8 @@ roll 1d6 to determine the overall composition of the system:
 | 4-5 | two planets               |
 |  6  | two planets and asteroids |
 
-Next shuffle together all the planetary tiles except asteroids, and randomly
-draw two for the first planet, and if there is a second, draw two more. This
+Next shuffle together all the planetary tiles except asteroids, and randomly 
+draw two for the first planet, and if there is a second, draw two more. This 
 will alter the actual tiles for a planet.
 
 To determine gravity, roll 3d6 and subtract two (3d6-2).
@@ -818,8 +818,8 @@ To determine atmosphere, roll 2d6:
 | 4-9   | is good air               |
 | 10-12 | is bad air                |
 
-The designer recommends that other characteristics for a system remain
-unchanged, including name, description, wealth, and tech codes. However, if
+The designer recommends that other characteristics for a system remain 
+unchanged, including name, description, wealth, and tech codes. However, if 
 you wish to create new wealth and tech codes, a 2d6 roll can be used:
 
 | 2D6 | Result                |
@@ -852,17 +852,17 @@ tech levels of items, but the table result can vary the results.
 
 Some Level of Equipment results show “*1” as the result. If you encounter an
 individual with this result, they are unarmed, and any fight will be
-hand-to-hand (<a href="#R230">R230</a>G); any other found or purchased equipment is considered
+hand-to-hand (<a href="#R230G">R230G</a>); any other found or purchased equipment is considered
 tech level 1.
 
 Prices of equipment are noted in event paragraphs, when you have the
-opportunity to buy or sell. Wealth code can affect prices, see <a href="#R229">R229</a>A. The
+opportunity to buy or sell. Wealth code can affect prices, see <a href="#R229A">R229A</a>. The
 special costs associated with crewmen and other hirelings are noted in <a href="#R220">R220</a>,
-and the special costs for your starship bank payments in <a href="#R203">R203</a>E.
+and the special costs for your starship bank payments in <a href="#R203E">R203E</a>.
 
 ## <a name="R211">R211 Capacity Units, Repair Units, Fuel Units</a>
 
-### <a name="R211">Capacity Units (R211A)</a>
+### <a name="R211A">Capacity Units (R211A)</a>
 All available space on a starship and on other vehicles is measured in Capacity
 Units (CUs). Most people and materials require CUs for storage and transport,
 given in the description of the item (see <a href="#R236">R236</a> for reference). Unless
@@ -877,15 +877,15 @@ may carry (or drag) 2 CUs, not counting the utility suit he or she wears —
 this allows a person to take a disabled individual to safety when wearing
 suits.
 
-### <a name="R211">Repair Units (R211B)</a>
+### <a name="R211B">Repair Units (R211B)</a>
 When repairs are made (<a href="#R219">R219</a>) after damage (<a href="#R217">R217</a>) or breakdown (<a href="#R218">R218</a>), you must
 expend Repair Units (RUs). One Repair Unit occupies one CU of space, and is
 sufficient for one day of repair on one item of equipment (see RRR activity,
-<a href="#R203">R203</a>C). Repair units are purchased in various areas (<a href="#R205">R205</a>), and are sometimes
+R<a href="#203C">203C</a>). Repair units are purchased in various areas (<a href="#R205">R205</a>), and are sometimes
 acquired by events.
 
-### <a name="R211">Fuel Units (R211C)</a>
-A ship’s boat (<a href="#R214">R214</a>) and skimmer (<a href="#R215">R215</a>C) require Fuel Units (FUs) to operate.
+### <a name="R211C">Fuel Units (R211C)</a>
+A ship’s boat (<a href="#R214">R214</a>) and skimmer (<a href="#R215C">R215C</a>) require Fuel Units (FUs) to operate.
 One FU occupies one CU of space. A ship’s boat cannot carry over 15 FU, and a
 skimmer cannot carry over 5 FU.
 
@@ -903,7 +903,7 @@ atmosphere. It can carry a ship’s boat, and mounts one weapons turret. The
 ship can be controlled by a single individual (pilot/navigator), but there are
 advantages to having a larger crew (<a href="#R221">R221</a>). Below is a reference diagram of the
 starship, which can be photocopied and used for notes, etc. The diagram shows
-the CUs (<a href="#R211">R211</a>A) in each compartment or area of the ship, including:
+the CUs (<a href="#R211A">R211A</a>) in each compartment or area of the ship, including:
 
 * Pilot’s Compartment: 2 CU
 * Crew Quarters: 16 CU
@@ -911,9 +911,9 @@ the CUs (<a href="#R211">R211</a>A) in each compartment or area of the ship, inc
 * Boat Hold: 40 CU if no ship’s boat present; if boat is present, it takes up all 40 CU, but there may be room within the boat (see <a href="#R214">R214</a>)
 * Main Cargo Hold: 60 CU
 * Engineering Compartment: 4 CU
-* There are also six concealed areas numbered 1 to 6, each being 1 CU. These are in cable runs, behind access panels, in ventilation ducts, etc See <a href="#R229">R229</a>B for hiding items.
+* There are also six concealed areas numbered 1 to 6, each being 1 CU. These are in cable runs, behind access panels, in ventilation ducts, etc See <a href="#R229B">R229B</a> for hiding items.
 
-### <a name="R212">Starship Hyper drive (R212A)</a>
+### <a name="R212A">Starship Hyper drive (R212A)</a>
 Star ships use hyper drive to move from one star system to another. This means
 transportation is literally instantaneous, but not without risk. There is a
 chance a ship using hyper drive will “dissipate” on return to normal space,
@@ -925,7 +925,7 @@ once you make a hyper jump, you are safe from all pursuits (assuming you
 survive the jump). Of course, if you return to the star system, you may now be
 “wanted” there!
 
-### <a name="R212">Hyper charges (R212B)</a>
+### <a name="R212B">Hyper charges (R212B)</a>
 A starship uses hyper charges as “fuel” for jumps. The Antelope class can hold
 up to six (6) hyper charges in special spaces, which cannot be used to carry
 anything else (no CUs of storage here), nor can regular CU be used for
@@ -948,11 +948,11 @@ or Imperia is a double jump, while from Regari to Talitar is a triple jump.
 Nothing bigger than a triple jump is possible, so the other systems cannot be
 reached from Regari in a hyper jump.
 
-### <a name="R212">Risk Factor in Hyper drive Jumps (R212C)</a>
-The Risk Factor is determined before each jump (<a href="#R212">R212</a>B), and a 1d6 roll made. If
+### <a name="R212C">Risk Factor in Hyper drive Jumps (R212C)</a>
+The Risk Factor is determined before each jump (<a href="#R212B">R212B</a>), and a 1d6 roll made. If
 the roll is less than or equal to the Risk Factor, the jump was a failure, see
-<a href="#R212">R212</a>D for effects. If the die roll is greater than the risk factor, the jump
-was successful (see <a href="#R212">R212</a>D). To determine the Risk Factor, add together all the
+R<a href="#212D">212D</a> for effects. If the die roll is greater than the risk factor, the jump
+was successful (see <a href="#R212D">R212D</a>). To determine the Risk Factor, add together all the
 situations below. If no situations apply, the factor is automatically zero and
 the jump cannot fail (will always be successful):
 
@@ -960,13 +960,13 @@ the jump cannot fail (will always be successful):
 |----|----------------------------------------------------------|
 | +5 | jump from surface of a planet                            |
 | +4 | jump from orbit, at an asteroid, or on a space station   |
-| +3 | jump from one sublight move “out” from above (see <a href="#R212">R212</a>G) |
+| +3 | jump from one sublight move “out” from above (see <a href="#R212G">R212G</a>) |
 | +2 | jump from two sublight moves “out”                       |
 | +1 | jump from three sublight moves “out”                     |
 | +1 | for each point of damage (hit) on the starship           |
 
-### <a name="R212">Results of Hyperdrive Jump (R212D)</a>
-See <a href="#R212">R212</a>C to compute results.
+### <a name="R212D">Results of Hyperdrive Jump (R212D)</a>
+See <a href="#R212C">R212C</a> to compute results.
 
 *Success:* the starship arrives at its destination intact, entering the system
 four sublight moves (hours) “out” from any planet or asteroid belt. The ship
@@ -977,11 +977,11 @@ impossible to arrive closer than four light-hours “out.”
 *Failure:* the starship undergoes hyperspace dissipation in jump. Debris
 appears four sublight moves “out” in the destination system (instead of the
 starship!). Everything and everyone on board is totally destroyed. The only
-exception is items and people within stasis units (<a href="#R212">R212</a>E). Stasis units appear
+exception is items and people within stasis units (<a href="#R212E">R212E</a>). Stasis units appear
 intact in the “out” space along with the debris. Unless you were in a stasis
 unit, dissipation means instant death — the game is over.
 
-### <a name="R212">Stasis Units (R212E)</a>
+### <a name="R212E">Stasis Units (R212E)</a>
 A serendipitous offshoot of hyperdrive development was the stasis phenomenon.
 Stasis appears to stop time within a very restricted volume. The stasis unit
 is a device turned out manually, or by an automatic trigger (activated when
@@ -1004,7 +1004,7 @@ insured ship. Of course, anyone who gets to the stasis unit first can risk
 opening it without insurance, if they believe it contains valuable items, or a
 person who brings a good ransom.
 
-Crewmen hire on at lower rates if they can work in stasis units with insurance,
+Crewmen hire on at lower rates if they can work in stasis units with insurance, 
 since their life has an effective protection.
 
 If you (Duke Springer) are in an activated stasis unit, unless the event
@@ -1016,21 +1016,21 @@ protect a starship: use of hyperdrive jump inside one causes a massive
 explosion - so much for the Navy’s attempt to use stasis protection for their
 warships!
 
-### <a name="R212">Sublight Drives (R212F)</a>
+### <a name="R212F">Sublight Drives (R212F)</a>
 Starships use sublight drive to move within a star system. Sublight drive can
 be used without limit provided the starship has at least one hypercharge on
 board. Using the drive does not consume the hypercharge. Sublight drives
 accelerate a ship rapidly to nearly light speed, meaning that combat between
 ships using sublight drive is long and difficult, unless both wish to meet and
-engage. See <a href="#R216">R216</a>A for starship guns, and <a href="#R230">R230</a>L for combat procedures.
+engage. See <a href="#R216A">R216A</a> for starship guns, and <a href="#R230L">R230L</a> for combat procedures.
 
-### <a name="R212">Starship Movement within a System (R212G)</a>
+### <a name="R212G">Starship Movement within a System (R212G)</a>
 A starship uses its sublight drive to move around within a star system. Each
 “move” takes one hour. The various movement options available include:
 
 *Move Out:* move one hour further “out” to leave the system, this can be from
 any planet or asteroid; hyperdrive can be safely used by undamaged ships from
-four (4) moves “out,” see <a href="#R212">R212</a>C.
+four (4) moves “out,” see <a href="#R212C">R212C</a>.
 
 *Move In:* move one hour further “in” toward the system. This can be toward any
 planet or asteroid. If one move (hour) “out” and moving “in,” the starship
@@ -1039,27 +1039,27 @@ arrives in orbit after the hour.
 *Move Orbit to Orbit:* move from orbit around one planet to orbit around
 another. Orbit in the asteroids is like an orbit around another planet.
 
-*Move Orbit/Docking:* move from orbit to docking at a space station at that
+*Move Orbit/Docking:* move from orbit to docking at a space station at that 
 planet (or in the asteroids), or vice versa.
 
-Note that from docking, a ship must first move to orbit, and then begin moving
+Note that from docking, a ship must first move to orbit, and then begin moving 
 “out” in later hours.
 
-Climb/Descend: move down to surface of planet (or asteroid) from orbit or space
-station, or climb from surface to orbit or space station.
+Climb/Descend: move down to surface of planet (or asteroid) from orbit or space 
+station, or climb from surface to orbit or space station. 
 
-Note that a direct move to or from surface to either a space station or orbit
+Note that a direct move to or from surface to either a space station or orbit 
 is possible in one hour.
 
-Area to Area on Surface: move through atmosphere from one area on the planet to
-another. This is possible provided entry restrictions permit a Spaceship to
+Area to Area on Surface: move through atmosphere from one area on the planet to 
+another. This is possible provided entry restrictions permit a Spaceship to 
 move into such an area (see <a href="#R205">R205</a>).
 
 Entry Encounters (<a href="#R225">R225</a>) occur when moving to a space station dock, or to any
 area on the surface (either descending to it, or moving through the atmosphere
 to it). There are no entry encounters for moves in space or orbit.
 
-### <a name="R212">Starship Communications (R212H)</a>
+### <a name="R212H">Starship Communications (R212H)</a>
 A starship may use its communications equipment provided the ship is not
 destroyed. Communications equipment is foolproof, and will never break-down.
 There is no fuel used, and no Hypercharges are needed. Any qualified starship
@@ -1075,12 +1075,12 @@ normal communication from one star system to another.
 ## <a name="R213">R213 Life Support</a>
 Life support is automatically present inside a starship, on a planet with
 “good” air, on orbital shuttles, and in certain areas on any planet regardless
-of air (those with the title of the area in white-colored type, see <a href="#R204">R204</a>G). In
+of air (those with the title of the area in white-colored type, see <a href="#R204G">R204G</a>). In
 any other situation, including situations with bad or no air, or in space life
 support is required.
 
 A utility suit provides life support for one day to the wearer. If the wearer
-is accompanied by a PS robot (<a href="#R222">R222</a>C), life support last indefinitely — for as
+is accompanied by a PS robot (<a href="#R222C">R222C</a>), life support last indefinitely — for as
 many days as the robot accompanies the wearer. After the robot leaves the suit
 can still provide life support for one more day alone.
 
@@ -1089,7 +1089,7 @@ everyone within the boat for one day. LSUs will not function in a skimmer,
 because a skimmer is not air-tight (the LSU effect will therefore leak away
 instantly).
 
-In an emergency, a PS robot (<a href="#R222">R222</a>C) can provide life support for any character
+In an emergency, a PS robot (<a href="#R222C">R222C</a>) can provide life support for any character 
 for one hour, even if without a utility suit.
 
 A character without life support for five minutes will die. Five minutes is
@@ -1098,13 +1098,13 @@ starship or ship’s boat (with LSU). If none of these are immediately
 available, death will result unless the character is carrying a stasis unit
 and turns it on.
 
-### <a name="R213">Starship Life Support (R213A)</a>
+### <a name="R213A">Starship Life Support (R213A)</a>
 Continues to function until the ship itself is destroyed, or an event causes a
 compartment of the ship to depressurize, be opened to space, etc. No fuel or
 hypercharges are used or required for the life support function, and it will
 never break down.
 
-### <a name="R213">Utility Suit Sealing (R213B)</a>
+### <a name="R213B">Utility Suit Sealing (R213B)</a>
 A character in a utility suit who suffers just one hit from a nonexplosive
 weapon (<a href="#R230">R230</a> for combat, <a href="#R231">R231</a> for wound effects) will automatically self-seal
 and continue life support. If multiple wounds result, or the weapon has
@@ -1121,11 +1121,11 @@ mainly used for short excursions. It has folding wings, and may be
 glide-landed without power (and thus without fuel use) on a planet with
 atmosphere.
 
-The Hopper class requires one person to operate, who must be a qualified pilot
+The Hopper class requires one person to operate, who must be a qualified pilot 
 (including starship pilots).
 
-### <a name="R214">Storage (R214A)</a>
-The Hopper class overall is 40 CU in size, and thus requires that space inside
+### <a name="R214A">Storage (R214A)</a>
+The Hopper class overall is 40 CU in size, and thus requires that space inside 
 a starship when being transported by a starship.
 
 The internal capacity of the Hopper boat is 25 CU: 5 CU control & passenger
@@ -1135,10 +1135,10 @@ PS robots, and/or LSUs. The other compartments may contain fuel, passengers,
 or other items including boat guns (5 CU), LSUs, etc. One LSU per day will
 provide life support for everyone and everything inside a Hopper class boat.
 
-No more than 15 CUs of fuel (15 FU) may be on the boat at any one time, since
+No more than 15 CUs of fuel (15 FU) may be on the boat at any one time, since 
 only three of the other compartments have fuel fittings.
 
-### <a name="R214">Speed & Engine Operation (R214B)</a>
+### <a name="R214B">Speed & Engine Operation (R214B)</a>
 A Hopper boat consumes one FU (fuel Unit) per hour for normal travel. This
 includes moving about from area to area on a planet, dropping from orbit
 (unless an unpowered glide is used), or moving about in orbit (to or from a
@@ -1151,28 +1151,28 @@ takes 5 FUs — all expended in that hour. The engines of the Hopper boat are
 limited to a power of 9 — they cannot use more than 9 FU at a time, and thus
 the boat is unable to climb from planets of 10 or higher gravity.
 
-The only way to get a boat off such a planet is to carry it within a starship,
+The only way to get a boat off such a planet is to carry it within a starship, 
 or use an orbital shuttle.
 
-A Hopper boat can travel from one planet to another (or from planet to asteroid
-area, or vice versa). However, it is not as fast as a starship. The type of
+A Hopper boat can travel from one planet to another (or from planet to asteroid 
+area, or vice versa). However, it is not as fast as a starship. The type of 
 travel takes an entire day, and consumes 10 F U.
 
-Loading and unloading a boat from a starship is very easy, and takes no extra
+Loading and unloading a boat from a starship is very easy, and takes no extra 
 time.
 
 ## <a name="R215">R215 Planetary Vehicles</a>
-There are three main types of planetary vehicle: orbital shuttle,
+There are three main types of planetary vehicle: orbital shuttle, 
 various commercial land vehicles, and the skimmer.
 
-### <a name="R215">Orbital Shuttle (R215A)</a>
+### <a name="R215A">Orbital Shuttle (R215A)</a>
 You may “book passage” for persons and/or cargo on the orbital shuttle at
 either a spaceport or space station. It will travel to either spaceport, space
 station, or orbit, as desired. Booking passage is represented by a contact try
 (<a href="#R227">R227</a>) at the spaceport or space station that results in a “commercial
 vehicle” (<a href="#E074">E074</a>) event.
 
-The planet has no spaceport on the ground, commercial vehicle contact at a
+The planet has no spaceport on the ground, commercial vehicle contact at a 
 colony allows one to book passage on a shuttle.
 
 The shuttle can carry up to 50 CU, but may not carry items prohibited from
@@ -1180,89 +1180,86 @@ transport on that planet (if event paragraphs have mentioned such). The
 shuttle automatically provides its own fuel and life support for all inside at
 no extra cost. Every 3 CU of space on the shuttle costs 1 Sec.
 
-The shuttle takes one hour to reach its destination, including loading and
+The shuttle takes one hour to reach its destination, including loading and 
 unloading times.
 
-### <a name="R215">Commercial Land Vehicles (R215B)</a>
+### <a name="R215B">Commercial Land Vehicles (R215B)</a>
 These include trains, buses, planes, helicopters, ground effect vehicles,
 subways, monorails, and innumerable other methods for local transportation.
 They are only hired by the hour, at 3 CU space per 1 Sec of cost when event
 (<a href="#E074">E074</a>) occurs (often through a contact try, <a href="#R227">R227</a>, in specific planetary areas).
 
-A commercial vehicle moves one land step per hour, or one hour to move from one
+A commercial vehicle moves one land step per hour, or one hour to move from one 
 area to an adjacent one. Additional hours
 increase the cost.
 
-A commercial vehicle holds 9 CU; you can hire more than one vehicle for larger
-loads, but no one item can be larger than 9 CU as a result. You may hire the
+A commercial vehicle holds 9 CU; you can hire more than one vehicle for larger 
+loads, but no one item can be larger than 9 CU as a result. You may hire the 
 vehicle for a one-way trip.
 
 A commercial vehicle must be paid in advance, and remains available (once
 hired) only for the paid-in-advance period. During the period, you can
 increase the time available by paying more, but as soon as money runs out the
 vehicle instantly departs and cannot be recalled without a new contact try,
-etc. Commercial vehicles can travel to areas of bad or no air. Skimmers (<a href="#R215">R215</a>C)
+etc. Commercial vehicles can travel to areas of bad or no air. Skimmers (<a href="#R215C">R215C</a>)
 
 These are small private vehicles typical to inhabited planets of the sector.
 They use air-breathing engines, and thus are limited to areas of good or bad
-air. A skimmer purchased on a planet with bad air (<a href="#R204">R204</a>F) can only function on
+air. A skimmer purchased on a planet with bad air (<a href="#R204F">R204F</a>) can only function on
 that planet, while skimmers from all other planets won’t work. A skimmer
 travels one land step per hour, and requires a qualified driver to operate.
 
-Skimmers are 10 CU in size, and can hold up to 6 CUs of passengers, fuel,
-cargo, etc. A skimmer moves one land step per hour, and uses one FU per day.
+Skimmers are 10 CU in size, and can hold up to 6 CUs of passengers, fuel, 
+cargo, etc. A skimmer moves one land step per hour, and uses one FU per day. 
 It has no life support, and is not sealed.
 
-Skimmers cannot be hired, instead the 3 CU or 6 CU commercial vehicle is the
-“hired” equivalent (see <a href="#R215">R215</a>B above).
+Skimmers cannot be hired, instead the 3 CU or 6 CU commercial vehicle is the 
+“hired” equivalent (see <a href="#R215B">R215B</a> above).
 
 ## <a name="R216">R216 Weaponry</a>
 Weapons, like all other equipment, have a tech level ranging from 1 to 6, with
 the higher numbers more advanced. Higher tech “ranged weapons” fire before
-lower level weapons in combat (<a href="#<a href="#R230">R230</a>">R230</a>F), and are more likely to hit (R230D).
-Advanced weapons often do more damage, especially explosive weapons (<a href="#R230">R230</a>E).
+lower level weapons in combat (<a href="#R230F">R230F</a>), and are more likely to hit (<a href="#R230D">R230D</a>).
+Advanced weapons often do more damage, especially explosive weapons (<a href="#R230E">R230E</a>).
 Weapons may be purchased through contacts (<a href="#R227">R227</a>), acquired in events, or taken
 from an opponent defeat in combat.
 
-A character needs a marksmanship rating of one (1) or higher (<a href="#R201">R201</a>A) to fire a
+A character needs a marksmanship rating of one (1) or higher (<a href="#R201A">R201A</a>) to fire a
 weapon. Characters with marksmanship of zero cannot fire weapons. Robots are
 unable to fire weapons, their programming prohibits it. Certain weapons can
-only be used by certain types of characters, as described below.
-
-### <a name="R216">Starship Guns (R216A)</a>
-These powerful energy beam weapons must be mounted in starships, the Antelope
+only be used by certain types of characters, as described below.</ope
 class can fit one set of guns in its turret. They can only be fired by a
 qualified starship gunner in the turret. If starship guns are purchased, they
 are installed at that time if the starship is present; otherwise a starship
-engineer (<a href="#R221">R221</a>B) can install them in one day of RRR (<a href="#R203">R203</a>C) devoted to the
+engineer (<a href="#R221B">R221B</a>) can install them in one day of RRR (<a href="#R203C">R203C</a>) devoted to the
 task.
 
-A hit from starship guns reduces an individual’s Endurance (<a href="#R231">R231</a>) by ten
-points, or inflicts one hit on a vehicle (may be a critical hit, see <a href="#R230">R230</a>L).
+A hit from starship guns reduces an individual’s Endurance (<a href="#R231">R231</a>) by ten 
+points, or inflicts one hit on a vehicle (may be a critical hit, see <a href="#R230L">R230L</a>).
 
-### <a name="R216">Boat Guns (R216B)</a>
+### <a name="R216B">Boat Guns (R216B)</a>
 These large weapons require 5 CU of space and are installed only in a ship’s
 boat. A qualified starship gunner is needed to fire them, and a boat pilot
 cannot also fire the guns. When purchased, boat guns are installed at that
 time if the boat is present; otherwise a starship engineer can install them
-(<a href="#R22">R22</a>lb) in one day of RRR (<a href="#R203">R203</a>C) devoted to the task.
+(<a href="#R22">R22</a>lb) in one day of RRR (<a href="#R203C">R203C</a>) devoted to the task.
 
-A hit from boat guns may reduce an individual’s Endurance or disable
-him (<a href="#R231">R231</a>), or inflict one hit on a vehicle (may be a critical hit, see <a href="#R230">R230</a>K).
+A hit from boat guns may reduce an individual’s Endurance or disable 
+him (<a href="#R231">R231</a>), or inflict one hit on a vehicle (may be a critical hit, see <a href="#R230K">R230K</a>).
 
-### <a name="R216">Skimmer Guns (R216C)</a>
+### <a name="R216C">Skimmer Guns (R216C)</a>
 These medium weapons require 2 CU of space and are installed on a skimmer.
 Starship gunners and bodyguards with marksmanship of one (1) or higher, or
 Duke Springer, can fire them, except the driver of the skimmer. When
 purchased, skimmer guns are installed at that time if the skimmer is present;
 otherwise a starship engineer or repairman can install them in one day of RRR
-(<a href="#R203">R203</a>C) devoted to the task.
+(<a href="#R203C">R203C</a>) devoted to the task.
 
-A hit from skimmer guns may reduce an individual’s Endurance or disable
-him (<a href="#R231">R231</a>), or may inflict one hit on a vehicle (may be a critical hit,
-see <a href="#R230">R230</a>K).
+A hit from skimmer guns may reduce an individual’s Endurance or disable 
+him (<a href="#R231">R231</a>), or may inflict one hit on a vehicle (may be a critical hit, 
+see <a href="#R230K">R230K</a>).
 
-### <a name="R216">Personal Weapons (R216D)</a>
+### <a name="R216D">Personal Weapons (R216D)</a>
 These light weapons are carried by individuals. Heavy hand weapons are 1 CU in
 size and can only be used by starship gunners, bodyguards, or Duke Springer,
 Sidearms take up no space, and can be used by anyone. A crate of 10 sidearms,
@@ -1272,7 +1269,7 @@ Marksmanship of 1 or better is required to fire any type of personal weapon.
 Personal weapons cannot be fired while driving a skimmer, piloting a boat, or
 fired out of a boat or starship (but may be fired within the vehicle). A hit
 from personal weapons may reduce an individual’s Endurance or disable him
-(<a href="#R231">R231</a>), or may inflict a hit on certain types of vehicles only (see <a href="#R230">R230</a>K).
+(<a href="#R231">R231</a>), or may inflict a hit on certain types of vehicles only (see <a href="#R230K">R230K</a>).
 
 ## <a name="R217">R217 Damage</a>
 If a shot hits a vehicle (<a href="#R230">R230</a>), the result is given as a “hit” or a “critical
@@ -1281,19 +1278,19 @@ The effects of weapons and injury on individuals are described in <a href="#R231
 vehicle is destroyed by hits, it cannot function for any purpose, and repair
 is no longer possible.
 
-### <a name="R217">Starship Damage (R217A)</a>
+### <a name="R217A">Starship Damage (R217A)</a>
 Starships (Antelope class) take 10 hits to destroy. Sidearms and heavy hand
 weapons have no effect on starships unless an event paragraph indicates
 otherwise. Individual points of damage simply increase the risk factor when
 hyperjumping.
 
-### <a name="R217">Ship’s Boat Damage (R217B)</a>
+### <a name="R217B">Ship’s Boat Damage (R217B)</a>
 Ship’s boat (Hopper class) takes 5 hits to destroy. Sidearms have no effect on
 ship’s boat unless an event paragraph indicates otherwise. Individual points
 of damage have no special effect unless critical hits (see <a href="#R237">R237</a> for effects).
 Shuttles are similar to ship’s boat.
 
-### <a name="R217">Skimmer Damage (R217C)</a>
+### <a name="R217C">Skimmer Damage (R217C)</a>
 Skimmers (and commercial vehicles) take only 2 hits to destroy. One hit will
 immobilize the vehicle until repaired. Sidearm hits do not damage unless a
 critical hit results, in which case normal damage and the critical hit effect
@@ -1311,15 +1308,15 @@ starships or ship’s boats in orbit, at a space station, or at an asteroid.
 Break-down for vehicles and weapons are determined separately. Communications
 and life support equipment on starships or ship’s boat will never break down.
 
-### <a name="R218">Break-down Check (R218A)</a>
+### <a name="R218A">Break-down Check (R218A)</a>
 When break-down is checked, roll 2d6 and compare the result to the item’s tech
 level. If the dice roll is less than or equal to the tech level, the item
 breaks down. Note that a roll of “1” is not possible with two dice, and thus
 tech level 1 items never break down.
 
-### <a name="R218">Preventive Maintenance (R218B)</a>
-This is performed to reduce the chance of break-down. GM robots (<a href="#R222">R222</a>A) can
-perform it on starships and ship’s boat. Starship engineers can do preventive
+### <a name="R218B">Preventive Maintenance (R218B)</a>
+This is performed to reduce the chance of break-down. GM robots (<a href="#R222A">R222A</a>) can 
+perform it on starships and ship’s boat. Starship engineers can do preventive 
 maintenance on any equipment or vehicle.
 
 Preventive maintenance takes an entire day of work for the man or robot, who
@@ -1328,38 +1325,38 @@ other interruption. All items and vehicles at that location get the benefit of
 the maintenance. More than one engineer and/or robot at the location does not
 increase the benefits in any way.
 
-If an engineer performed maintenance, all items add two (+2) to breakdown rolls
+If an engineer performed maintenance, all items add two (+2) to breakdown rolls 
 that day, and add one (+1) to break-down rolls for the next two days afterward.
 
-If a GM robot performed maintenance, all items add one (+1) to breakdown rolls
+If a GM robot performed maintenance, all items add one (+1) to breakdown rolls 
 that day and the following day.
 
 ## <a name="R219">R219 Repair of Vehicles & Equipment</a>
-When vehicles or equipment break-down, or are damaged, they must be repaired
-to be fully functional again. Note, however, that some damage has no material
-effect, and can be ignored (although the vehicle is closer to destruction until
-the damage is repaired). Repair is done during a day of RRR (<a href="#R203">R203</a>C) by a
+When vehicles or equipment break-down, or are damaged, they must be repaired 
+to be fully functional again. Note, however, that some damage has no material 
+effect, and can be ignored (although the vehicle is closer to destruction until 
+the damage is repaired). Repair is done during a day of RRR (<a href="#R203C">R203C</a>) by a 
 qualified person.
 
-A starship engineer may repair any part of a starship, including the ship
-itself, a ship’s boat or any part thereof, or a skimmer. This includes repair
+A starship engineer may repair any part of a starship, including the ship 
+itself, a ship’s boat or any part thereof, or a skimmer. This includes repair 
 of starship guns, boat guns, and/or skimmer guns.
 
-A repairman or mobile repairman can repair anything except a starship or ship’s
+A repairman or mobile repairman can repair anything except a starship or ship’s 
 boat equipment (or the vehicle itself).
 
 A skimmer driver can only repair a skimmer.
 
-Repairs require the item or vehicle to be at the same location as the person
-repairing it. Normally, equipment must be brought to hired repairmen. Mobile
+Repairs require the item or vehicle to be at the same location as the person 
+repairing it. Normally, equipment must be brought to hired repairmen. Mobile 
 repairmen can travel to the equipment’s location.
 
-### <a name="R219">Repair Units (R219A)</a>
+### <a name="R219A">Repair Units (R219A)</a>
 In any repair, one Repair Unit (<a href="#R211">R211</a>) is consumed per day of repair on a single
 item of equipment. Repair Units (RUs) may be purchased in any area where
 vehicle repair may be obtained. RUs are not needed for preventive maintenance.
 
-### <a name="R219">Speed of Repair (R219B)</a>
+### <a name="R219B">Speed of Repair (R219B)</a>
 A starship engineer repairs 1d6 hits on a starship per day, and one hit per day
 for other items. A repairman, or mobile repairman in his home area, repairs
 1d6 hits per day. A mobile repairman who traveled to another area only fixes
@@ -1372,15 +1369,15 @@ a broken-down item still requires repair work and one RU.
 ## <a name="R220">#R220 Retinue</a>
 As the adventure progresses, you may hire or otherwise gain crew-members and
 followers. When a character joins your “party,” note his or her basic
-statistics (<a href="#R201">R201</a>A) and skills. You can voluntarily dismiss or abandon members
+statistics (<a href="#R201A">R201A</a>) and skills. You can voluntarily dismiss or abandon members
 of your party, although this can cause problems (see below).
 
-### <a name="R220">Hirelings (R220A)</a>
+### <a name="R220A">Hirelings (R220A)</a>
 A person hired as a starship crewman must be paid “sign-on” money sometimes, at
 the time of hiring. The daily or weekly salary must be paid at the start of
 each day or week, and may be modified if the crewman is working in a stasis
 unit with insurance coverage. All costs are noted in event paragraphs, and are
-normally modified by the wealth code of. the system. See (<a href="#R223">R223</a>A) for equipment
+normally modified by the wealth code of. the system. See (<a href="#R223A">R223A</a>) for equipment
 used by hirelings.
 
 If a salary is not paid in advance, at the start of each day you can attempt to
@@ -1390,7 +1387,7 @@ area with good air. Until that time, the person does not work, and will
 automatically side against you in any encounter (join opposition in combat
 against you, inform customs searches of contraband, etc.).
 
-### <a name="R220">Abandonment, Insurance & Death Payments (R220B)</a>
+### <a name="R220B">Abandonment, Insurance & Death Payments (R220B)</a>
 A member of your party could leave due to an event, normal end of employment,
 or Is simply left behind with life support or in an area with good air —
 outside of a combat situation. Here you have no further obligation to the
@@ -1409,23 +1406,23 @@ Stasis insurance is obtained by installing a stasis unit in the work space of
 the crewman (1 CU for a man alone, 2 CU for a man with suit), and by
 depositing money sufficient for the next largest size stasis unit plus 10% at
 any bank. Insurance money is never refunded, regardless of circumstances when
-the person leaves your employ. See <a href="#R212">R212</a>E for stasis unit details.
+the person leaves your employ. See <a href="#R212E">R212E</a> for stasis unit details.
 
-### <a name="R220">Isolated Persons (R220C)</a>
+### <a name="R220C">Isolated Persons (R220C)</a>
 Persons of your party may be left somewhere while you go elsewhere. While
 isolated from you, the others cannot travel, engage in work, combat, try for
 contact or other activities. The only exception is that they may perform RRR
-activities (<a href="#R203">R203</a>C), such as repair, preventive maintenance, or healing wounds.
-The normal RRR encounter may occur (see <a href="#R227">R227</a>A), and if it does, they make no
+activities (<a href="#R203C">R203C</a>), such as repair, preventive maintenance, or healing wounds.
+The normal RRR encounter may occur (see <a href="#R227A">R227A</a>), and if it does, they make no
 resistance to the event, and will be automatically defeated in any combat.
 
 Isolated individuals will consume life support and/or repair units as necessary
-for their existence and tasks. Bodyguards (<a href="#R221">R221</a>D) may not be voluntarily left
+for their existence and tasks. Bodyguards (<a href="#R221D">R221D</a>) may not be voluntarily left
 in isolation from you, but events may force them to become isolated.
 
 ## <a name="R221">R221 Roles of Hirelings</a>
 
-### <a name="R221">Pilot/Navigator (R221A)</a>
+### <a name="R221A">Pilot/Navigator (R221A)</a>
 A crewman who can operate a starship, using its hyperdrive, sublight drive,
 and/or make an unpowered landing on a planet with atmosphere. In addition, he
 can control and pilot a ship’s boat and/or drive a skimmer. He cannot perform
@@ -1435,7 +1432,7 @@ items, except for an ability to operate sidearms (if he has a marksmanship of
 will not attack. As a starship crewman, the pilot is able to operate starship
 communications equipment.
 
-### <a name="R221">Starship Engineer (R221B)</a>
+### <a name="R221B">Starship Engineer (R221B)</a>
 A crewman who can perform preventive maintenance or make repairs on any
 starship or ship’s boat equipment, or on a skimmer. He can drive a skimmer,
 but cannot pilot a starship or ship’s boat. He cannot use any weapons except
@@ -1443,7 +1440,7 @@ sidearms (and then only if he has marksmanship of 1 or more), and only defends
 himself if attacked in hand-to-hand combat. As a starship crewman he can
 operate communications equipment.
 
-### <a name="R221">Starship Gunner (R221C)</a>
+### <a name="R221C">Starship Gunner (R221C)</a>
 A crewman who operates the starship’s gun turret. He can also operate boat guns
 or skimmer guns, and can use personal weapons (heavy hand weapons or
 sidearms). He can drive a skimmer, but not a starship or ship’s boat. He
@@ -1451,21 +1448,21 @@ cannot perform repairs, nor preventive maintenance. He can attack as well as
 defend in hand-to-hand combat, and as a starship crewman can operate starship
 communications equipment.
 
-### <a name="R221">Bodyguard (R221D)</a>
+### <a name="R221D">Bodyguard (R221D)</a>
 A hireling who can use skimmer guns, heavy hand weapons, and/or sidearms, but
 is unable to fire starship guns or boat guns. He can attack or defend or
 hand-to-hand combat. A bodyguard only fights if with Duke Springer, he will
 not fight if isolated. He cannot perform any repair or preventive maintenance,
 and cannot operate starship communications equipment.
 
-### <a name="R221">Skimmer Driver (R221E)</a>
+### <a name="R221E">Skimmer Driver (R221E)</a>
 A hireling who can drive a skimmer or repair it. Skimmer drivers cannot do
 preventive maintenance, will not use any weapons, nor attack in hand-to-hand
 combat. Skimmer drivers will never voluntarily leave their system of origin,
 and will not work for you if “kidnapped” from their home star system.
 
-### <a name="R221">Medic (R221F)</a>
-A hireling qualified to perform emergency first aid (<a href="#R231">R231</a>B), and useful in
+### <a name="R221F">Medic (R221F)</a>
+A hireling qualified to perform emergency first aid (<a href="#R231B">R231B</a>), and useful in
 certain special events. A medic cannot use weapons, will attempt to avoid any
 hand-to-hand combat, and cannot operate any other equipment, do preventive
 maintenance, or perform repairs.
@@ -1478,38 +1475,38 @@ small battery. There is a small operating cost every 10-day week, representing
 new batteries and other consumables needed to keep a robot running. If this is
 not paid, the robot automatically breaks down.
 
-### <a name="R222">GM (General Maintenance) Robot (R222A)</a>
+### <a name="R222A">GM (General Maintenance) Robot (R222A)</a>
 
 Can perform preventive maintenance duties on all items within a starship and/or
-ship’s boat (see <a href="#R218">R218</a>B) but cannot perform repairs. A GM Robot cannot function
+ship’s boat (see <a href="#R218B">R218B</a>) but cannot perform repairs. A GM Robot cannot function
 on equipment whose tech level is higher than the tech level of the robot. A GM
 robot can maintain other GM robots, but cannot maintain itself nor other
 robots. Operating cost is 2 S per 10-day week.
 
-### <a name="R222">U (Utility) Robot (R222B)</a>
-used to carry loads up to 3 CU (in addition to the 1 CU the robot itself
+### <a name="R222B">U (Utility) Robot (R222B)</a>
+used to carry loads up to 3 CU (in addition to the 1 CU the robot itself 
 occupies). It has no other function. Operating cost is 1 S per 10-day week.
 
-### <a name="R222">PS (Personal Support) Robot (R222C)</a>
+### <a name="R222C">PS (Personal Support) Robot (R222C)</a>
 Programmed to support a single, specific individual only. When a PS Robot is
 connected to a person in a utility suit, the result is indefinite life support
 (<a href="#R213">R213</a>). If the PS robot is connected to a person without a suit, the person
 can be kept alive for one hour.
 
-A PS Robot can perform emergency first aid (<a href="#R213">R213</a>B) and can call for medical
-assistance (<a href="#R231">R231</a>C). It cannot provide healing (unlike a medic). The robot can
+A PS Robot can perform emergency first aid (<a href="#R213B">R213B</a>) and can call for medical
+assistance (<a href="#R231C">R231C</a>). It cannot provide healing (unlike a medic). The robot can
 be used for any ordinary radio-communicator calls on that planet, including to
 orbit or a space station, but not to another planet or star system. Operating
 cost is 2 S per 10-day week.
 
-### <a name="R222">Robot Use & Break-down (R222D)</a>
-Robots may be used in any environment, including bad air or vacuum, and do not
-require life support. As with any equipment, you must check for break-down for
+### <a name="R222D">Robot Use & Break-down (R222D)</a>
+Robots may be used in any environment, including bad air or vacuum, and do not 
+require life support. As with any equipment, you must check for break-down for 
 each day you use each robot (<a href="#R218">R218</a>).
 
 ## <a name="R223">R223 Hirelings’ Equipment & Goods</a>
 
-### <a name="R223">Hirelings’ Equipment (R223A)</a>
+### <a name="R223A">Hirelings’ Equipment (R223A)</a>
 Any equipment used by a hireling, which he personally carries, becomes the
 personal equipment and property of that person. This includes sidearms, heavy
 hand weapons, PS robots, etc. Exceptions are U or GM robots, vehicles,
@@ -1521,21 +1518,21 @@ roll (<a href="#R202">R202</a>) to prevent the hireling from quitting. If a hire
 and leaves, he automatically takes personal equipment with him, you are unable
 to take it back regardless of cunning (although you can try to use your
 cunning to have him continue working for you without pay for that day, see
-<a href="#R220">R220</a>A).
+R<a href="#220A">220A</a>).
 
-### <a name="R223">Acquiring Equipment without Purchase (R223B)</a>
+### <a name="R223B">Acquiring Equipment without Purchase (R223B)</a>
 Certain events may allow you to find intact or damaged equipment without
 spending money. In addition, if you defeat others in combat, you may take any
 equipment or valuables they have (indicated in the event), assuming it wasn’t
 damaged or destroyed in battle. Damaged equipment that you can move can also
 be taken.
 
-You take prisoners after combat only if so indicated in the event paragraph.
+You take prisoners after combat only if so indicated in the event paragraph. 
 Otherwise, those who are not killed are assumed to escape.
 
-Each person you encounter will have “pocket change” in Secs equal to a 1d6
-cross-indexed with the system’s wealth code on table <a href="#R241">R241</a>. Ignore any
-fractional Secs of pocket change. In other words, pocket change is base price
+Each person you encounter will have “pocket change” in Secs equal to a 1d6 
+cross-indexed with the system’s wealth code on table <a href="#R241">R241</a>. Ignore any 
+fractional Secs of pocket change. In other words, pocket change is base price 
 of 1 S times multiplier given on that table.
 
 ## <a name="R224">R224 Encounters</a>
@@ -1543,7 +1540,7 @@ There are two main types of encounters: Entry Encounters and Contact Try
 Encounters. Each type is described in detail below (<a href="#R225">R225</a>-226-227). All
 encounters use the same standard resolution procedure:
 
-If you encounter any people, note the characteristics of each (<a href="#R201">R201</a>A).
+If you encounter any people, note the characteristics of each (<a href="#R201A">R201A</a>).
 Sometimes a characteristic is determined by a die roll, at times with a
 certain amount added or subtracted. For example, “1d6+1” means one die roll
 with one added. Minimum characteristic possible is 0, unless other minimums or
@@ -1560,10 +1557,10 @@ Tech Level table (<a href="#R235">R235</a>) to determine the level of their equi
 once — they all have equipment of the same tech level.
 
 ## <a name="R225">R225 Entry Detection & Entry Encounters</a>
-Whenever you enter a new area within a star system, there may be an Entry
+Whenever you enter a new area within a star system, there may be an Entry 
 Encounter. When moving to a new star system, see <a href="#R226">R226</a> for details.
 
-### <a name="R225">Detection (R225A)</a>
+### <a name="R225A">Detection (R225A)</a>
 First, determine if you are detected. Refer to the Entry Detection Table (<a href="#R238">R238</a>)
 and cross-reference the mode of entry and the tech code of the system and add
 or subtract a certain amount when entering certain types of areas (see table)
@@ -1573,27 +1570,27 @@ greater than your detection factor, you enter undetected and no entry
 encounter occurs. Entering undetected often means that nobody paid any
 attention to you, rather than you sneaking in totally unseen.
 
-You can enter asteroid and orbit areas undetected at any time — no detection
+You can enter asteroid and orbit areas undetected at any time — no detection 
 check is necessary, and no encounters occur.
 
-### <a name="R225">Entry Encounters (R225B)</a>
-If you are detected (see <a href="#R225">R225</a>A), you must now roll one die (1d6), subtract one
+### <a name="R225B">Entry Encounters (R225B)</a>
+If you are detected (see <a href="#R225A">R225A</a>), you must now roll one die (1d6), subtract one
 (-1), and cross-reference the result with the type of area entered or the
 Entry & Contact Table (<a href="#R233">R233</a>). Most results refer to a specific events
 paragraph (EOOO). A few refer to a specific rules paragraph with a special
 listing, and some refer to the “SYST” chart on the Encounter Table, where
 another 1d6 roll is cross-referenced with the star system you are in now.
 
-### <a name="R225">Entry in Stasis (R225C)</a>
+### <a name="R225C">Entry in Stasis (R225C)</a>
 If you arrive anywhere in a stasis unit because of voluntary or automatic
-activation (<a href="#R212">R212</a>E), refer to recovery from stasis table (<a href="#R240">R240</a>) and roll 1d6
+activation (<a href="#R212E">R212E</a>), refer to recovery from stasis table (<a href="#R240">R240</a>) and roll 1d6
 for the result before you continue play.
 
 ## <a name="R226">R226 System Entry Encounters</a>
 Whenever you hyperjump to a new star system you must check for a system entry
 encounter immediately upon arrival. To do this, refer to the proper system in
-<a href="#R207">R207</a>, and roll 1d6. After this event, you can begin moving in your starship to
-any planet or the asteroids (see <a href="#R212">R212</a>G).
+R<a href="#207">207</a>, and roll 1d6. After this event, you can begin moving in your starship to
+any planet or the asteroids (see <a href="#R212G">R212G</a>).
 
 Once you undergo the system entry table in <a href="#R207">R207</a>, you need not check it again
 until you hyperjump and arrive at a new star system. System entry results are
@@ -1609,7 +1606,7 @@ The result will be encounters, some of them unpleasant, of course.
 Contact tries are not possible in orbit, or at an asteroid.
 
 Contact tries during a normal day are entirely voluntary (except in RRR, see
-<a href="#R227">R227</a>A below). A contact try is only possible if at least one hour remains in
+R<a href="#227A">227A</a> below). A contact try is only possible if at least one hour remains in
 the day. You must leave your vehicle (if any) to make a contact try, but if
 the resulting event occurs at “dispersed” (long) range, you can return to your
 vehicle for the start of the event, if desired.
@@ -1624,8 +1621,8 @@ after the first you add one (+1) to the contact try die roll. Only days in
 which at least one contact try is attempted may be counted. Should you leave
 the area, you lose benefit of all days spent there.
 
-### <a name="R227">Contact During RRR (R227A)</a>
-If you spend a day in RRR, or isolated characters spend a day in RRR (<a href="#R203">R203</a>C),
+### <a name="R227A">Contact During RRR (R227A)</a>
+If you spend a day in RRR, or isolated characters spend a day in RRR (<a href="#R203C">R203C</a>),
 there is a possibly of an encounter roll 1d6: if a “6” results, an encounter
 occurs. Roll 1d6 again and consult <a href="#R233">R233</a>. In any contact try encounters, the
 1d6 rolls are not modified, regardless of how many days are spent in the area.
@@ -1650,15 +1647,15 @@ causes you to become “wanted.” Of course, while traveling under forged paper
 you may be discovered, and that alone will be enough to make you “wanted”
 again, if not arrested outright!
 
-The use of forged papers means you must keep track of each set of papers, and
+The use of forged papers means you must keep track of each set of papers, and 
 whether that identity is “wanted” anywhere.
 
 ## <a name="R229">R229 Cargo, Goods, and Services</a>
 Buying and selling items is an important part of being a Star Smuggler, since
-it’s the main way to become rich. Normally money (Secs, <a href="#R232">R232</a>A) is used in
+it’s the main way to become rich. Normally money (Secs, <a href="#R232A">R232A</a>) is used in
 any-transaction, unless the event specifies some sort of trade.
 
-### <a name="R229">Buying, Selling, and Salaries (R229A)</a>
+### <a name="R229A">Buying, Selling, and Salaries (R229A)</a>
 Most events give specific costs or salaries for goods and services. This price
 is normally listed as the base price in Secs (S). The base price is modified
 by the wealth code of the star system, to given the actual price. Wealth codes
@@ -1672,29 +1669,29 @@ roll of “1”, <a href="#R241">R241</a> indicates a multiplier of “x1”, so
 If the 1d6 roll was “6” , the resulting multiplier is “x3”, so the actual cost
 is (5x3=) 15 S.
 
-Premium Prices mean, that when consulting <a href="#R241">R241</a>, increase the wealth code one
-level (move down one row) and add one to the 1d6 roll (move to the right one
+Premium Prices mean, that when consulting <a href="#R241">R241</a>, increase the wealth code one 
+level (move down one row) and add one to the 1d6 roll (move to the right one 
 column) to get the premium price.
 
-Devaluated Prices mean that when consulting <a href="#R241">R241</a>, decrease the wealth code one
-level (move up one row), and subtract one to the 1d6 (move to the left one
+Devaluated Prices mean that when consulting <a href="#R241">R241</a>, decrease the wealth code one 
+level (move up one row), and subtract one to the 1d6 (move to the left one 
 column) roll to get the devaluated price.
 
-Any premium or devalued price modifiers that move the result off the table are
+Any premium or devalued price modifiers that move the result off the table are 
 ignored (i.e., stay within the limits of the table).
 
-### <a name="R229">Carrying & Hiding Items (R229B)</a>
+### <a name="R229B">Carrying & Hiding Items (R229B)</a>
 All persons, equipment and cargo occupy space, measured in Capacity Units (CUs,
 see <a href="#R211">R211</a>). To carry an item, sufficient CU-carrying ability is required. Any
 items not carried by party members, in one of your vehicles, or in a cache
-(<a href="#R229">R229</a>C) are abandoned and lost. Materials in the starship must have the
+(<a href="#R229C">R229C</a>) are abandoned and lost. Materials in the starship must have the
 storage location noted. The starship has six 1 CU hiding places that can be
 used, as well as normal compartments. There are no “hiding places” in other
 vehicles, in robots, or anywhere else unless indicated in the event. Of
-course, an item in an activated stasis unit (<a href="#R212">R212</a>E) cannot be observed or
+course, an item in an activated stasis unit (<a href="#R212E">R212E</a>) cannot be observed or
 examined.
 
-### <a name="R229">Caches (R229C)</a>
+### <a name="R229C">Caches (R229C)</a>
 Some events can cost you much of your current possessions, or cost considerable
 money. To avoid some of these results, you can cache money or equipment at the
 end of any day. Caches can only be formed if you did not travel that day. When
@@ -1702,13 +1699,13 @@ you later return to the area of the cache, you can spend 1d6 hours at the
 start of the day looking for it. Consult the Cache Table (<a href="#R242">R242</a>) for the
 results. As a general rule, asteroids are the best places to cache items.
 
-Items that require life support will die unless left in a place with life
-support, or placed within an activated stasis unit (<a href="#R212">R212</a>E).
+Items that require life support will die unless left in a place with life 
+support, or placed within an activated stasis unit (<a href="#R212E">R212E</a>).
 
-Items that require a continual operating cost in Secs (such as robots) will
-automatically break down unless placed within an activated stasis unit (<a href="#R212">R212</a>E).
+Items that require a continual operating cost in Secs (such as robots) will 
+automatically break down unless placed within an activated stasis unit (<a href="#R212E">R212E</a>).
 
-### <a name="R229">Starship Searches (R229D)</a>
+### <a name="R229D">Starship Searches (R229D)</a>
 Some events require a search of the starship (by customs officials, a military
 patrol, quarantine officers, etc.). When this occurs, roll 2d6 and consult the
 results below to see which parts of the ship are searched. Anything in those
@@ -1745,16 +1742,16 @@ Results Codes for Searches:
 |  P  | pilot’s compartment searched                                           |
 
 ## <a name="R230">R230 Combat</a>
-When your character and/or party decide to “fight” opponents, or are forced to
+When your character and/or party decide to “fight” opponents, or are forced to 
 fight, the combat rules apply.
 
-### <a name="R230">Combat Procedure (R230A)</a>
+### <a name="R230A">Combat Procedure (R230A)</a>
 Combat is fought in rounds. Each round represents about 5 minutes of action.
 The rounds continue until one side escapes, is wiped out (or completely
 disabled), or the conflict is resolved otherwise as described in the event.
 
 Each round you decide whether you are trying to escape or not. Then you decide
-which combat zone you wish to fight at (see <a href="#R230">R230</a>B), you must already be in
+which combat zone you wish to fight at (see <a href="#R230B">R230B</a>), you must already be in
 dispersed zone, and remain there, to attempt escape. Finally, all attacks are
 resolved, with ranged weapons firing first in order of tech level (higher tech
 fires first), and then hand-to-hand attacks in order of hand-to-hand combat
@@ -1765,7 +1762,7 @@ vehicle, carrying someone to safety, carrying items in or out of a vehicle,
 etc. Any such special activity prevents changing zones or making any attacks.
 The character can still be attacked.
 
-### <a name="R230">Combat Zones (Ranges) (R230B)</a>
+### <a name="R230B">Combat Zones (Ranges) (R230B)</a>
 There are two zones, or ranges, of combat: dispersed and contact. When in the
 dispersed zone, only ranged weapons can be used. When in contact, only
 hand-to-hand attacks are allowed.
@@ -1797,9 +1794,9 @@ decides to leave contact).
 All combat begins at dispersed zone unless the event occurs inside a vehicle,
 or indicates contact zone specifically. During the first round characters in
 the dispersed zone cannot close to contact. In addition, surprise may further
-limit actions (see <a href="#R230">R230</a>I).
+limit actions (see <a href="#R230I">R230I</a>).
 
-### <a name="R230">Selecting Opponents (R230C)</a>
+### <a name="R230C">Selecting Opponents (R230C)</a>
 Normally people pair off one-against-one in combat, and engage characters in
 their own zone as much as possible. That is, dispersed persons will pair off
 and exchange fire, while contact persons will tend to contact each other
@@ -1814,12 +1811,12 @@ characters in contact with an enemy must attack that enemy.
 
 Remember that robots cannot attack, and are simply victims of attacks.
 
-### <a name="R230">Ranged Weapon Fire (R230D)</a>
+### <a name="R230D">Ranged Weapon Fire (R230D)</a>
 Ranged weapons include sidearms, heavy hand weapons, skimmer guns, boat guns,
-and starship guns. Starship guns use a special firing procedure, see <a href="#R230">R230</a>L.
+and starship guns. Starship guns use a special firing procedure, see <a href="#R230L">R230L</a>.
 
 To fire a ranged weapon, add together the weapon’s tech level, and the user’s
-marksmanship characteristic (<a href="#R201">R201</a>A). Then roll 2d6, if the result is less than
+marksmanship characteristic (<a href="#R201A">R201A</a>). Then roll 2d6, if the result is less than
 or equal to the total, the weapon hits. Any higher dice roll is a miss. If you
 hit, and either of the two dice read “6”, it is a critical hit.
 
@@ -1834,7 +1831,7 @@ enemy throughout this round have special problems. When firing into a
 will automatically hit the other person instead. As a result, you might hit
 your friend by accident!
 
-### <a name="R230">Damage from Ranged Weapon Hits (R230E)</a>
+### <a name="R230E">Damage from Ranged Weapon Hits (R230E)</a>
 An individual who takes a normal hit from a normal weapon suffers just one hit,
 and his endurance is reduced by one. When endurance reaches zero the character
 is dead (see <a href="#R231">R231</a>).
@@ -1856,7 +1853,7 @@ in five minutes. A functioning PS robot with the character will avoid this
 danger, as will getting the wounded person into a new suit or into a life
 supported area.
 
-### <a name="R230">Sequence of Ranged Weapon Fire (R230F)</a>
+### <a name="R230F">Sequence of Ranged Weapon Fire (R230F)</a>
 In each round, all ranged weapons fire before any hand-to-hand attacks are
 made. Higher tech ranged weapons always fire before lower tech ones. If
 opposing characters have weapons of the same tech level, the one with higher
@@ -1865,12 +1862,12 @@ fire at the same time — damage takes effect after both shoot. Note that a
 character disabled or killed before he has a chance to attack will be unable
 to attack.
 
-### <a name="R230">Hand-to-Hand Combat (R230G)</a>
+### <a name="R230G">Hand-to-Hand Combat (R230G)</a>
 A person in contact with an opponent can make a hand-to-hand attack. To
 determine the result, roll 1d6, add the attacker’s hand-to-hand ability, and
 from that subtract the target’s hand-to-hand ability.
 
-If the result is a positive odd number (that is, 1,3,5,7,9 or 11) one hit is
+If the result is a positive odd number (that is, 1,3,5,7,9 or 11) one hit is 
 scored, and the target’s endurance is reduced by one.
 
 If the result is “7” exactly, the attacker may disarm the target instead of
@@ -1878,7 +1875,7 @@ inflicting one hit. If this occurs, the attacker takes away from the target
 any weapon he or she has. If the target is carrying an item, disabled person,
 etc., the attacker can choose to take that instead.
 
-If the result is “9” or “11” exactly, the target is automatically disabled in
+If the result is “9” or “11” exactly, the target is automatically disabled in 
 addition to suffering a hit.
 
 If Duke Springer is in hand-to-hand combat, before making his attack, he can
@@ -1886,7 +1883,7 @@ make a cunning roll. If he succeeds, he adds 1d6 to his hand-to-hand combat
 ability. If he fails, his combat ability is unaffected, but his hand-to-hand
 attack occurs last, regardless of when it would normally occur.
 
-### <a name="R230">Sequence of Hand-to-Hand Attacks (R230H)</a>
+### <a name="R230H">Sequence of Hand-to-Hand Attacks (R230H)</a>
 Hand-to-hand attacks occur after all ranged weapon fire is finished. A
 character who fired a ranged weapon cannot make a hand-to-hand attack.
 However, a character can change zones and still make a hand-to-hand attack.
@@ -1895,14 +1892,14 @@ When opposing characters are in contact with each other, the character with the
 higher hand-to-hand ability attacks first. If both have the same ability, they
 attack at the same time.
 
-### <a name="R230">Surprise (R230I)</a>
+### <a name="R230I">Surprise (R230I)</a>
 If a party has surprise in combat (as indicated in the event), the party is
 allowed one free round of attacks with ranged weapons. The party can make
 hand-to-hand attacks if they start in contact. During this round the opponents
 are unable to do anything (being surprised), but those permitted to attack can
 undertake all normal activities (including escape, if desired).
 
-### <a name="R230">Escape (R230J)</a>
+### <a name="R230J">Escape (R230J)</a>
 In a round of combat, you decide to have your party escape. If you decide to
 escape, none of the characters in your party can make attacks that round, and
 all must attempt to go to the dispersed zone. At the end of the round,
@@ -1924,7 +1921,7 @@ Escape inside vehicles is possible by exiting the vehicle (abandoning it). It
 is impossible to abandon a spaceship in deep space, in orbit, or at an
 asteroid, as it means certain death (even if one has a utility suit).
 
-### <a name="R230">Vehicle Combat on Planet (R230K)</a>
+### <a name="R230K">Vehicle Combat on Planet (R230K)</a>
 When the persons in combat are in vehicles, on either side, all combat is at
 the dispersed zone unless the vehicle owner(s) voluntarily elect contact.
 Sidearms and heavy hand weapons can be fired from a skimmer (by someone other
@@ -1936,7 +1933,7 @@ add two (+2) to the dice roll for hits if the skimmer is stationary and
 permitting contact, otherwise he must add five (+5) to the dice roll. In
 either case, the result is to make hits much harder.
 
-Skimmer guns and boat guns must add two (+2) to firing dice rolls unless the
+Skimmer guns and boat guns must add two (+2) to firing dice rolls unless the 
 vehicle is stationary and permitting contact.
 
 When firing at a target in a vehicle, the hits are always to the vehicle
@@ -1948,9 +1945,9 @@ they have no effect. Boat guns (and equivalent military weapons) have full
 effect against any target except a starship, where they are treated as
 starship guns of one tech level lower than normal (i.e., if the boat guns are
 normally tech 4, when firing at a starship they count as tech 3 instead) (see
-<a href="#R230">R230</a>L).
+R<a href="#230L">230L</a>).
 
-*Vehicle Critical Hits*: any critical hit effect on a vehicle is resolved by
+*Vehicle Critical Hits*: any critical hit effect on a vehicle is resolved by 
 roll 1d6 and consulting <a href="#R237">R237</a>. The critical hit is in addition to normal hits.
 
 *Vehicle Damage*: skimmers and other commercial vehicles are immobilized by the
@@ -1968,7 +1965,7 @@ Starships are the fastest vehicles present, then ship’s boats, then orbital
 shuttles, then skimmers, and finally commercial vehicles. Military and police
 vehicles have the speed of their civilian counterpart.
 
-### <a name="R230">Space Combat & Starship Guns (R230L)</a>
+### <a name="R230L">Space Combat & Starship Guns (R230L)</a>
 Only starships or boat guns can fire at other starships or fight in space
 (i.e., in orbit, arriving, or departing from a star system). Due to the great
 speeds involved, each combat round is one hour rather than five minutes — it
@@ -2013,7 +2010,7 @@ fire, but not both.
 
 #### Escaping Space Combat
 There are only two ways of escaping starship combat in a spaceship or ship’s
-boat. First, you can escape with a hyperjump (<a href="#R212">R212</a>A) — impossible for a boat.
+boat. First, you can escape with a hyperjump (<a href="#R212A">R212A</a>) — impossible for a boat.
 Second, you can hide on an asteroid, if you are currently “in orbit” in the
 asteroid belt (<a href="#R206">R206</a>). To hide, select one of the asteroids to hide, and move
 there. Each pursuer then rolls 1d6, and goes to the asteroid with that number.
@@ -2022,25 +2019,25 @@ you have escaped them. You can try to shake off your pursuer again by
 returning to orbit and then going again among the asteroids. This represents
 the huge size of the asteroid belt and the many hiding places present.
 
-You can also escape space combat by landing the starship or boat in any area
-(including a space station) and leaving it. Unfortunately, this results in the
+You can also escape space combat by landing the starship or boat in any area 
+(including a space station) and leaving it. Unfortunately, this results in the 
 automatic destruction of the starship or boat.
 
 #### Starship Guns Firing on Planet
 Starship guns can be used on planet in normal battles. Since they are computer
 controlled, the marksmanship of the firer is not used — instead, they have an
 automatic marksmanship of six (6) whenever any qualified starship gunner
-operates them. Hits are determined using the normal combat procedure (<a href="#R230">R230</a>D),
+operates them. Hits are determined using the normal combat procedure (<a href="#R230D">R230D</a>),
 but if they hit, the result is automatically equivalent to 10 hits on an
 individual, or 1d6 hits and a critical hit on a vehicle. Note that as a
 result, a hit by starship guns will normally kill a person, and usually knocks
 out vehicles.
 
 ## <a name="R231">R231 Wounds & Endurance</a>
-Every person has a number of Endurance points (<a href="#R201">R201</a>A). This determines how many
+Every person has a number of Endurance points (<a href="#R201A">R201A</a>). This determines how many
 hits the person can take. Each hit reduces a person’s endurance by one (-1),
 if endurance reaches zero (0) the person will die unless he receives immediate
-emergency first aid (<a href="#R231">R231</a>B). If endurance drops below 0, the person dies
+emergency first aid (<a href="#R231B">R231B</a>). If endurance drops below 0, the person dies
 instantly, even if first aid is available. A person can also become disabled
 in combat. This means the person is knocked unconscious for the rest of the
 combat, but is otherwise unaffected. A disabled person can be carried away by
@@ -2050,11 +2047,11 @@ with them. If a failure, the rest of your party will abandon you, they
 disappear from the game, and you have lost the battle as well.
 
 Hits suffered in combat heal at the rate of one hit per day spent in RRR
-(<a href="#R203">R203</a>B). Of course, a person cannot heal beyond his or her normal endurance
+(<a href="#R203B">R203B</a>). Of course, a person cannot heal beyond his or her normal endurance
 level. Recovery from a disablement occurs automatically at the end of combat,
 no RRR is needed.
 
-### <a name="R231">Medical Centers & Accelerated Healing (R231A)</a>
+### <a name="R231A">Medical Centers & Accelerated Healing (R231A)</a>
 A wounded person in an area with a Medical Center can pay for accelerated
 healing at the center. At a base cost of 15 S per hit in a city medical
 center, or 25 S per hit in a colony medical center, any number of hits can be
@@ -2063,15 +2060,15 @@ purchase! Colony medical centers in star systems with a Tech code of 20 or
 less cannot heal more than three (3) hits per day, regardless of what you pay,
 due to limited facilities.
 
-### <a name="R231">Emergency First Aid (R231B)</a>
+### <a name="R231B">Emergency First Aid (R231B)</a>
 Emergency first aid is needed to prevent death if a character is at zero (0)
 endurance exactly. Emergency first aid is received if the person has a PS
-robot (<a href="#R222">R222</a>C) attached, or a medic is present and on the round after the
+robot (<a href="#R222C">R222C</a>) attached, or a medic is present and on the round after the
 emergency occurs spends his/her entire time giving first aid. Emergency first
 aid must continue uninterrupted until healing allows the person to regain at
 least one endurance point, or the person will die after all.
 
-### <a name="R231">Calling Medical Aid (R231C)</a>
+### <a name="R231C">Calling Medical Aid (R231C)</a>
 Using the radio/communicator available in any starship or ship’s boat, on a PS
 robot, or in any land area with life support, you can call for medical aid.
 You cannot call if you are “wanted” in the system (<a href="#R228">R228</a>). Medical aid provides
@@ -2102,18 +2099,18 @@ them during the game. Generally, the records should include:
 
 1. The current location of yourself, your vehicles, and your party (if isolated from you).
 1. Characteristics of yourself and your hirelings (<a href="#R201">R201</a>), including hits from combat, etc.
-1. Cost of salaries (<a href="#<a href="#R220">R220</a>">R220</a>A), insurance (R220B), and personal property of hirelings.
-1. Your money (<a href="#R232">R232</a>A), and payment record on your starship loan (<a href="#R203">R203</a>E). Also note any other special debts,  money deposited (and which system the bank is located in), etc.
+1. Cost of salaries (<a href="#R220A">R220A</a>), insurance (<a href="#R220B">R220B</a>), and personal property of hirelings.
+1. Your money (<a href="#R232A">R232A</a>), and payment record on your starship loan (<a href="#R203E">R203E</a>). Also note any other special debts,  money deposited (and which system the bank is located in), etc.
 1. Whether you or any of your party are “wanted” in any star system, and the identification papers (including forgeries) available for all (<a href="#R228">R228</a>).
-1. Location and contents of each cache of items (<a href="#R229">R229</a>C).
+1. Location and contents of each cache of items (<a href="#R229C">R229C</a>).
 1. List of each vehicle, and the equipment in it, including the location of each item, its tech level (<a href="#R210">R210</a>), and  whether it has any damage or is broken down. This should include fuel units (FUs), repair units (RUs), and life  support units (LSUs), as well as number of hypercharges remaining in the starship itself. This should also  include items in cargo.
 
-### <a name="R232">Monetary System (R232A)</a>
+### <a name="R232A">Monetary System (R232A)</a>
 The entire Pavonis sector uses a standard currency, technically called Sector
 Exchange Units, commonly called “Secs” and normally abbreviated “S.” All
 prices are calculated in Secs unless an event specifically indicates you can
 trade or barter. Prices vary from system to system for the same item, normally
-the base price is given and the actual price must be computed (<a href="#R229">R229</a>A,
+the base price is given and the actual price must be computed (<a href="#R229A">R229A</a>,
 multiplier table <a href="#R241">R241</a>).
 
 #### Banks
@@ -2137,7 +2134,7 @@ same star system.
 #### Money Handling
 In addition to bank accounts, you can also carry money on your person, in your
 starship (the money, regardless of amount, takes up 1 CU of space), and/or
-place it in a cache (<a href="#R229">R229</a>C). Spending or receiving money takes no time, but
+place it in a cache (<a href="#R229C">R229C</a>). Spending or receiving money takes no time, but
 you must actually hand over cash for any purchase. Signed checks, bank drafts,
 etc., cannot be used — nobody trusts such things in the Pavonis sector! Of
 course, whenever making a transaction in an area where you have a bank
@@ -2157,22 +2154,22 @@ Contact Try: add one (+1) per consecutive day of trying in the area
 
 | Area Type     |   0  |  1   |  2   |  3   |  4    |   5   |  6+   |
 |---------------|------|------|------|------|-------|-------|-------|
-| City          | <a href="#E129">E129</a> | <a href="#R337">R337</a> | <a href="#R339">R339</a> | <a href="#E011">E011</a> | <a href="#E185">E185</a>  | <a href="#R205">R205</a>A | Syst  |
-| Colony        | <a href="#E019">E019</a> | <a href="#E185">E185</a> | <a href="#E137">E137</a> | <a href="#R329">R329</a> | <a href="#E198">E198</a>  | <a href="#R205">R205</a>B | Syst  |
-| Craters       | <a href="#E070">E070</a> | Syst | <a href="#E140">E140</a> | <a href="#E196">E196</a> | <a href="#E085">E085</a>  | <a href="#R205">R205</a>C | <a href="#E168">E168</a>  |
-| Gambling      | <a href="#E006">E006</a> | <a href="#R331">R331</a> | <a href="#R334">R334</a> | <a href="#E014">E014</a> | Syst  | <a href="#R205">R205</a>D | <a href="#E071">E071</a>  |
-| Industrial    | <a href="#E181">E181</a> | <a href="#R333">R333</a> | <a href="#E010">E010</a> | <a href="#R335">R335</a> | <a href="#E146">E146</a>  | <a href="#R205">R205</a>E | Syst  |
-| Military      | <a href="#E059">E059</a> | <a href="#E077">E077</a> | <a href="#E003">E003</a> | <a href="#E086">E086</a> | Syst  | <a href="#R205">R205</a>F | <a href="#E018">E018</a>  |
-| Mining        | <a href="#E181">E181</a> | <a href="#E005">E005</a> | <a href="#E190">E190</a> | Syst | <a href="#E072">E072</a>  | <a href="#R205">R205</a>G | <a href="#E172">E172</a>  |
+| City          | <a href="#E129">E129</a> | <a href="#R337">R337</a> | <a href="#R339">R339</a> | <a href="#E011">E011</a> | <a href="#E185">E185</a>  | <a href="#R205A">R205A</a> | Syst  |
+| Colony        | <a href="#E019">E019</a> | <a href="#E185">E185</a> | <a href="#E137">E137</a> | <a href="#R329">R329</a> | <a href="#E198">E198</a>  | <a href="#R205B">R205B</a> | Syst  |
+| Craters       | <a href="#E070">E070</a> | Syst | <a href="#E140">E140</a> | <a href="#E196">E196</a> | <a href="#E085">E085</a>  | <a href="#R205C">R205C</a> | <a href="#E168">E168</a>  |
+| Gambling      | <a href="#E006">E006</a> | <a href="#R331">R331</a> | <a href="#R334">R334</a> | <a href="#E014">E014</a> | Syst  | <a href="#R205D">R205D</a> | <a href="#E071">E071</a>  |
+| Industrial    | <a href="#E181">E181</a> | <a href="#R333">R333</a> | <a href="#E010">E010</a> | <a href="#R335">R335</a> | <a href="#E146">E146</a>  | <a href="#R205E">R205E</a> | Syst  |
+| Military      | <a href="#E059">E059</a> | <a href="#E077">E077</a> | <a href="#E003">E003</a> | <a href="#E086">E086</a> | Syst  | <a href="#R205F">R205F</a> | <a href="#E018">E018</a>  |
+| Mining        | <a href="#E181">E181</a> | <a href="#E005">E005</a> | <a href="#E190">E190</a> | Syst | <a href="#E072">E072</a>  | <a href="#R205G">R205G</a> | <a href="#E172">E172</a>  |
 | Palace        | <a href="#E059">E059</a> | <a href="#E199">E199</a> | <a href="#E012">E012</a> | <a href="#R336">R336</a> | Syst  | <a href="#E131">E131</a>  | <a href="#E175">E175</a>  |
-| Prison        | <a href="#E417">E417</a> | <a href="#E008">E008</a> | <a href="#E190">E190</a> | <a href="#E087">E087</a> | Syst  | <a href="#R205">R205</a>I | <a href="#E073">E073</a>  |
+| Prison        | <a href="#E417">E417</a> | <a href="#E008">E008</a> | <a href="#E190">E190</a> | <a href="#E087">E087</a> | Syst  | <a href="#R205I">R205I</a> | <a href="#E073">E073</a>  |
 | Rough Terrain | <a href="#E154">E154</a> | <a href="#E015">E015</a> | Syst | <a href="#E168">E168</a> | <a href="#E188">E188</a>  | <a href="#E196">E196</a>  | <a href="#E178">E178</a>  |
-| Ruins         | <a href="#E150">E150</a> | Syst | <a href="#E004">E004</a> | <a href="#E070">E070</a> | <a href="#E088">E088</a>  | <a href="#R205">R205</a>K | <a href="#E084">E084</a>  |
-| Rural         | <a href="#R338">R338</a> | <a href="#E016">E016</a> | <a href="#E005">E005</a> | Syst | <a href="#E188">E188</a>  | <a href="#R205">R205</a>L | <a href="#E180">E180</a>  |
-| Scientific    | <a href="#E017">E017</a> | <a href="#E009">E009</a> | <a href="#E127">E127</a> | <a href="#E158">E158</a> | <a href="#R205">R205</a>M | Syst  | <a href="#E075">E075</a>  |
-| Slums         | <a href="#E142">E142</a> | <a href="#R332">R332</a> | <a href="#R337">R337</a> | <a href="#E076">E076</a> | <a href="#E013">E013</a>  | <a href="#R205">R205</a>N | Syst  |
-| Spaceport     | <a href="#E019">E019</a> | <a href="#E409">E409</a> | <a href="#R330">R330</a> | <a href="#E185">E185</a> | Syst  | <a href="#E002">E002</a>  | <a href="#R205">R205</a>O |
-| Space Station | <a href="#E019">E019</a> | Syst | <a href="#E002">E002</a> | <a href="#E007">E007</a> | <a href="#E125">E125</a>  | <a href="#R328">R328</a>  | <a href="#R205">R205</a>P |
+| Ruins         | <a href="#E150">E150</a> | Syst | <a href="#E004">E004</a> | <a href="#E070">E070</a> | <a href="#E088">E088</a>  | <a href="#R205K">R205K</a> | <a href="#E084">E084</a>  |
+| Rural         | <a href="#R338">R338</a> | <a href="#E016">E016</a> | <a href="#E005">E005</a> | Syst | <a href="#E188">E188</a>  | <a href="#R205L">R205L</a> | <a href="#E180">E180</a>  |
+| Scientific    | <a href="#E017">E017</a> | <a href="#E009">E009</a> | <a href="#E127">E127</a> | <a href="#E158">E158</a> | <a href="#R205M">R205M</a> | Syst  | <a href="#E075">E075</a>  |
+| Slums         | <a href="#E142">E142</a> | <a href="#R332">R332</a> | <a href="#R337">R337</a> | <a href="#E076">E076</a> | <a href="#E013">E013</a>  | <a href="#R205N">R205N</a> | Syst  |
+| Spaceport     | <a href="#E019">E019</a> | <a href="#E409">E409</a> | <a href="#R330">R330</a> | <a href="#E185">E185</a> | Syst  | <a href="#E002">E002</a>  | <a href="#R205O">R205O</a> |
+| Space Station | <a href="#E019">E019</a> | Syst | <a href="#E002">E002</a> | <a href="#E007">E007</a> | <a href="#E125">E125</a>  | <a href="#R328">R328</a>  | <a href="#R205P">R205P</a> |
 
 (no event if entering or leaving orbit or asteroids, except when entering a new star system, then see <a href="#R207">R207</a>)
 
@@ -2208,8 +2205,8 @@ Compare system tech code with 1d6 roll for tech level (see <a href="#R210">R210<
 | 5  |  1 |  1 |  2 |  3 |  4 |  5 |  6 |  6 |  6 |  6  |
 | 6  |  1 |  2 |  3 |  4 |  5 |  6 |  6 |  6 |  6 |  6  |
 
-“*1”: if a weapons tech level is being determined, this result means that
-instead of normal weapons, the characters have only hand-to-hand items; for any
+“*1”: if a weapons tech level is being determined, this result means that 
+instead of normal weapons, the characters have only hand-to-hand items; for any 
 other type of equipment, this is a normal tech level 1 result.
 
 
@@ -2217,25 +2214,25 @@ other type of equipment, this is a normal tech level 1 result.
 
 | name                   | (rules reference) | CU | notes on function and use  |
 |------------------------|-------------------|----|----------------------------|
-| FU: fuel unit          |      (<a href="#R211">R211</a>C)      |  1 | used in ship’s boat and skimmer |
+| FU: fuel unit          |      (<a href="#R211C">R211C</a>)      |  1 | used in ship’s boat and skimmer |
 | LSU: life support unit |      (<a href="#R213">R213</a>)       |  1 | need if good atmosphere is not present except when in starship or orbital shuttle |
-| RU: repair unit        |      (<a href="#R211">R211</a>B)      |  1 | to repair one item during an RRR day |
+| RU: repair unit        |      (<a href="#R211B">R211B</a>)      |  1 | to repair one item during an RRR day |
 | Utility Suit           |      (<a href="#R213">R213</a>)       |  1 | person in suit occupies 2 CU but may still carry 2 CU |
-| Stasis Unit            |      (<a href="#R212">R212</a>E)      |  1+|  hold CUs equal to its size |
-| Sidearm                |      (<a href="#R216">R216</a>D)      |  0 | takes no space, see <a href="#R230">R230</a>D-E for firing |
-| Heavy Hand Weapon      |      (<a href="#R216">R216</a>D)      |  1 | see <a href="#R230">R230</a>D-E for firing |
-| Skimmer Guns           |      (<a href="#R216">R216</a>D)      |  2 | on skimmer only, see <a href="#R230">R230</a>K for firing |
-| Boat Guns              |      (<a href="#R216">R216</a>B)      |  5 | on ship’s boat only, see <a href="#R230">R230</a>K-L for firing |
-| Starship Guns          |      (<a href="#R216">R216</a>A)      |  6 | on starship only, see <a href="#R230">R230</a>L for firing when installed, there is 2 CU left inside for operator
-| Skimmer                |      (<a href="#R215">R215</a>C)      | 10 | internal capacity of 6 CU |
+| Stasis Unit            |      (<a href="#R212E">R212E</a>)      |  1+|  hold CUs equal to its size |
+| Sidearm                |      (<a href="#R216D">R216D</a>)      |  0 | takes no space, see <a href="#R230D">R230D</a>-E for firing |
+| Heavy Hand Weapon      |      (<a href="#R216D">R216D</a>)      |  1 | see <a href="#R230D">R230D</a>-E for firing |
+| Skimmer Guns           |      (<a href="#R216D">R216D</a>)      |  2 | on skimmer only, see <a href="#R230K">R230K</a> for firing |
+| Boat Guns              |      (<a href="#R216B">R216B</a>)      |  5 | on ship’s boat only, see <a href="#R230K">R230K</a>-L for firing |
+| Starship Guns          |      (<a href="#R216A">R216A</a>)      |  6 | on starship only, see <a href="#R230L">R230L</a> for firing when installed, there is 2 CU left inside for operator
+| Skimmer                |      (<a href="#R215C">R215C</a>)      | 10 | internal capacity of 6 CU |
 | Ship’s Boat            |      (<a href="#R214">R214</a>)       | 40 | internal capacity 25 CU min 5 CU pilotage, max 15 CU fuel |
-| Commercial Vehicle     |      (<a href="#R215">R215</a>B)      |    | internal capacity 9 CU |
-| Orbital Shuttle        |      (<a href="#R215">R215</a>A)      |  - | internal capacity 50 CU |
+| Commercial Vehicle     |      (<a href="#R215B">R215B</a>)      |    | internal capacity 9 CU |
+| Orbital Shuttle        |      (<a href="#R215A">R215A</a>)      |  - | internal capacity 50 CU |
 | Starship               |      (<a href="#R212">R212</a>)       |  - | internal capacity 128 CU unarmed |
-| GM Robot               |      (<a href="#R222">R222</a>A)      |  1 | general maintenance (preventive) |
-| U Robot                |      (<a href="#R222">R222</a>B)      |  1 | utility type, carries 3 CU |
-| PS Robot               |      (<a href="#R222">R222</a>C)      |  1 | personal support (LSU, first aid) |
-| Hypercharge            |      (<a href="#R212">R212</a>B)      |  - | for starships only, carried in special area |
+| GM Robot               |      (<a href="#R222A">R222A</a>)      |  1 | general maintenance (preventive) |
+| U Robot                |      (<a href="#R222B">R222B</a>)      |  1 | utility type, carries 3 CU |
+| PS Robot               |      (<a href="#R222C">R222C</a>)      |  1 | personal support (LSU, first aid) |
+| Hypercharge            |      (<a href="#R212B">R212B</a>)      |  - | for starships only, carried in special area |
 
 ## <a name="R237">R237 Critical Hit Table: Vehicles</a>
 
@@ -2252,12 +2249,12 @@ other type of equipment, this is a normal tech level 1 result.
 |  5  | drives break down until repaired                                       |
 |  6  | Compartment penetrated, all without utility suits killed, those with 1 hit. For each CU of cargo, roll 1d6, “6” it is destroyed. |
 
-If compartment penetrated, roll 1d6 for compartment:
+If compartment penetrated, roll 1d6 for compartment: 
 
 |  D6 | Result        |
 |-----|---------------|
 |  1  | pilotage      |
-|  2  | crew quarters |
+|  2  | crew quarters | 
 |  3  | turret        |
 |  4  | engineering   |
 |  5  | hold          |
@@ -2282,7 +2279,7 @@ Determine detection factor from the table below, add or subtract to it
 depending on the area you are entering, then roll 1d6; entry is not detected
 if roll is greater than factor; entry is detected if roll is less than or
 equal to factor; If your entry is detected, see <a href="#R233">R233</a> — for complete rules, see
-<a href="#R225">R225</a>.
+R<a href="#225">225</a>.
 
 ### Means of Star System’s Tech Code
 
@@ -2307,7 +2304,7 @@ equal to factor; If your entry is detected, see <a href="#R233">R233</a> — for
 Paragraph <a href="#R239">R239</a> does not exist.
 
 ## <a name="R240">R240 Recovery from Stasis Table</a>
-Use this table whenever you are in an activated stasis unit (<a href="#R212">R212</a>E) unless the
+Use this table whenever you are in an activated stasis unit (<a href="#R212E">R212E</a>) unless the 
 event or rules indicate otherwise:
 
 ### 1d6 roll Results
@@ -2319,12 +2316,12 @@ event or rules indicate otherwise:
 |  4  | deactivated 230 years in future, money worthless, see <a href="#R229">R229</a> for caches  |
 |  5  | deactivated 3 years in future, half your money lost due to inflation, see <a href="#R229">R229</a> for caches remaining |
 |  6  | deactivated 1 year in future, money okay, see <a href="#R229">R229</a> for caches          |
-
+ 
 * start in Scientific Area, Spaceport, or Space Station, whichever is closest to the site where the stasis unit would appear. All items except those within the stasis unit are lost, money on your person is affected the result, as well as that in the bank.
 
 ## <a name="R241">R241 Base Price Multiplier Table</a>
-Compare 1d6 roll with wealth code to determine base price multiplier; multiplier
-times base price equals true price; see <a href="#R229">R229</a>A for complete rules.
+Compare 1d6 roll with wealth code to determine base price multiplier; multiplier 
+times base price equals true price; see <a href="#R229A">R229A</a> for complete rules.
 
 ### wealth 1d6 die roll
 
@@ -2343,8 +2340,8 @@ times base price equals true price; see <a href="#R229">R229</a>A for complete r
 | 100  | x2 | x3   | x5   | x5   | x10  | x20  |
 
 ## <a name="R242">R242 Cache Factor Table</a>
-Determine cache factor by adding basic factor and all time modifiers; to recover
-a cache, 1d6 roll must be greater than the cache factor; see <a href="#R229">R229</a>C
+Determine cache factor by adding basic factor and all time modifiers; to recover 
+a cache, 1d6 roll must be greater than the cache factor; see <a href="#R229C">R229C</a>
 
 ### Basic Cache Factor Time Modifiers for Cache Factor
 
@@ -2360,47 +2357,47 @@ a cache, 1d6 roll must be greater than the cache factor; see <a href="#R229">R22
 paragraphs <a href="#R243">R243</a> through <a href="#R299">R299</a> do not exist
 
 ## <a name="R300">R300 Surprise</a>
-Your party surprises those encountered, you can fight (<a href="#R230">R230</a>) or end the
+Your party surprises those encountered, you can fight (<a href="#R230">R230</a>) or end the 
 encounter with no event at your option.
 
 ## <a name="R301">R301 Surprise</a>
-Your party surprises those encountered if a 1d6 roll is less than your Cunning,
+Your party surprises those encountered if a 1d6 roll is less than your Cunning, 
 otherwise normal combat occurs (<a href="#R230">R230</a>).
 
 ## <a name="R302">R302 Surprise</a>
-Your party surprises those encountered if a 1d6 roll is less than or equal to
+Your party surprises those encountered if a 1d6 roll is less than or equal to 
 your Cunning, otherwise normal combat occurs (<a href="#R230">R230</a>).
 
 ## <a name="R303">R303 Surprise</a>
-Your party surprises those encountered if a 1d6 roll is greater than the number
+Your party surprises those encountered if a 1d6 roll is greater than the number 
 of characters in your party, otherwise normal combat occurs (<a href="#R230">R230</a>).
 
 ## <a name="R304">R304 Surprised</a>
-If a 1d6 roll is less than or equal to your Cunning, you sense danger and
-combat occurs normally (<a href="#R230">R230</a>); otherwise, your party is surprised by those you
-encounter (<a href="#R230">R230</a>I).
+If a 1d6 roll is less than or equal to your Cunning, you sense danger and 
+combat occurs normally (<a href="#R230">R230</a>); otherwise, your party is surprised by those you 
+encounter (<a href="#R230I">R230I</a>).
 
 ## <a name="R305">R305 Surprised</a>
-If a 1d6 roll is less than your Cunning, you sense danger and combat occurs
-normally (<a href="#R230">R230</a>); otherwise, your party is surprised in combat by those you
-encounter (<a href="#R230">R230</a>I).
+If a 1d6 roll is less than your Cunning, you sense danger and combat occurs 
+normally (<a href="#R230">R230</a>); otherwise, your party is surprised in combat by those you 
+encounter (<a href="#R230I">R230I</a>).
 
 ## <a name="R306">R306 Surprised</a>
-Those you encounter surprise you and your party in combat (<a href="#R230">R230</a>I).
+Those you encounter surprise you and your party in combat (<a href="#R230I">R230I</a>).
 
 ## <a name="R307">R307 Escape</a>
 Your party escapees combat and the event ends.
 
 ## <a name="R308">R308 Escape</a>
-if a 1d6 roll is less than your Cunning, you and your party escape the encounter
+if a 1d6 roll is less than your Cunning, you and your party escape the encounter 
 and avoid combat, event ends. Otherwise, combat occurs (<a href="#R230">R230</a>).
 
 ## <a name="R309">R309 Escape</a>
-If your Cunning is higher than a 1d6 roll, you and your party escape and avoid
+If your Cunning is higher than a 1d6 roll, you and your party escape and avoid 
 combat, event ends. Otherwise, combat occurs (<a href="#R230">R230</a>).
 
 ## <a name="R310">R310 Vehicular Escape</a>
-If your party has a vehicle that can move, you escape the encounter and the
+If your party has a vehicle that can move, you escape the encounter and the 
 event ends, otherwise combat occurs (<a href="#R230">R230</a>).
 
 ## <a name="R311">R311 Vehicular Escape</a>
@@ -2458,7 +2455,7 @@ subtract one (-1) from your dice roll there.
 Base price amount of bribe is given in event, multiply this by factor obtained
 in <a href="#R241">R241</a>. If you pay this bribe, encountered characters let you pass and
 encounter ends. If you don’t, they will attack you from their advantageous
-position, combat begins (<a href="#<a href="#R230">R230</a>">R230</a>) and they have surprise (R230I).
+position, combat begins (<a href="#R230">R230</a>) and they have surprise (<a href="#<a href="#R230">R230</a>I"><a href="#R230">R230</a>I</a>).
 
 ## <a name="R322">R322 Pass</a>
 Characters lose interest in your party, event ends now.
@@ -2485,7 +2482,7 @@ party is carrying. If you do, your party passes and the event ends. If you
 refuse, go to <a href="#R327">R327</a> and subtract one (-1) from the die roll there.
 
 ## <a name="R327">R327 Battle Reference</a>
-You are forced to fight those you encounter. Roll 2d6 and go to the appropriate
+You are forced to fight those you encounter. Roll 2d6 and go to the appropriate 
 section:
 
 | 2D6 | Result                                                                 |
@@ -2525,7 +2522,7 @@ do, roll 1d6:
 |  3  | Fair information, add one (+1) to detection die roll (<a href="#R225">R225</a>), and may continue to add it until you are detected entering this area. |
 |  4  | Route has an unmarked trap, you are not detected, but instead see <a href="#E059">E059</a> if on foot, <a href="#E077">E077</a> if in a vehicle. |
 | 5-6 | Map is wildly inaccurate, makes you look foolish and conspicuous, subtract one (-1) from detection die  roll (<a href="#R226">R226</a>). |
-
+ 
 Note: Detection procedure (<a href="#R225">R225</a>) normally references table <a href="#R238">R238</a>.
 
 ## <a name="R330">R330 Bribe for Entry (Base Price 25 S)</a>
@@ -2539,7 +2536,7 @@ required by <a href="#R225">R225</a>).
 ## <a name="R331">R331 Opportunity to Buy Items (Base Price 50 S)</a>
 You come across an interesting deal. Roll 1d6 and see list below for the exact
 type of item available. For each unit listed below, determine actual price by
-using rule <a href="#R229">R229</a>A and table <a href="#R241">R241</a>. You can buy as many of the item as you can
+using rule <a href="#R229A">R229A</a> and table <a href="#R241">R241</a>. You can buy as many of the item as you can
 afford.
 
 | D6  | Result                                                                 |
@@ -2552,9 +2549,9 @@ afford.
 |  6  | Pallet of rare woods, 4 CU per pallet.                                 |
 
 ## <a name="R332">R332 Opportunity to Buy Items (Base Price 100 S)</a>
-You come across an interesting offer. Roll 1d6 and see the list below for the
-exact type of item available. For each unit listed below, determine actual
-price by using rule <a href="#R229">R229</a>A and table <a href="#R241">R241</a>. You can buy as many of the item as
+You come across an interesting offer. Roll 1d6 and see the list below for the 
+exact type of item available. For each unit listed below, determine actual 
+price by using rule <a href="#R229A">R229A</a> and table <a href="#R241">R241</a>. You can buy as many of the item as 
 you can afford.
 
 | D6  | Result                                                                 |
@@ -2567,34 +2564,34 @@ you can afford.
 |  6  | Antique sidearms, 1 CU each. These will fire, but each time roll 1d6, sidearm explodes on “6” and inflicts 1d6 hits on user. If it fires correctly, consider it a normal Tech level 1 weapon. |
 
 ## <a name="R333">R333 Opportunity to Buy Items (Base Price 2d6 x 100 S)</a>
-You have the opportunity to buy the specific item mentioned below. Roll 1d6 to
-determine which item. You can only buy one. Actual cost is determined by using
-rule <a href="#R229">R229</a>A and table <a href="#R241">R241</a>.
+You have the opportunity to buy the specific item mentioned below. Roll 1d6 to 
+determine which item. You can only buy one. Actual cost is determined by using 
+rule <a href="#R229A">R229A</a> and table <a href="#R241">R241</a>.
 
 | D6  | Result                                                                 |
 |-----|------------------------------------------------------------------------|
 |  1  | A complete set of papers for a starship and a starship pilot (<a href="#R228">R228</a>). The papers are a good quality forgery, and take up no CU. |
-|  2  | A set of blueprints for a new type of robot, not yet available. These prints can be sold for double the base price in any other star system with Tech code 20 to 60 (determine actual selling price, based on doubled base price, using <a href="#R229">R229</a>A and <a href="#R241">R241</a>). Blueprints take up 1 CU of space. |
-|  3  | A vintage land vehicle that no longer functions, but is an interesting collector’s item. The vintage vehicle takes up 10 CU. It may be offered for sale at any palace. When you do, see ((<a href="#R333">R333</a>A)) |
-|  4  | Software for the military radar computers of this star system. You can attempt to sell them at any military base in any other star system. When you do, see (<a href="#R333">R333</a>B). Software takes up 1 CU of space. |
+|  2  | A set of blueprints for a new type of robot, not yet available. These prints can be sold for double the base price in any other star system with Tech code 20 to 60 (determine actual selling price, based on doubled base price, using <a href="#R229A">R229A</a> and <a href="#R241">R241</a>). Blueprints take up 1 CU of space. |
+|  3  | A vintage land vehicle that no longer functions, but is an interesting collector’s item. The vintage vehicle takes up 10 CU. It may be offered for sale at any palace. When you do, see ((<a href="#R333A">R333A</a>)) |
+|  4  | Software for the military radar computers of this star system. You can attempt to sell them at any military base in any other star system. When you do, see (<a href="#R333B">R333B</a>). Software takes up 1 CU of space. |
 |  5  | Magnificent hypno-gem, that reveals incredible beauty to the viewer, but is very additive to use. Where laws against addictive drugs exist, this gem is illegal. You must locate an addict to sell it, but will make a grand profit if you do so. Gem in case takes 1 CU. |
-|  6  | A Mark III mining mole, complete with spare bearings. This may be sold in any mining area off this planet for a base price of triple the base price for purchase, with actual price determined by <a href="#R229">R229</a>A and <a href="#R241">R241</a>. The mole occupies 12 CU. You may reserve the mole for your own use, but this will consume the spare bearings, and halve (1/2) the final selling price. In use, the mole is similar to a skimmer, with an internal capacity of 6 CU. However, it can move underground at the same speed you can walk on foot. If used underground to enter an area, treaty as entry on foot with one added (+1) on the Entry Detection die roll (table <a href="#R238">R238</a>). The maximum speed of the mole is walking on foot, treat riders in it as equivalent to foot speed. It requires one FU per day to run, but has a complete life support system inside that runs whenever fuel is being used. Any qualified skimmer driver can drive the mole. Skimmer guns can be mounted on the mole. |
+|  6  | A Mark III mining mole, complete with spare bearings. This may be sold in any mining area off this planet for a base price of triple the base price for purchase, with actual price determined by <a href="#R229A">R229A</a> and <a href="#R241">R241</a>. The mole occupies 12 CU. You may reserve the mole for your own use, but this will consume the spare bearings, and halve (1/2) the final selling price. In use, the mole is similar to a skimmer, with an internal capacity of 6 CU. However, it can move underground at the same speed you can walk on foot. If used underground to enter an area, treaty as entry on foot with one added (+1) on the Entry Detection die roll (table <a href="#R238">R238</a>). The maximum speed of the mole is walking on foot, treat riders in it as equivalent to foot speed. It requires one FU per day to run, but has a complete life support system inside that runs whenever fuel is being used. Any qualified skimmer driver can drive the mole. Skimmer guns can be mounted on the mole. |
 
-### <a name="R333">Vintage Vehicle Price Table (R333A)</a>
+### <a name="R333A">Vintage Vehicle Price Table (R333A)</a>
 
 Roll 1d6 for the result.
 
 | D6  | Result                                                               |
 |-----|----------------------------------------------------------------------|
 | 1-3 | they aren’t interested in vintage land vehicles |
-| 4-5 | they will pay three times base price (<a href="#R333">R333</a>B) (actual price then determined by <a href="#R229">R229</a>A and <a href="#R241">R241</a>) |
-|  6  | an eager collector offers five times base price (<a href="#R333">R333</a>B) (actual price determined by <a href="#R229">R229</a>A and <a href="#R241">R241</a>) |
+| 4-5 | they will pay three times base price (<a href="#R333B">R333B</a>) (actual price then determined by <a href="#R229A">R229A</a> and <a href="#R241">R241</a>) |
+|  6  | an eager collector offers five times base price (<a href="#R333B">R333B</a>) (actual price determined by <a href="#R229A">R229A</a> and <a href="#R241">R241</a>) |
 
-### <a name="R333">Military Radar Software Price Table (R333B)</a>
+### <a name="R333B">Military Radar Software Price Table (R333B)</a>
 
-Roll 1d6 for the result.  If you have Nipnan or Mynkurian software, add
-one (+1) to  the die roll, and if you are also selling to Mynkuria or Nipnan
-add two (+2) to the die roll. Results higher than “6” are still considered “6.”
+Roll 1d6 for the result.  If you have Nipnan or Mynkurian software, add 
+one (+1) to  the die roll, and if you are also selling to Mynkuria or Nipnan 
+add two (+2) to the die roll. Results higher than “6” are still considered “6.” 
 
 | D6 | Result                                                               |
 |----|----------------------------------------------------------------------|
@@ -2605,19 +2602,19 @@ add two (+2) to the die roll. Results higher than “6” are still considered �
 | 5  | offer you a base price of 2,000 for them                             |
 | 6  | offer you a base price of 10,000 for them                            |
 
-
+ 
 ## <a name="R334">R334 Sell Items (Base Price 50 S)</a>
-You have a chance to sell any of the items listed below, for the base price
-indicated. Determine actual price using rule <a href="#R229">R229</a>A and table <a href="#R241">R241</a>. You may only
+You have a chance to sell any of the items listed below, for the base price 
+indicated. Determine actual price using rule <a href="#R229A">R229A</a> and table <a href="#R241">R241</a>. You may only 
 sell, not purchase:
 
 * case(s) of fine liquor
-* cage(s) of rare birds
+* cage(s) of rare birds 
 * heavy hand weapons of any tech level
 
 ## <a name="R335">R335 Sell Items (Base Price 100 S)</a>
-You have a chance to sell any of the items listed below, for the base price
-indicated. Determine actual price using rule <a href="#R229">R229</a>A and table <a href="#R241">R241</a>. You may only
+You have a chance to sell any of the items listed below, for the base price 
+indicated. Determine actual price using rule <a href="#R229A">R229A</a> and table <a href="#R241">R241</a>. You may only 
 sell, not purchase:
 
 * utility suit(s)
@@ -2626,8 +2623,8 @@ sell, not purchase:
 * slaves (but not on Cubro or New Karma)
 
 ## <a name="R336">R336 Sell Items (Base Price 100 S)</a>
-You have a chance to sell any of the items listed below, for the base price
-indicated. Determine actual price using rule <a href="#R229">R229</a>A and table <a href="#R241">R241</a>. You may only
+You have a chance to sell any of the items listed below, for the base price 
+indicated. Determine actual price using rule <a href="#R229A">R229A</a> and table <a href="#R241">R241</a>. You may only 
 sell, not purchase:
 
 * case(s) of expensive clothing
@@ -2635,8 +2632,8 @@ sell, not purchase:
 * jar(s) of rare spices
 
 ## <a name="R337">R337 Sell Items (Base Price 100 S)</a>
-You have a chance to sell any of the items listed below, for the base price
-indicated. Determine actual price using rule <a href="#R229">R229</a>A and table <a href="#R241">R241</a>. You may only
+You have a chance to sell any of the items listed below, for the base price 
+indicated. Determine actual price using rule <a href="#R229A">R229A</a> and table <a href="#R241">R241</a>. You may only 
 sell, not purchase:
 
 * ampoules of hallucinogenic drugs
@@ -2645,8 +2642,8 @@ sell, not purchase:
 * a hypno-gem (will only buy one, but will pay ten times the usual price determined above)
 
 ## <a name="R338">R338 Sell Items (Base Price 50 S)</a>
-You have a chance to sell any of the items listed below, for the base price
-indicated. Determine actual price using rule <a href="#R229">R229</a>A and table <a href="#R241">R241</a>. You may only
+You have a chance to sell any of the items listed below, for the base price 
+indicated. Determine actual price using rule <a href="#R229A">R229A</a> and table <a href="#R241">R241</a>. You may only 
 sell, not purchase:
 
 * case(s) of sidearm ammunition
@@ -2656,8 +2653,8 @@ sell, not purchase:
 * pack(s) of 4 fragmentation grenades
 
 ## <a name="R339">R339 Sell Items (Base Price 100 S)</a>
-You have a chance to sell any of the items listed below, for the base price
-indicated. Determine actual price using rule <a href="#R229">R229</a>A and table <a href="#R241">R241</a>. You may only
+You have a chance to sell any of the items listed below, for the base price 
+indicated. Determine actual price using rule <a href="#R229A">R229A</a> and table <a href="#R241">R241</a>. You may only 
 sell, not purchase:
 
 * pallet(s) of rare wood, cut gem(s)
@@ -2676,33 +2673,33 @@ but operating costs are high. Your cash is almost gone, and another payment is
 due to the sector financiers. Maybe, just maybe, you can make ends meet if you
 look for illegal goods, and begin to take chances.
 
-Consult <a href="#R201">R201</a>B to determine your starting attributes, and your skills, for your
+Consult <a href="#R201B">R201B</a> to determine your starting attributes, and your skills, for your
 new career as a Star Smuggler, then continue reading here:
 
 You have a sturdy and reliable Antelope class starship (<a href="#R212">R212</a>) built to tech
 level 1 standards (<a href="#R210">R210</a>) and outfitted with a Hopper class ship’s boat (<a href="#R214">R214</a>)
-and starship guns (<a href="#R216">R216</a>A), both also tech level 1. The starship has six
-Hypercharges (<a href="#R212">R212</a>B) and the boat has 15 fuel units (FUs, <a href="#R211">R211</a>). In addition,
-a stasis unit (<a href="#R212">R212</a>E) is mounted in the pilot’s compartment with 2 CU
+and starship guns (<a href="#R216A">R216A</a>), both also tech level 1. The starship has six
+Hypercharges (<a href="#R212B">R212B</a>) and the boat has 15 fuel units (FUs, <a href="#R211">R211</a>). In addition,
+a stasis unit (<a href="#R212E">R212E</a>) is mounted in the pilot’s compartment with 2 CU
 capacity, to protect the occupants in case of disaster. You personally own a
-utility suit (<a href="#R213">R213</a>) and a sidearm (<a href="#R216">R216</a>D), both of tech level 1. Your only
+utility suit (<a href="#R213">R213</a>) and a sidearm (<a href="#R216D">R216D</a>), both of tech level 1. Your only
 money is in your pocket: 1d6 times 100, plus 150 Secs (for example, a 1d6 roll
-of “3” means 3x100, then +150, or 450 Secs, see <a href="#R232">R232</a>A).
+of “3” means 3x100, then +150, or 450 Secs, see <a href="#R232A">R232A</a>).
 
 You have no crew or hirelings, no cargo, and no repair units. However, you do
 have proper papers and are not “wanted” in any system (<a href="#R228">R228</a>). This is the
 first day of the week, so you have 10 days until your next starship payment is
-due (<a href="#R203">R203</a>E).
+due (<a href="#R203E">R203E</a>).
 
-You are currently at the sole planet in the Regari system (<a href="#R207">R207</a>A) of the
-Pavonis sector, at the spaceport (<a href="#R205">R205</a>O). This morning you decide to take up a
+You are currently at the sole planet in the Regari system (<a href="#R207A">R207A</a>) of the
+Pavonis sector, at the spaceport (<a href="#R205O">R205O</a>). This morning you decide to take up a
 life of smuggling. You check over your starship guns and personal sidearm, and
 prepare to find profit through any means. See <a href="#R203">R203</a> for the activities
 available to you.
 
 ## <a name="E002">E002 Repossession Team (takes 1 hour)</a>
 A repossession team is in the area. Ignore this event (they’re after someone
-else!) unless you have defaulted on your loan (<a href="#R203">R203</a>E) and your starship is in
+else!) unless you have defaulted on your loan (<a href="#R203E">R203E</a>) and your starship is in
 this area. If they’re after you, the following occurs:
 
 The team of six men surround the spaceship. One is a mobile attorney (<a href="#E5">E5</a>, M0,
@@ -2719,8 +2716,8 @@ remain on board. If they succeed, they gain control of the ship, force all
 other persons off it with whatever they can carry - you lose your starship.
 
 ## <a name="E003">E003 Armored Vehicles (takes 1 hour)</a>
-You are attacked by armored military vehicles, see <a href="#R311">R311</a>. Determine tech level
-(<a href="#R210">R210</a>) with table <a href="#R235">R235</a>, and then roll 1d6 to determine the exact composition of
+You are attacked by armored military vehicles, see <a href="#R311">R311</a>. Determine tech level 
+(<a href="#R210">R210</a>) with table <a href="#R235">R235</a>, and then roll 1d6 to determine the exact composition of 
 the force:
 
 | D6  | Result                             |
@@ -2731,11 +2728,11 @@ the force:
 
 Each infantryman is <a href="#E6">E6</a>, M4, H3. Each vehicle has heavy armor, reducing hit
 results by two (that is, a single or double hit becomes a miss, a triple hit
-becomes a single hit, etc.), and is armed with a boat gun (<a href="#R230">R230</a>K). Each
+becomes a single hit, etc.), and is armed with a boat gun (<a href="#R230K">R230K</a>). Each
 vehicle has a crew of three, a driver, gunner, and commander (each <a href="#E6">E6</a>, M3 with
 sidearms), who only leave the tank if it is disabled, and then will attempt to
 flee. If you defeat the tank(s) but don’t destroy them, you can capture and
-repair them. A tank functions like a skimmer (<a href="#R215">R215</a>C), with the following
+repair them. A tank functions like a skimmer (<a href="#R215C">R215C</a>), with the following
 variations: it takes up 45 CU space, has a capacity of 6 CU for crew and
 cargo, plus 6 CU of fuel, which it consumes at the rate of 2 FU per day. It
 moves at half the speed of a skimmer, and therefore is slower than anything
@@ -2750,7 +2747,7 @@ combat and use the tank, you will become “wanted” in the system if any of yo
 opponents escape the battle alive.
 
 ## <a name="E004">E004 Plague Carriers (takes rest of day)</a>
-You have come in contact with diseased people carrying the plague. For each
+You have come in contact with diseased people carrying the plague. For each 
 person in your party roll 1d6:
 
 | D6  | Result                             |
@@ -2759,18 +2756,18 @@ person in your party roll 1d6:
 | 4-6 | contract the plague                |
 
 Persons who catch the plague lose one Endurance point each day. A PS robot
-(<a href="#R222">R222</a>C) cannot stop this, but a medic (<a href="#R221">R221</a>F) who rolls 5-6 on 1d6 can prevent
+(<a href="#R222C">R222C</a>) cannot stop this, but a medic (<a href="#R221F">R221F</a>) who rolls 5-6 on 1d6 can prevent
 it, and can treat anyone in the party but himself. To cure the plague once
 contracted, the person must either survive one week of its effect or receive
-medical treatment (<a href="#R231">R231</a>A). Once cured, normal RRR (<a href="#R203">R203</a>C) or medical treatment
-(<a href="#R231">R231</a>A) is needed to regain lost endurance. Once you survive the plague, you
+medical treatment (<a href="#R231A">R231A</a>). Once cured, normal RRR (<a href="#R203C">R203C</a>) or medical treatment
+(<a href="#R231A">R231A</a>) is needed to regain lost endurance. Once you survive the plague, you
 are thereafter immune to it. As long as anyone in your party has the plague,
 all those who don’t yet have it, and aren't yet immune must check once a day
 to see if they get the disease.
 
 ## <a name="E005">E005 Robot Caravan (takes 0 hours)</a>
-You see a caravan of robots, composed of one controller robot and 1d6+1 utility
-robots (<a href="#R222">R222</a>B). Roll 1d6 to determine what they are carrying:
+You see a caravan of robots, composed of one controller robot and 1d6+1 utility 
+robots (<a href="#R222B">R222B</a>). Roll 1d6 to determine what they are carrying:
 
 | D6  | Result                                                        |
 |-----|---------------------------------------------------------------|
@@ -2806,7 +2803,7 @@ do).
 
 ## <a name="E006">E006 Hit Man (takes 1 hour)</a>
 A hit man with a contract on you makes a surprise attack without warning
-(<a href="#R230">R230</a>I). He is <a href="#E7">E7</a>, M6, H5 with a tech 6 heavy hand weapon. If he loses 4 or
+(<a href="#R230I">R230I</a>). He is <a href="#E7">E7</a>, M6, H5 with a tech 6 heavy hand weapon. If he loses 4 or
 more endurance, he instantly escapes along a route he pre-planned (you cannot
 follow or continue the combat).
 
@@ -2840,13 +2837,13 @@ small, you can carry them on your person without requiring any CU space.
 
 ## <a name="E010">E010 Industrial Spy (takes rest of day)</a>
 You encounter an industrial espionage agent, who is willing to buy or sell
-industrial secrets for a base price (<a href="#R229">R229</a>A) of 500 S. He will only make one
+industrial secrets for a base price (<a href="#R229A">R229A</a>) of 500 S. He will only make one
 transaction (one purchase, or one sale).
 
 ## <a name="E011">E011 Gem Dealer (takes rest of day)</a>
 You meet a gem dealer who handles stolen gems and jewelry. He will buy any
 amount of such goods (including legal ones, if you have them) for a base price
-(<a href="#R229">R229</a>A) of 1,800 S per CU, and sell any for a base price of 2,000 S per CU. It
+(<a href="#R229A">R229A</a>) of 1,800 S per CU, and sell any for a base price of 2,000 S per CU. It
 is impossible to attack him, since his money and merchandise is held by
 another agent (which is why transactions take so long).
 
@@ -2864,8 +2861,8 @@ communications equipment, and be at his home planet). Roll 1d6 for result:
 |-----|------------------------------------------------------------------------|
 | 1-2 | negotiations continue, try again tomorrow some time                    |
 |  3  | no deal, you get no ransom are are now “wanted” (<a href="#R228">R228</a>) in this system, you can dispose of the prince as you wish (he’s of no further use) |
-|  4  | they pay a base price (<a href="#R229">R229</a>A) of 1000 S for his return                 |
-|  5  | they pay a base price (<a href="#R229">R229</a>A) of 5000 S for his return                 |
+|  4  | they pay a base price (<a href="#R229A">R229A</a>) of 1000 S for his return                 |
+|  5  | they pay a base price (<a href="#R229A">R229A</a>) of 5000 S for his return                 |
 |  6  | they offer tons of money, but when you make the exchange (in this area) you are ambushed (see <a href="#R327">R327</a> and subtract one from the dice roll) by 20 men, each <a href="#E8">E8</a>, M6, H5 with heavy hand weapons (see <a href="#R210">R210</a> for tech level); the prince will be killed in the firefight, and you will discover that they did not bring anything but fake money that is totally worthless |
 
 ## <a name="E013">E013 Bandits (takes 1 hour)</a>
@@ -2899,33 +2896,33 @@ start to bargain, but in that case see <a href="#R230">R230</a>.
 
 | D6  | Result                                                                 |
 |-----|------------------------------------------------------------------------|
-|  1  | they will buy any weapons you have, at base price (<a href="#R229">R229</a>A) for 5 S per sidearm, 5 S per tech level for a heavy hand weapon, 40 S for skimmer gun, 400 S for a boat gun |
-|  2  | they will sell weapons at the following base prices (<a href="#R229">R229</a>A): tech 3 sidearms for 3 S each, heavy hand weapons (roll for tech level, see <a href="#R210">R210</a>) in 6 CU crates of 5 guns for 40 S per crate |
-|  3  | military explosive heavy hand weapons (roll for tech level, see <a href="#R210">R210</a>) for 20 S base price (<a href="#R229">R229</a>A) each |
-|  4  | artillery beam weapon for 1500 S, it is tech 3, 8 CU in size, and fires like a starship gun (<a href="#R216">R216</a>A) and thus requires appropriately skilled starship gunner to operate, to fire it must be emplaced on the ground, which takes three men one round, or two men two rounds, firing in battle consumes 1 FU (<a href="#R211">R211</a>) |
+|  1  | they will buy any weapons you have, at base price (<a href="#R229A">R229A</a>) for 5 S per sidearm, 5 S per tech level for a heavy hand weapon, 40 S for skimmer gun, 400 S for a boat gun |
+|  2  | they will sell weapons at the following base prices (<a href="#R229A">R229A</a>): tech 3 sidearms for 3 S each, heavy hand weapons (roll for tech level, see <a href="#R210">R210</a>) in 6 CU crates of 5 guns for 40 S per crate |
+|  3  | military explosive heavy hand weapons (roll for tech level, see <a href="#R210">R210</a>) for 20 S base price (<a href="#R229A">R229A</a>) each |
+|  4  | artillery beam weapon for 1500 S, it is tech 3, 8 CU in size, and fires like a starship gun (<a href="#R216A">R216A</a>) and thus requires appropriately skilled starship gunner to operate, to fire it must be emplaced on the ground, which takes three men one round, or two men two rounds, firing in battle consumes 1 FU (<a href="#R211">R211</a>) |
 |  5  | if your party is on foot, the gunners automatically attack, see <a href="#R304">R304</a>, otherwise they simply offer to buy any sidearms you have for 2 S each |
-|  6  | they offer to sell what they claim is an alien weapon of unknown purpose for a base price (<a href="#R229">R229</a>A) of 600 S, if you buy it, refer to <a href="#E083">E083</a> afterward |
+|  6  | they offer to sell what they claim is an alien weapon of unknown purpose for a base price (<a href="#R229A">R229A</a>) of 600 S, if you buy it, refer to <a href="#E083">E083</a> afterward |
 
 ## <a name="E016">E016 Bootlegger (takes rest of day)</a>
 You meet a bootlegger who offers you any amount of Kroyxan brandy (with no tax
 stamps) at 85 S for each 1 CU case. The unstamped brandy can be sold at any
-Gambling area for a base price (<a href="#R229">R229</a>A) of 200 S per case. You can obtain tax
+Gambling area for a base price (<a href="#R229A">R229A</a>) of 200 S per case. You can obtain tax
 stamps for the brandy whenever you have the chance to obtain false papers, and
 for the same price a set of papers would cost. Properly stamped brandy can be
 sold in any City area for 500 S per case or Palace area for 600 S per case,
-base price (<a href="#R229">R229</a>A).
+base price (<a href="#R229A">R229A</a>).
 
 ## <a name="E017">E017 Police Try to Capture You (takes rest of day)</a>
 You are suddenly confronted by a police special engagement team, trying to
 capture you, refer to <a href="#R312">R312</a>. The police team has three skimmers, each with a
 driver, skimmer gun and gunner (<a href="#E6">E6</a>, M5, H3) and two troopers (<a href="#E7">E7</a>, M4, H6) with
 heavy hand weapons and sidearms. Determine tech level of their equipment in
-<a href="#R210">R210</a>. You can surrender and avoid combat, see <a href="#E023">E023</a> immediately. If you are
+R<a href="#210">210</a>. You can surrender and avoid combat, see <a href="#E023">E023</a> immediately. If you are
 defeated in combat, see <a href="#E023">E023</a> also, but while there receive medical treatment
-for any wounds (<a href="#R231">R231</a>A).
+for any wounds (<a href="#R231A">R231A</a>).
 
 ## <a name="E018">E018 Military Patrol (takes 1 hour)</a>
-You encounter a military patrol of six men, see <a href="#R324">R324</a>. If a battle occurs,
+You encounter a military patrol of six men, see <a href="#R324">R324</a>. If a battle occurs, 
 determine tech level (<a href="#R210">R210</a>) and consult appropriate description below:
 
 | Tech | Patrol                                                                                                        |
@@ -2937,8 +2934,8 @@ determine tech level (<a href="#R210">R210</a>) and consult appropriate descript
 |  5   | all six have a heavy hand gun and four frag grenades, three of the six have shimmer-screen that reduces accuracy of weapon fire against it by two (-2) (if captured and it breaks down, it cannot be fixed). |
 |  6   | all six have heavy hand gun and four frag grenades except the patrol leader, who instead carries a portable field scrambler, any hit from which causes instant breakdown to a vehicle on a 1d6 roll of 4-6. The scrambler is 2 CU and has no effect on a starship with ECM. |
 
-Frag Grenades: explosive weapons of 3 tech levels below that of the troops
-carrying them (reflects their inaccuracy if thrown or fired from grenade
+Frag Grenades: explosive weapons of 3 tech levels below that of the troops 
+carrying them (reflects their inaccuracy if thrown or fired from grenade 
 launchers).
 
 Note: if you have a tank, or a ship’s boat that has used boat guns to fire on
@@ -2949,7 +2946,7 @@ weapon, see <a href="#E015">E015</a> result 4 for details of this device.
 ## <a name="E019">E019 Customs Inspection (takes 1d6 hours)</a>
 As you pass through customs, you are delayed by agents looking for anyone
 without papers (<a href="#R228">R228</a>), stolen goods, or items illegal in all systems. If you
-are in a starship, they will search the ship (<a href="#R229">R229</a>D). If you refuse to pay any
+are in a starship, they will search the ship (<a href="#R229D">R229D</a>). If you refuse to pay any
 duties (see below), or have anything improper per above, see <a href="#E080">E080</a>. Roll 1d6 as
 well, to determine which type of item has duty charges:
 
@@ -2977,12 +2974,12 @@ results are:
 
 ## <a name="E021">E021 Palatek Inspection (takes rest of day)</a>
 The Palatek inspection team searches for any items you obtained from Industrial
-or Scientific areas. If in your starship, see <a href="#R229">R229</a>D, otherwise they search
+or Scientific areas. If in your starship, see <a href="#R229D">R229D</a>, otherwise they search
 every person and vehicle in your party. All such items they find are taken and
 held in custody at the space station (or in an orbiting mother ship) for
 further examination. It is obvious from their strength that resistance is
 impossible, although if in your starship, you can hyperjump and then easily
-kill the few poorly armed men on board (see <a href="#R212">R212</a>C). Items taken for inspection
+kill the few poorly armed men on board (see <a href="#R212C">R212C</a>). Items taken for inspection
 will be returned after a number of days equal to their tech level, and
 meanwhile you will be required to attend classes instructing you in the laws
 of the Palatek system. You learn that industrial espionage is punishable by
@@ -2993,21 +2990,21 @@ punishments.
 ## <a name="E022">E022 Psionic Attacks (take no time)</a>
 Only psionicists may make psionic attacks. A special procedure is used:
 
-1. Choose the size of the attack, from 1 to 6, and select one person as the
+1. Choose the size of the attack, from 1 to 6, and select one person as the 
    target.
 
-2. Roll 1d6. If the roll equals or exceeds the attack size, you inflict a
-   number of hits to the target equal to the size of the attack. If the roll is
-   less than the size of the attack, the attacker takes a number of hits equal
-   to the die roll. For wound effects, see <a href="#R231">R231</a>. Psionic attacks occur last in
-   the round, and cannot be made if the psionic attacker fired ranged weapons
+2. Roll 1d6. If the roll equals or exceeds the attack size, you inflict a 
+   number of hits to the target equal to the size of the attack. If the roll is 
+   less than the size of the attack, the attacker takes a number of hits equal 
+   to the die roll. For wound effects, see <a href="#R231">R231</a>. Psionic attacks occur last in 
+   the round, and cannot be made if the psionic attacker fired ranged weapons 
    or made a hand-tohand attack.
 
-3. The size of the attack is limited by the Psionic Power of the attacker. The
-   total of all attack strengths made during a day cannot exceed the psionic
-   power of the individual. Special Abilities: a psionicist can use his/her
+3. The size of the attack is limited by the Psionic Power of the attacker. The 
+   total of all attack strengths made during a day cannot exceed the psionic 
+   power of the individual. Special Abilities: a psionicist can use his/her 
    power points as defense against psionic attacks, on a non-psionic person, but
-   not a psionic person. Each point of power used in defense protects one person
+   not a psionic person. Each point of power used in defense protects one person 
    for one round.
 
 ## <a name="E023">E023 Go to Jail (takes rest of day)</a>
@@ -3038,7 +3035,7 @@ of 500 S.
 
 ## <a name="E026">E026-035 Buy & Sell Items (if not timed, takes 1 hour)</a>
 Refer to the appropriate paragraph below for the specific item to be bought or
-sold, and the base prices (<a href="#R229">R229</a>A). In some cases, you can only buy, or only
+sold, and the base prices (<a href="#R229A">R229A</a>). In some cases, you can only buy, or only
 sell, as indicated.
 
 ### <a name="E026">E026 Fuel Units:</a>
@@ -3060,21 +3057,21 @@ sell, as indicated.
 (<a href="#R211">R211</a>) each unit 2 S to buy, 1 S to sell, base price.
 
 ### <a name="E032">E032 Skimmer: one skimmer</a>
-(<a href="#R215">R215</a>C) can be bought for a base price of 40 S, or sold for a base price of
+(<a href="#R215C">R215C</a>) can be bought for a base price of 40 S, or sold for a base price of 
 30 S. A skimmer that won’t work on this
 planet cannot be sold here.
 
 ### <a name="E033">E033 Skimmer: one skimmer</a>
-(<a href="#R215">R215</a>C) can be bought for a base price of 60 S or sold for a base price of
+(<a href="#R215C">R215C</a>) can be bought for a base price of 60 S or sold for a base price of 
 30 S. A skimmer that won’t work on this
 planet cannot be sold here.
 
 ### <a name="E034">E034 Ship’s Boat:</a>
-one Hopper class ship’s boat (<a href="#R214">R214</a>) can be bought for a base price of 900 S or
+one Hopper class ship’s boat (<a href="#R214">R214</a>) can be bought for a base price of 900 S or 
 sold for a base price of 600 S.
 
 ### <a name="E035">E035 Ship’s Boat:</a>
-one Hopper class ship’s boat (<a href="#R214">R214</a>) can be bought for a base price of 1200 S,
+one Hopper class ship’s boat (<a href="#R214">R214</a>) can be bought for a base price of 1200 S, 
 or sold for a base price of 500 S.
 
 ## <a name="E036">E036 Buy Starship (takes rest of day)</a>
@@ -3090,82 +3087,82 @@ original Antelope class)!
 
 ## <a name="E057">E037-E057 Buy & Sell Items (if not timed, takes 1 hour)</a>
 Refer to the appropriate paragraph below for the specific item to be bought or
-sold, and its base price (<a href="#R229">R229</a>A). In some cases you can only buy or only sell,
+sold, and its base price (<a href="#R229A">R229A</a>). In some cases you can only buy or only sell,
 as indicated. Determine tech level for items per rules in (<a href="#R210">R210</a>).
 
 ### <a name="E037">E037 GM Robot:</a>
-(<a href="#R222">R222</a>A) each 1 20 S to buy, 100 S to sell, base price.
+(<a href="#R222A">R222A</a>) each 1 20 S to buy, 100 S to sell, base price.
 
 ### <a name="E038">E038 GM Robot:</a>
-(<a href="#R222">R222</a>A) each 200 S to buy base price, cannot sell.
+(<a href="#R222A">R222A</a>) each 200 S to buy base price, cannot sell.
 
 ### <a name="E039">E039 PS Robot:</a>
-(<a href="#R222">R222</a>C) each 120 S to buy base price, cannot sell. PS Robot must be programmed
+(<a href="#R222C">R222C</a>) each 120 S to buy base price, cannot sell. PS Robot must be programmed 
 to a person present when it is bought.
 
 ### <a name="E040">E040 PS Robot:</a>
-(<a href="#R222">R222</a>C) each 200 S to buy base price, cannot sell. PS Robot must be programmed
+(<a href="#R222C">R222C</a>) each 200 S to buy base price, cannot sell. PS Robot must be programmed 
 to a person present when it is bought.
 
 ### <a name="E041">E041 U Robot:</a>
-(<a href="#R222">R222</a>B) each 80 S to buy, 50 S to sell, base price.
+(<a href="#R222B">R222B</a>) each 80 S to buy, 50 S to sell, base price.
 
 ### <a name="E042">E042 U Robot:</a>
-(<a href="#R222">R222</a>B) each is 150 S to buy, 40 S to sell, base price.
+(<a href="#R222B">R222B</a>) each is 150 S to buy, 40 S to sell, base price.
 
 ### <a name="E043">E043 Utility Suit:</a>
 (<a href="#R213">R213</a>) suit 10 S to buy, 5 S to sell, base price.
 
 ### <a name="E044">E044 Utility Suit:</a>
-(<a href="#R213">R213</a>) suit 20 S to buy base price, cannot sell. Suits here are heavy-duty,
+(<a href="#R213">R213</a>) suit 20 S to buy base price, cannot sell. Suits here are heavy-duty, 
 will self-seal a two-hit wound.
 
 ### <a name="E045">E045 Sidearms:</a>
-(<a href="#R216">R216</a>D) each 2 S to buy base price, cannot sell.
+(<a href="#R216D">R216D</a>) each 2 S to buy base price, cannot sell.
 
 ### <a name="E046">E046 Sidearms:</a>
-(<a href="#R216">R216</a>D) each 5 S to buy base price, cannot sell. If in a Rural area, no more
+(<a href="#R216D">R216D</a>) each 5 S to buy base price, cannot sell. If in a Rural area, no more 
 than one may be bought.
 
 ### <a name="E047">E047 Sidearms:</a>
-(<a href="#R216">R216</a>D) each 4 S to buy, 2 S to sell, base price.
+(<a href="#R216D">R216D</a>) each 4 S to buy, 2 S to sell, base price.
 
 ### <a name="E048">E048 Heavy Hand Weapons:</a>
-(<a href="#R216">R216</a>D) each 10 S to buy base, cannot sell.
+(<a href="#R216D">R216D</a>) each 10 S to buy base, cannot sell.
 
 ### <a name="E049">E049 Heavy Hand Weapons:</a>
-(<a href="#R216">R216</a>D) each 15 S to buy, 10 S to sell, base.
+(<a href="#R216D">R216D</a>) each 15 S to buy, 10 S to sell, base.
 
 ### <a name="E050">E050 Heavy Hand Weapons:</a>
-(<a href="#R216">R216</a>D) each 30 S to buy base price, may not sell. Weapons here have explosive
+(<a href="#R216D">R216D</a>) each 30 S to buy base price, may not sell. Weapons here have explosive 
 effects also.
 
 ### <a name="E051">E051 Skimmer Guns:</a>
-(<a href="#R216">R216</a>C) each 25 S to buy, 10 S to sell, base price.
+(<a href="#R216C">R216C</a>) each 25 S to buy, 10 S to sell, base price.
 
 ### <a name="E052">E052 Skimmer Guns:</a>
-(<a href="#R216">R216</a>C) each 40 S to buy, 30 S to sell, base price.
+(<a href="#R216C">R216C</a>) each 40 S to buy, 30 S to sell, base price.
 
 ### <a name="E053">E053 Boat Guns:</a>
-(<a href="#R216">R216</a>B) each 80 S to buy, 30 S to sell, base price.
+(<a href="#R216B">R216B</a>) each 80 S to buy, 30 S to sell, base price.
 
 ### <a name="E054">E054 Boat Guns:</a>
-(<a href="#R216">R216</a>B) each 150 S to buy base price, cannot sell. Before purchase, roll 1d6, a
+(<a href="#R216B">R216B</a>) each 150 S to buy base price, cannot sell. Before purchase, roll 1d6, a
 “6” indicates they are armor-piercing guns that automatically inflict one
 critical hit with each normal hit (instead of normal critical hit procedure)
 against all targets except starships.
 
 ### <a name="E055">E055 Starship Guns:</a>
-(<a href="#R216">R216</a>A) each 200 S per tech level to buy, cannot sell. You may select guns of a
+(<a href="#R216A">R216A</a>) each 200 S per tech level to buy, cannot sell. You may select guns of a 
 lower tech level to get a lower price.
 
 ### <a name="E056">E056 Starship Guns:</a>
-(<a href="#R216">R216</a>A) each 300 S per tech level to buy, 100 S per tech level to sell, base
+(<a href="#R216A">R216A</a>) each 300 S per tech level to buy, 100 S per tech level to sell, base
 price. You can only buy starship guns of the listed tech level here, you
 cannot buy lower level guns.
 
 ### <a name="E057">E057 Stasis Units:</a>
-(<a href="#R212">R212</a>E) units of any size can be bought, at 50 S base price per CU of size in
+(<a href="#R212E">R212E</a>) units of any size can be bought, at 50 S base price per CU of size in 
 the unit. You cannot sell stasis units here.
 
 ## <a name="E058">E058 False Accusation of Contraband (takes 1 hour)</a>
@@ -3184,21 +3181,21 @@ You have blundered into a trap. Roll 1d6 to determine the results:
 | D6  | Result                                                                 |
 |-----|------------------------------------------------------------------------|
 |  1  | A powerful magnetic field causes immediate breakdown (<a href="#R218">R218</a>) of any robots, but has no effect on vehicles or other equipment |
-|  2  | Alarms go off. Immediately roll for an Entry Encounter (<a href="#R225">R225</a>A) for this area, making the customary subtract of one (-1) from the die roll |
+|  2  | Alarms go off. Immediately roll for an Entry Encounter (<a href="#R225A">R225A</a>) for this area, making the customary subtract of one (-1) from the die roll |
 |  3  | Poison gas floods the area, any person not in a Utility Suit nor within a vehicle providing life support (<a href="#R213">R213</a>) suffers 1d6 hits instantly (<a href="#R231">R231</a>) |
-|  4  | Mine Explodes! suffer 2d6 hits to each vehicle or person present, 2-7 is multiple hit results, 8-12 disablement (see <a href="#R230">R230</a>K for interpreting vehicle damage effects) |
+|  4  | Mine Explodes! suffer 2d6 hits to each vehicle or person present, 2-7 is multiple hit results, 8-12 disablement (see <a href="#R230K">R230K</a> for interpreting vehicle damage effects) |
 |  5  | Flaming liquid is sprayed on each vehicle and person. Each person suffers 1d6 hits (<a href="#R230">R230</a>), skimmers or commercial vehicles suffer one hit each and break down, other vehicles are unaffected |
 |  6  | Trap malfunctions, no effect                                           |
 
 ## <a name="E060">E060 Hire Repairman (if not timed, takes 1 hour)</a>
 You may hire a repairman who will work in this land area only. He will repair
-any vehicles or equipment (<a href="#R219">R219</a>) for a base price (<a href="#R229">R229</a>A) of 5 S per day.
+any vehicles or equipment (<a href="#R219">R219</a>) for a base price (<a href="#R229A">R229A</a>) of 5 S per day.
 Repair units will cost an additional 5 S each unless you provide them to the
 repairman to use.
 
 ## <a name="E061">E061 Hire Mobile Repairman (if not timed, takes 1 hour)</a>
 You hire a repairman who will work in whatever area you choose. He will repair
-any vehicles or equipment (<a href="#R219">R219</a>) for a base price (<a href="#R229">R229</a>A) of 5 S per day. If
+any vehicles or equipment (<a href="#R219">R219</a>) for a base price (<a href="#R229A">R229A</a>) of 5 S per day. If
 he must travel outside of his home area, for each area he must travel to the
 repair site the salary doubles (moving to a neighboring area will cost you 10
 S per day, two areas away 20 S per day, etc.). He will not leave the planet,
@@ -3210,50 +3207,50 @@ provide it.
 
 ## <a name="E069">E062-E069 Hirelings Available (if not timed already, takes 1 hour)</a>
 One or more hirelings for your party are available. Consult the specific
-paragraph below for the type of hireling, his base price (<a href="#R229">R229</a>A) weekly
-salary, and his death payment (<a href="#R220">R220</a>B) if he dies in your service. Hirelings
+paragraph below for the type of hireling, his base price (<a href="#R229A">R229A</a>) weekly
+salary, and his death payment (<a href="#R220B">R220B</a>) if he dies in your service. Hirelings
 found in Slum areas have no death payments. Hirelings from slums will lack
 papers. All hirelings must be paid at the start of each 10-day week of work.
 
 ### <a name="E062">E062 Skimmer Driver:</a>
-(<a href="#R221">R221</a>E) with E 1d6+1, M0, H2. Base salary is 4 S per week, death payment 30 S
+(<a href="#R221E">R221E</a>) with E 1d6+1, M0, H2. Base salary is 4 S per week, death payment 30 S
 unless from slums. He will refuse to leave this star system, and if shanghied
 will refuse to work.
 
 ### <a name="E063">E063 Bodyguard:</a>
-(<a href="#R221">R221</a>D) with E 1d6+1, M 1d6, H 1d6-1 (minimum of 1). Base salary is 5 S per
+(<a href="#R221D">R221D</a>) with E 1d6+1, M 1d6, H 1d6-1 (minimum of 1). Base salary is 5 S per 
 week, death payment 40 S unless from slums.
 
 ### <a name="E064">E064 Bodyguards:</a>
-(<a href="#R221">R221</a>D) one or two available, each E 1d6+2, M 1d6+1 (maximum of 6), H 1d6. Each
+(<a href="#R221D">R221D</a>) one or two available, each E 1d6+2, M 1d6+1 (maximum of 6), H 1d6. Each
 already has a sidearm (see <a href="#R210">R210</a> for tech level). Base salary is 10 S per week,
 death payment 40 S unless from slums, for each bodyguard you decide to hire.
 
 ### <a name="E065">E065 Medic:</a>
-(<a href="#R221">R221</a>F) with E 1d6, M0, H1. Base salary is 10 S per week, death payment 80 S
+(<a href="#R221F">R221F</a>) with E 1d6, M0, H1. Base salary is 10 S per week, death payment 80 S 
 unless from slums.
 
 ### <a name="E066">E066 Pilot/Navigator:</a>
-(<a href="#R221">R221</a>A) with E 1d6, M 1d6-1, M 1d6-2 (minimum of 1). Base salary is 20 S per
-week unless piloting within stasis unit (<a href="#R212">R212</a>E) which reduces base price to
+(<a href="#R221A">R221A</a>) with E 1d6, M 1d6-1, M 1d6-2 (minimum of 1). Base salary is 20 S per
+week unless piloting within stasis unit (<a href="#R212E">R212E</a>) which reduces base price to 
 15 S per week. He requires a 20 S bonus “sign on” payment to join, death
 payment is 200 S unless from the slums.
 
 ### <a name="E067">E067 Starship Engineer:</a>
-(<a href="#R221">R221</a>B) with E 1d6+1, M 1d6-1, H 1d6. Base salary is 1 5 S per week unless a
+(<a href="#R221B">R221B</a>) with E 1d6+1, M 1d6-1, H 1d6. Base salary is 1 5 S per week unless a 
 2 CU stasis unit is in the engineering compartment for him (<a href="#R212">R212</a>) which reduces
 base salary to 10 S per week. He requires a 15 S bonus “sign on” payment to
 join, death payment is 120 S unless he is from the slums.
 
 ### <a name="E068">E068 Starship Gunner:</a>
-(<a href="#R221">R221</a>C) with E 1d6+1, M 1d6, H 1d6-1 (minimum of 1). Base salary is 15 S per
-week unless turret has a 2 CU stasis unit (<a href="#R212">R212</a>E) which reduces it to 10 S per
+(<a href="#R221C">R221C</a>) with E 1d6+1, M 1d6, H 1d6-1 (minimum of 1). Base salary is 15 S per
+week unless turret has a 2 CU stasis unit (<a href="#R212E">R212E</a>) which reduces it to 10 S per
 week. In addition, he requires a 10 S bonus “sign-on” payment to join. Death
 payment is 100 S unless he is from the slums.
 
 ### <a name="E069">E069 Starship Gunner:</a>
-(<a href="#R221">R221</a>C) with E 1d6+1, M 1d6+1 (maximum of 6), H 1d6. Base salary is 1 5 S per
-week unless turret has a 2 CU stasis unit (<a href="#R212">R212</a>E) which reduces it to 10 S per
+(<a href="#R221C">R221C</a>) with E 1d6+1, M 1d6+1 (maximum of 6), H 1d6. Base salary is 1 5 S per
+week unless turret has a 2 CU stasis unit (<a href="#R212E">R212E</a>) which reduces it to 10 S per
 week. He has his own sidearm (determine tech level per <a href="#R210">R210</a>). He requires a 20
 S bonus “sign on” payment to join. Death payment is 100 S unless he is from
 the slums.
@@ -3283,7 +3280,7 @@ long as you wish, or until you run out of cash. If you end this activity with
 | 5-6 | nothing  |
 
 ## <a name="E072">E072 Empty Mine (takes 1 hour)</a>
-You find an empty mine and may explore it. If you do, it takes the rest of the
+You find an empty mine and may explore it. If you do, it takes the rest of the 
 day, roll 1d6 for what you find:
 
 | D6  | Result                                                                 |
@@ -3293,43 +3290,43 @@ day, roll 1d6 for what you find:
 |  3  | cave in! roll 1d6 for each person in the party: 4-6 means they are buried, you can avoid this result with a successful Cunning roll (<a href="#R202">R202</a>), each survivor can dig out one buried person, who will have 1d6 hits when recovered, any others are lost |
 |  4  | acid drainage causes equipment corrosion, roll for breakdown (<a href="#R218">R218</a>) of each item taken into the mine |
 |  5  | attacked by 2d6 strange life forms, each with <a href="#E3">E3</a>, M0, H6 which start in contact and fight to the death, see <a href="#R304">R304</a> |
-|  6  | workable deposits found, may extract 5 CU of ore per day for each person working in the mine. Each CU of ore may be sold at any industrial area for a base price (<a href="#R229">R229</a>A) of 20 S. Hirelings working in a mine require double normal salary due to dangers and difficulty of the work, and will need a successful Cunning roll (<a href="#R202">R202</a>) by you each subsequent week (can make one roll for all, or deal with them individually, as you desire). U Robots can also work it if directed by yourself or a controller (available only through events) which was reprogrammed for the job (requires repair work <a href="#R219">R219</a> to reprogram). Robots in the mine must roll twice after each day for break-down (<a href="#R218">R218</a>). |
+|  6  | workable deposits found, may extract 5 CU of ore per day for each person working in the mine. Each CU of ore may be sold at any industrial area for a base price (<a href="#R229A">R229A</a>) of 20 S. Hirelings working in a mine require double normal salary due to dangers and difficulty of the work, and will need a successful Cunning roll (<a href="#R202">R202</a>) by you each subsequent week (can make one roll for all, or deal with them individually, as you desire). U Robots can also work it if directed by yourself or a controller (available only through events) which was reprogrammed for the job (requires repair work <a href="#R219">R219</a> to reprogram). Robots in the mine must roll twice after each day for break-down (<a href="#R218">R218</a>). |
 
 ## <a name="E073">E073 “Wanted” Person Recognized (takes 1 hour)</a>
 Ignore this event if nobody is “wanted” in your party. Anyone (including you)
 in your party who is “wanted” (<a href="#R228">R228</a>) in this system is recognized. Instantly
-1d6+1 guards appear demanding surrender of all wanted persons. Each guard is
-E 1d6+1, M 1d6, H 1d6 with a heavy hand weapon (<a href="#R216">R216</a>D). You can surrender the
+1d6+1 guards appear demanding surrender of all wanted persons. Each guard is 
+E 1d6+1, M 1d6, H 1d6 with a heavy hand weapon (<a href="#R216D">R216D</a>). You can surrender the
 wanted person(s), who goes to jail (<a href="#E023">E023</a>); or you can fight. If you fight, see
-<a href="#R327">R327</a> and subtract one (-1) from your dice roll there.
+R<a href="#327">327</a> and subtract one (-1) from your dice roll there.
 
 ## <a name="E074">E074 Commercial Transport Available (if not timed, takes 1 hour)</a>
-You may hire commercial transport (<a href="#R215">R215</a>B). This may be a commercial vehicle, or
+You may hire commercial transport (<a href="#R215B">R215B</a>). This may be a commercial vehicle, or
 an orbital shuttle if at a space station, space port, or colony on a planet
 without a spaceport. Every 3 CU capacity hired costs 1 S per hour, regardless
 of whether it is moving or waiting, and comes with fuel and driver. Entire
 rental time must be paid in advance, vehicle disappears after that. Travel
-speeds are given in <a href="#R203">R203</a>A. If hiring a commercial vehicle, each comes in one
+speeds are given in <a href="#R203A">R203A</a>. If hiring a commercial vehicle, each comes in one
 of three sizes, either a 3 CU, 6 CU or 9 CU vehicle. You can hire more than
 one, but larger vehicles do not exist. Any size orbital shuttle is available.
 
 ## <a name="E075">E075 Open Laboratory (takes 1 hour)</a>
-You find an open door to a laboratory area in the scientific complex. You may
-enter and spend another 1d6 hours looking around. If you do, then roll a 1d6
+You find an open door to a laboratory area in the scientific complex. You may 
+enter and spend another 1d6 hours looking around. If you do, then roll a 1d6 
 for the results of your searches:
 
 | D6  | Result                                                                 |
 |-----|------------------------------------------------------------------------|
 |  1  | find nothing of obvious value                                          |
 |  2  | knock over a shelf of chemicals that explode, you clumsy oaf! roll 2d6, 2-7 is that many hits, 8-12 is disablement, with an additional roll for each additional person in your party — you then recover and escape |
-|  3  | find valuable scientific plans, can be sold for 1,000 S base price (<a href="#R229">R229</a>A) in any scientific area of any other star system |
-|  4  | set off alarms, immediately roll for an entry encounter (<a href="#R225">R225</a>A) complex with normal minus, one (-1) to die roll for this area |
+|  3  | find valuable scientific plans, can be sold for 1,000 S base price (<a href="#R229A">R229A</a>) in any scientific area of any other star system |
+|  4  | set off alarms, immediately roll for an entry encounter (<a href="#R225A">R225A</a>) complex with normal minus, one (-1) to die roll for this area |
 |  5  | find a file cabinet with useful information, may take file for any one piece of equipment — information allows a starship engineer to spend a day in RRR tinkering with that item to improve it by one tech level |
 |  6  | accidentally activate a quantum discombobulator, immediately roll for breakdown (<a href="#R218">R218</a>) of each item of equipment with your party, must escape immediately and thus abandon anything you cannot carry out immediately |
 
 ## <a name="E076">E076 Street Dealer (takes 1 hour)</a>
-A rather seedy looking individual approaches and says he has just the deal for
-you, if you will come alone with him. If you do, event takes the rest of the
+A rather seedy looking individual approaches and says he has just the deal for 
+you, if you will come alone with him. If you do, event takes the rest of the 
 day, and roll 1d6 for the result:
 
 | D6  | Result                                                                 |
@@ -3341,12 +3338,12 @@ day, and roll 1d6 for the result:
 |  5  | you are jumped by three men, each <a href="#E6">E6</a>, M4, H5 with side-arms (see <a href="#R210">R210</a> for tech level), one will begin in contact, attacking, see <a href="#R305">R305</a> |
 |  6  | you are offered counterfeit money up to 5,000 S face value, each 100 S of fake money will cost you 10 S of your real money. |
 
-For details on base price in purchase and resale, see <a href="#R229">R229</a>A. If you buy any of
+For details on base price in purchase and resale, see <a href="#R229A">R229A</a>. If you buy any of
 the above items, you can attempt resale by spending an hour in any city area
 and making a successful cunning roll (<a href="#R202">R202</a>). Base price at resale is 1d6+6
 times the purchase price. However, if you fail the cunning roll when-trying to
 resell the first item, it means they are really worthless — you’ve been ripped
-off for the entire value of the item.
+off for the entire value of the item.  
 
 Fake money can be used at face value as long as you make successful cunning
 rolls (<a href="#R202">R202</a>). The first time you fail, though, you instantly become “wanted”
@@ -3363,7 +3360,7 @@ You run into a trap designed to stop your vehicle. Roll 1d6:
 |  6  | the trap malfunctions and has no effect upon your vehicle              |
 
 ## <a name="E078">E078 Proceed Through Mines (takes 1 hour per mine)</a>
-You start by seeing two mines that must be passed, it takes one hour of careful
+You start by seeing two mines that must be passed, it takes one hour of careful 
 maneuvering to try to pass each. After each, roll 1d6:
 
 | D6  | Result                                                                 |
@@ -3381,7 +3378,7 @@ also be loaded into the boat as space permits.
 
 ## <a name="E079">E079 Attack the Drone (takes 1 hour/round)</a>
 The drone is a masterpiece of Nipnan technology. It is tech level 6 with ECM
-and defensive screens. See <a href="#R230">R230</a>L for combat rules. You fire first, and any hit
+and defensive screens. See <a href="#R230L">R230L</a> for combat rules. You fire first, and any hit
 destroys the drone. If you miss, it makes an “attack run” as if firing tech 6
 starship guns. If it hits, the drone itself detonates on your ship, causing
 1d6+1 hits. If it misses, you can either hyperjump, try to escape via sublight
@@ -3400,7 +3397,7 @@ If you succeed in killing them, the customs post itself has a starship gun
 starship and is inaccessible to boarding, but also immobile.
 
 ## <a name="E081">E081 Attack or Escape the Battleship (takes 1 hour/round)</a>
-The starship battle procedure must be used, see <a href="#R230">R230</a>L. Each round you will
+The starship battle procedure must be used, see <a href="#R230L">R230L</a>. Each round you will
 shoot first. Determine if you hit, and if you are trying to escape by moving
 away. Then, roll 1d6 to determine the battleship’s response, subtracting three
 if trying to escape:
@@ -3414,7 +3411,7 @@ if trying to escape:
 |  5  | if your shot missed, roll again, if it hit, the battleship appears heavily damaged, secondary explosions appear on board, and then it erupts in a massive explosion and is destroyed without ever firing back |
 |  6  | the battleship surrenders, you board and in the rest of the day discover that there is only a skeleton crew on board, you decide to ransom the battleship back to the Imperian government for 2d6 times 10,000 S and are paid immediately |
 
-Battleship Statistics: the battleship is tech 2, mounts 12 tech 2 star-ship
+Battleship Statistics: the battleship is tech 2, mounts 12 tech 2 star-ship 
 guns, and has 120 hit points. Note that it may not fire all its guns at once.
 
 ## <a name="E082">E082 Board Alien Ship (concludes the game)</a>
@@ -3435,7 +3432,7 @@ Designate one person to try to operate the alien weapon, and roll 1d6:
 
 | D6  | Result                                                                 |
 |-----|------------------------------------------------------------------------|
-|  1  | item turns out to be an alien musical instrument, not a weapon, which you can sell in any scientific area for 30 S base price (<a href="#R229">R229</a>A) |
+|  1  | item turns out to be an alien musical instrument, not a weapon, which you can sell in any scientific area for 30 S base price (<a href="#R229A">R229A</a>) |
 |  2  | item turns out not to be an alien artifact, but a modern sculpture produced at a local art school |
 |  3  | item turns out not to be an alien artifact, but a prop from a science fiction holo-movie (albeit a very realistic one!) |
 |  4  | it explodes, destroying itself and inflict 2d6 hits on the person who tried it |
@@ -3460,7 +3457,7 @@ leader has <a href="#E12">E12</a>, M3, H4 and a tech 2 heavy hand weapon, the ot
 and are each <a href="#E9">E9</a>, M0, H3.
 
 ## <a name="E086">E086 Unguarded Office on Military Base (takes 1 hour)</a>
-You can slip into an office unseen and search it. If you do so, take 1 more
+You can slip into an office unseen and search it. If you do so, take 1 more 
 hour and roll 1d6:
 
 | D6  | Result                                                                 |
@@ -3469,7 +3466,7 @@ hour and roll 1d6:
 |  2  | you find two sidearms and one heavy hand weapon (see <a href="#R210">R210</a> for tech level, but add one when rolling to determine result on table <a href="#R235">R235</a>) |
 |  3  | you are surprised by an overwhelming force of military police who arrest you and your party unless you succeed with a Cunning roll (<a href="#R202">R202</a>), if arrested they take all your possessions and imprison you for 20 days, after which you may attempt to leave once at the start of each 10-day week with a 1d6 result of 4-6, when you leave they will not return what was confiscated, and imprisoned hirelings will leave unless immediately paid any back-salaries due |
 |  4  | you find secret defense plans for the base, which you can sell for a base price of 500 S at a military area in another star system (or a base price of 5,000 S if the other star system is at war with this one) |
-|  5  | alarms go off! immediately roll for an entry encounter (<a href="#R225">R225</a>A) for a military land area, including the standard subtracting one (-1) from the die roll on the table (<a href="#R239">R239</a>) |
+|  5  | alarms go off! immediately roll for an entry encounter (<a href="#R225A">R225A</a>) for a military land area, including the standard subtracting one (-1) from the die roll on the table (<a href="#R239">R239</a>) |
 |  6  | two guards, each <a href="#E8">E8</a>, M6, H4 with heavy hand weapons (see <a href="#R210">R210</a> for tech level) challenge you, see <a href="#R323">R323</a> unless on Imperia or Talitar, then see <a href="#R319">R319</a> (20 S). |
 
 ## <a name="E087">E087 Prisoner Pleads for Escape (takes 1 hour)</a>
@@ -3488,13 +3485,13 @@ star system, and is E 1d6, M 1d6, H 1d6+1 (maximum of 6). He is a willing
 member of your party until you next reach Byzantium or Imperia.
 
 ## <a name="E088">E088 Intact Room in Ruins (takes rest of day)</a>
-You find a building with an intact, sealed room. You may examine it if you
+You find a building with an intact, sealed room. You may examine it if you 
 wish. If you do, roll 1d6:
 
 | D6  | Result                                                                 |
 |-----|------------------------------------------------------------------------|
 |  1  | a foul-smelling cloud bursts out as the room is opened, all those not in utility suits are exposed to plague, see <a href="#E004">E004</a> |
-|  2  | the room contains a large antique bed of great value, it can be sold at any Palace for a base price (<a href="#R229">R229</a>A) of 1,100 S, or any City for a base price of 200 S, it occupies 9 CU |
+|  2  | the room contains a large antique bed of great value, it can be sold at any Palace for a base price (<a href="#R229A">R229A</a>) of 1,100 S, or any City for a base price of 200 S, it occupies 9 CU |
 |  3  | you find a set of old religious texts that may be sold at any Colony on New Karma, texts occupy 1 CU, at time of sale roll 1d6 to determine base price: 1-20 S, 2-85 S, 3-175 S, 4-600 S, 5-12,000 S, 6-58,000 S |
 |  4  | you have blundered into a trap, see <a href="#E059">E059</a>                               |
 |  5  | you are suddenly bombarded with radiation that causes 1d6 hits to each person in the room, if wearing a utility suit, secondary radiation causes double the normal number of hits received |
@@ -3516,7 +3513,7 @@ zero instead). Her terms are:
 |-----|------------------------------------------------------------------------|
 |  1  | she works for free, but will neither fire weapons nor fight hand-to-hand |
 |  2  | she works for 5 S per day, but will neither fire weapons nor fight hand-to-hand |
-|  3  | she works for free, but must be in a stasis unit (<a href="#R212">R212</a>E) with paid-up insurance (<a href="#R220">R220</a>), and will neither fire weapons nor fight hand-to-hand |
+|  3  | she works for free, but must be in a stasis unit (<a href="#R212E">R212E</a>) with paid-up insurance (<a href="#R220">R220</a>), and will neither fire weapons nor fight hand-to-hand |
 |  4  | she works for 3 S per day and will do anything you require             |
 |  5  | if you give her a skimmer now, she will work for up to 40 days on this planet, but will neither fire weapons |
 |  6  | she will work and do whatever you request if you give her the single most valuable item in your cargo (hidden or not) |
@@ -3529,37 +3526,37 @@ make psionic attacks, although she will only do so if your party is attacked
 first if her employment terms include no weapons use or fighting.
 
 ## <a name="E090">E090 Seen But Ignored (takes no time)</a>
-A rather dilapidated starship with Regari markings passes you, but makes no
-attempt at communication. You may proceed as desired (one hour to go to any
+A rather dilapidated starship with Regari markings passes you, but makes no 
+attempt at communication. You may proceed as desired (one hour to go to any 
 planet or asteroid orbit in the system).
 
 ## <a name="E091">E091 Detect Broken-down Starship (takes no time)</a>
-You detect a Regari starship which appears to be under repair, with men working
-on its hull. It also seems incapable of detecting you — you may proceed as
+You detect a Regari starship which appears to be under repair, with men working 
+on its hull. It also seems incapable of detecting you — you may proceed as 
 desired.
 
 ## <a name="E092">E092 Passed After Radio Contact (takes no time)</a>
-As you enter the system, cursory radio contact is made from a patrol starship.
+As you enter the system, cursory radio contact is made from a patrol starship. 
 After a brief conversation, you are passed without incident, and may proceed as desired.
 
 ## <a name="E093">E093 No Ships & No Contact (takes no time)</a>
-The system might as well be deserted. You detect no nearby starships and there
+The system might as well be deserted. You detect no nearby starships and there 
 are no attempts to communicate with you. You may proceed.
 
 ## <a name="E094">E094 Minefield (takes no time)</a>
-You are at the edge of one of the dreaded Nipnan fields of space mines.
+You are at the edge of one of the dreaded Nipnan fields of space mines. 
 You have four options:
 
-* Immediately hyperjump to another star system (<a href="#R212">R212</a>A);
+* Immediately hyperjump to another star system (<a href="#R212A">R212A</a>);
 * Shoot the mines with your starship guns to clear a path, see <a href="#E098">E098</a>;
 * Try to cautiously proceed through the mines by sublight drive, see <a href="#E078">E078</a>;
 * Stay in place and radio the Nipnans for help, see <a href="#E024">E024</a>.
 
 ## <a name="E095">E095 Starship Attacks (takes 1 hour/round)</a>
-You are immediately attacked by a starship with Mynkurian markings, see <a href="#R230">R230</a>L.
+You are immediately attacked by a starship with Mynkurian markings, see <a href="#R230L">R230L</a>.
 Before you can do anything (not even engage ECM or defense screens) they fire.
-After that, you can hyperjump to another system (<a href="#R212">R212</a>A), stand and fight, or
-use sublight drive to run away (results in a running battle, see <a href="#R230">R230</a>L). The
+After that, you can hyperjump to another system (<a href="#R212A">R212A</a>), stand and fight, or
+use sublight drive to run away (results in a running battle, see <a href="#R230L">R230L</a>). The
 Mynkurian ship will ignore all communication, and continue to fight until you
 escape or destroy it. Mynkurian Ship: it is a patrol escort, consult <a href="#R210">R210</a> for
 tech level of ship (applies to all its equipment, such as starship guns, as
@@ -3567,7 +3564,7 @@ well). It has one turret of starship guns, 10 hit points, and neither ECM nor
 defensive screens.
 
 ## <a name="E096">E096 Undetected (takes no time)</a>
-You are not detected by any ships in the system, and may proceed to the
+You are not detected by any ships in the system, and may proceed to the 
 destination of your choice.
 
 ## <a name="E097">E097 Communications Signal (time varies)</a>
@@ -3575,14 +3572,14 @@ You receive a signal to wait for escort and proceed then to a Palatek Space
 Station (or orbit, if no station) at the planet of your destination for an
 inspection. If you ignore this signal, or have an inoperative communications
 system, no time passes, but see <a href="#E108">E108</a> immediately. If you receive the signal,
-you can hyperjump instantly to another system (<a href="#R212">R212</a>A). If you receive the
+you can hyperjump instantly to another system (<a href="#R212A">R212A</a>). If you receive the
 signal and acknowledge it, you wait 1d6 hours for two Palatek patrol frigates
 to approach, take another 4 hrs to escort you to the space station (or orbit),
 and there an inspection team boards, see <a href="#E021">E021</a>.
 
 ## <a name="E098">E098 Robot Wardrone (time varies)</a>
-A Nipnan robot wardrone is approaching very quickly! You can try to immediately
-hyperjump to another system (<a href="#R212">R212</a>A), attack the drone — see <a href="#E079">E079</a>, or try to
+A Nipnan robot wardrone is approaching very quickly! You can try to immediately 
+hyperjump to another system (<a href="#R212A">R212A</a>), attack the drone — see <a href="#E079">E079</a>, or try to 
 flee from the drone — see <a href="#E132">E132</a>.
 
 ## <a name="E099">E099 Ship’s Boat Approaches (takes 1 hour)</a>
@@ -3601,17 +3598,17 @@ it, spending one hour travelling by sublight drive — see <a href="#E182">E182<
 ## <a name="E101">E101 Mental Probes (takes no time)</a>
 You feel low-level mental probes. If you have a psionicist on board, you may
 have mental shields set up — see <a href="#E186">E186</a>. Otherwise, you may either hyperjump
-away immediately to another system (<a href="#R212">R212</a>A) or proceed as you first intended —
+away immediately to another system (<a href="#R212A">R212A</a>) or proceed as you first intended —
 see <a href="#E164">E164</a>.
 
 ## <a name="E102">E102 One Ship Approaches (takes no time)</a>
-An all-black warship is nearby and approaching you. You can either hyperjump
-to another system (<a href="#R212">R212</a>A), try to establish contact - see <a href="#E173">E173</a>, attack it —
+An all-black warship is nearby and approaching you. You can either hyperjump 
+to another system (<a href="#R212A">R212A</a>), try to establish contact - see <a href="#E173">E173</a>, attack it — 
 see <a href="#E189">E189</a>, or try to flee — see <a href="#E144">E144</a>.
 
 ## <a name="E103">E103 Debris and Stasis Unit (takes 1 hour)</a>
-You see debris scattered in space and an activated stasis unit of 4 CU size.
-If you take the unit, when (and if) you deactivate it roll 1d6 and refer to
+You see debris scattered in space and an activated stasis unit of 4 CU size. 
+If you take the unit, when (and if) you deactivate it roll 1d6 and refer to 
 the appropriate event:
 
 | D6  | Result   |
@@ -3624,7 +3621,7 @@ the appropriate event:
 |  6  | see <a href="#E425">E425</a> |
 
 ## <a name="E104">E104 Not Detected (takes no time)</a>
-You are not detected upon arrival, and may travel to the asteroid belt
+You are not detected upon arrival, and may travel to the asteroid belt 
 (if present) or planet of your choice in the system.
 
 ## <a name="E105">E105 Merchant Ship (takes no time)</a>
@@ -3638,15 +3635,15 @@ it, spending one hour in sublight drive — see <a href="#E193">E193</a>.
 
 ## <a name="E107">E107 One-Man Ships Rushing Towards You (takes no time)</a>
 You see 1d6+1 one-man Mynkurian ships rushing in your direction. You may
-immediately hyperjump to another system (<a href="#R212">R212</a>A), wait a few minutes to see
+immediately hyperjump to another system (<a href="#R212A">R212A</a>), wait a few minutes to see
 what happens — see <a href="#E165">E165</a>, or attack them — see <a href="#E195">E195</a>. You cannot flee, since
 they are approaching from all sides.
 
 ## <a name="E108">E108 Two Ships Approach (takes no time)</a>
 You are approached by two ships with Palatek markings. You may either hyperjump
-to another system (<a href="#R212">R212</a>A), wait a few minutes and allow them to board you —
-see <a href="#E197">E197</a>, or attack them (<a href="#R230">R230</a>L). If you attack, and later surrender, then see
-<a href="#E197">E197</a>. Palatek Frigates Ship Data: each ship has 10 hit points and one gun
+to another system (<a href="#R212A">R212A</a>), wait a few minutes and allow them to board you —
+see <a href="#E197">E197</a>, or attack them (<a href="#R230L">R230L</a>). If you attack, and later surrender, then see
+E<a href="#197">197</a>. Palatek Frigates Ship Data: each ship has 10 hit points and one gun
 turret with tech 4 starship guns. Roll 1d6:
 
 | D6  | Result                                    |
@@ -3664,7 +3661,7 @@ wish to avoid the extra time, roll again for another System Entry event.
 
 ## <a name="E110">E110 Battle in Progress (takes no time)</a>
 You see a fierce space battle in progress. You may either immediately hyperjump
-to another system (<a href="#R212">R212</a>A), approach the battle — see <a href="#E174">E174</a>, or try to sneak
+to another system (<a href="#R212A">R212A</a>), approach the battle — see <a href="#E174">E174</a>, or try to sneak
 away — see <a href="#E096">E096</a>.
 
 ## <a name="E111">E111 Mental Attack (takes no time)</a>
@@ -3677,7 +3674,7 @@ on board to put up a mental shield see <a href="#E401">E401</a>. If you have a g
 the guns and look for a target, see <a href="#E411">E411</a>. If you have a pilot/navigator on
 board, he can take the controls while you receive another 1d6 hits. Once you
 are in motion you are freed and can continue normally. Anyone on board can
-energize the stasis unit (<a href="#R212">R212</a>E) around the pilot compartment, see <a href="#E421">E421</a>. Note:
+energize the stasis unit (<a href="#R212E">R212E</a>) around the pilot compartment, see <a href="#E421">E421</a>. Note:
 if you are not at the controls when this event occurs, it will apply to the
 pilot/navigator at the controls instead. You may then act as the relief
 pilot/navigator to take over (see above).
@@ -3685,7 +3682,7 @@ pilot/navigator to take over (see above).
 ## <a name="E112">E112 Fired Upon by Defense System (takes no time)</a>
 You are near 1d6 Nipnan gun buoys — robot controlled automatic defensive
 systems. Each buoy fires upon you, and if your guns are manned you can shoot
-back at one (<a href="#R230">R230</a>L). You may then either hyperjump (<a href="#R212">R212</a>A), stand and try to
+back at one (<a href="#R230L">R230L</a>). You may then either hyperjump (<a href="#R212A">R212A</a>), stand and try to
 disable or destroy the buoys, or try to escape the buoys with sublight drive.
 If you try to escape, roll 1d6:
 
@@ -3722,8 +3719,8 @@ Roll 2d6 to see which compartment is hit:
 An impressively large Imperian warship, bristling with guns, orders you to
 stop, take aboard an Imperian pilot to direct your planetary approach and to
 receive required visas and entry permits. Your options are: To immediately
-hyperjump to another system (<a href="#R212">R212</a>A); To attack or flee the battleship, space
-combat (<a href="#R230">R230</a>L) will result, see <a href="#E081">E081</a> for details; To acknowledge and let the
+hyperjump to another system (<a href="#R212A">R212A</a>); To attack or flee the battleship, space
+combat (<a href="#R230L">R230L</a>) will result, see <a href="#E081">E081</a> for details; To acknowledge and let the
 boarding party come aboard, see <a href="#E403">E403</a>.
 
 ## <a name="E115">E115 Crewman with Weapon Drawn (takes 1 hour)</a>
@@ -3731,7 +3728,7 @@ If you have any hireling (including crew) hired in a Slum area, you find the
 best marksman among them (if more than one) standing behind your pilot’s seat
 with his best weapon. He says “slowly raise your hands, leave the controls and
 come with me.”If you try to fight, you will be “surprised” in the ensuing
-combat (<a href="#R230">R230</a>I), including any non-slum bodyguard with you in the compartment.
+combat (<a href="#R230I">R230I</a>), including any non-slum bodyguard with you in the compartment.
 Range at start is contact for the one behind you, dispersed for all others.
 Non-slum crew members will fight for you from dispersed range (after the
 surprise) with any person weapons, but only if they normally fight. You can
@@ -3759,14 +3756,14 @@ tachyonic degradation of semiconductors. No other equipment is affected. You
 can proceed as desired, and repair communications gear now or later, as
 desired. Repair requires a starship engineer for the ship communications and
 ship’s boat radios, a qualified repairman can fix the rest. Each item requires
-one full day of RRR (<a href="#R203">R203</a>C) and one repair unit (<a href="#R211">R211</a>). The damage is very
+one full day of RRR (<a href="#R203C">R203C</a>) and one repair unit (<a href="#R211">R211</a>). The damage is very
 esoteric — none of the repair units currently on board can be used.
 
 ## <a name="E118">E118 Military Scout Nearby (takes no time)</a>
 A small military scout ship with Talitar insignia is nearby. They seem to be
 waiting for your to do something. You can tell the ship has one standard
 turret of starship guns, plus a nose cannon of unknown and unfamiliar design.
-You can either (a) hyperjump to another system (<a href="#R212">R212</a>A), (b) try to escape
+You can either (a) hyperjump to another system (<a href="#R212A">R212A</a>), (b) try to escape
 using your sublight drive — see <a href="#E413">E413</a>, (c) attack the scout — see <a href="#E422">E422</a>, (d)
 offer them a bribe to let you pass — write down amount and see <a href="#E406">E406</a>, or (e)
 sit and patiently wait for them to do something first — see <a href="#E428">E428</a>.
@@ -3786,8 +3783,8 @@ Roll 1d6 to see where it is attached:
 |  6  | in the vicinity of the hypercharge storage area |
 
 You can either (a) energize sublight drive and proceed on your way, ignoring it
-— see <a href="#E418">E418</a>, (b) hyperjump again (<a href="#R212">R212</a>A) to a new system and ignore it — see
-<a href="#E423">E423</a>, (c) send a starship engineer from your crew to examine it — see <a href="#E414">E414</a>,
+— see <a href="#E418">E418</a>, (b) hyperjump again (<a href="#R212A">R212A</a>) to a new system and ignore it — see
+E<a href="#423">423</a>, (c) send a starship engineer from your crew to examine it — see <a href="#E414">E414</a>,
 (d) send a nonengineer from your crew (or yourself) to examine it — see <a href="#E429">E429</a>,
 (e) send a non-engineer from your crew (or yourself) to shoot it — see <a href="#E407">E407</a>.
 You cannot exit the ship via a hatch or door on which the object is attached,
@@ -3823,12 +3820,12 @@ join your crew free if you take him permanently off planet. He will be
 
 | D6  | Result                                                                 |
 |-----|------------------------------------------------------------------------|
-|  1  | Pilot/Navigator (<a href="#R221">R221</a>A) with <a href="#E7">E7</a>, M2, H1                                |
-|  2  | Starship Engineer (<a href="#R221">R221</a>B) with <a href="#E4">E4</a>, M0, H2 and a qualified skimmer driver |
-|  3  | Starship Gunner (<a href="#R221">R221</a>C) with <a href="#E6">E6</a>, M3, H3                                |
-|  4  | Ship’s Steward and skimmer driver (<a href="#R221">R221</a>E) with <a href="#E8">E8</a>, M0, H1 who is an excellent cook and very knowledgeable about wine and spirits |
-|  5  | Robot Repairman who can repair any type of robot (<a href="#R219">R219</a>) of tech level 4 or less, and who also will act as bodyguard (<a href="#R221">R221</a>D) although he cannot use ranged weapons, being <a href="#E6">E6</a>, M0, H4 |
-|  6  | retired merchant supply officer who can drive a skimmer (<a href="#R221">R221</a>E) and has experience in jury-rigged equipment, making deals and trades, etc. His presence in your party will add one (+1) to your Cunning, and his presence with equipment during a day reduces its tech level by one (-1) for break-down purposes only (<a href="#R218">R218</a>). |
+|  1  | Pilot/Navigator (<a href="#R221A">R221A</a>) with <a href="#E7">E7</a>, M2, H1                                |
+|  2  | Starship Engineer (<a href="#R221B">R221B</a>) with <a href="#E4">E4</a>, M0, H2 and a qualified skimmer driver |
+|  3  | Starship Gunner (<a href="#R221C">R221C</a>) with <a href="#E6">E6</a>, M3, H3                                |
+|  4  | Ship’s Steward and skimmer driver (<a href="#R221E">R221E</a>) with <a href="#E8">E8</a>, M0, H1 who is an excellent cook and very knowledgeable about wine and spirits |
+|  5  | Robot Repairman who can repair any type of robot (<a href="#R219">R219</a>) of tech level 4 or less, and who also will act as bodyguard (<a href="#R221D">R221D</a>) although he cannot use ranged weapons, being <a href="#E6">E6</a>, M0, H4 |
+|  6  | retired merchant supply officer who can drive a skimmer (<a href="#R221E">R221E</a>) and has experience in jury-rigged equipment, making deals and trades, etc. His presence in your party will add one (+1) to your Cunning, and his presence with equipment during a day reduces its tech level by one (-1) for break-down purposes only (<a href="#R218">R218</a>). |
 
 ## <a name="E123">E123 Guns to Talitar (takes rest of day)</a>
 Two men ask you to take them and a cargo of guns to the underground movement on
@@ -3865,24 +3862,24 @@ designate exactly who enters, and with what. If you try to be friendly, just
 one individual will attempt this.
 
 ## <a name="E126">E126 Debugging Team (takes rest of day)</a>
-A professional debugging team will remove all bugs and surveillance devices
-from your vehicles and equipment for a base price (<a href="#R229">R229</a>A) of 300 S.
+A professional debugging team will remove all bugs and surveillance devices 
+from your vehicles and equipment for a base price (<a href="#R229A">R229A</a>) of 300 S.
 
 ## <a name="E127">E127 Foreign Program Seizes Computer (takes no time)</a>
 A program of unknown origin has gained access to your starship’s computer,
 perhaps through a teleprocessing port or attached memory device. If you are on
 board and succeed with a Cunning roll (<a href="#R202">R202</a>) you act instantly to shut down
 the computer. This will prevent hyperjump and use of starship guns until a
-base price (<a href="#R229">R229</a>A) of 120 S is paid at any spaceport, space station or
+base price (<a href="#R229A">R229A</a>) of 120 S is paid at any spaceport, space station or
 scientific area is paid to replace the computer software.
 
-If you are not on board when the program takes control, your starship is lost
+If you are not on board when the program takes control, your starship is lost 
 to you, with all on board.
 
 If you are on board, but fail your Cunning roll, the starship immediately
 hyperjumps to Imperia, or as close as possible with the hypercharges there on
 board. At system entry after this jump, the program causes the starship guns
-to immediately open fire (<a href="#R230">R230</a>L) at any ship(s) present, and to continue
+to immediately open fire (<a href="#R230L">R230L</a>) at any ship(s) present, and to continue
 firing until all ships present or your ship is destroyed. At this point the
 program erases and the computer becomes useless until new software is
 purchased (see above).
@@ -3909,11 +3906,11 @@ person is hit, and suffers 2d6 hits of damage. If you are “hit” you can dodg
 with a successful Cunning roll (<a href="#R202">R202</a>) and avoid damage.
 
 ## <a name="E130">E130 Arrested as Spy (takes 1 hour)</a>
-You are arrested as a spy. You may go willingly — see <a href="#E023">E023</a>, may try to bribe
-them with base price (<a href="#R229">R229</a>A) of 250 S - see <a href="#R321">R321</a>, or try to escape — see <a href="#R327">R327</a>.
+You are arrested as a spy. You may go willingly — see <a href="#E023">E023</a>, may try to bribe 
+them with base price (<a href="#R229A">R229A</a>) of 250 S - see <a href="#R321">R321</a>, or try to escape — see <a href="#R327">R327</a>.
 
 ## <a name="E131">E131 Palace Contact (takes rest of day)</a>
-You make contact with a servant of the palace, and can pay for information.
+You make contact with a servant of the palace, and can pay for information. 
 Roll 1d6 to determine exact sum you need to pay:
 
 | D6  | Result    |
@@ -3925,20 +3922,20 @@ Roll 1d6 to determine exact sum you need to pay:
 |  5  | 1,000 S   |
 |  6  | 3,000 S   |
 
-If you pay this amount, then roll 1d6 and add it to the first (payment level)
+If you pay this amount, then roll 1d6 and add it to the first (payment level) 
 roll and consult results below:
 
 | 2D6 | Result                                                                 |
 |-----|------------------------------------------------------------------------|
 | 2-3 | servant will purchase any liquor from you at double the price you paid for it |
 |  4  | servant will sell you palace wine at 50 S per 1-CU case, which you can resell in any Gambling area for 80 S per case |
-| 5-6 | servant will let you steal two artworks, each 1 CU size, which can be sold in any city off this planet for a base price (<a href="#R229">R229</a>A) of 200 S each |
+| 5-6 | servant will let you steal two artworks, each 1 CU size, which can be sold in any city off this planet for a base price (<a href="#R229A">R229A</a>) of 200 S each |
 |  7  | servant takes your money and turns you in: to the palace guards! see <a href="#E160">E160</a> |
 |  8  | servant is a secret police agent, floods the room with sleep-gas, you wake up in jail — see <a href="#E023">E023</a> |
 |  9  | you are conducted to the chamber of a royal princess (or prince, if you prefer) for a night of unimaginable bliss, roll 1d6 on Bliss table tomorrow morning for results |
-| 10  | you may steal a collection of rare books from the palace, 18 CU in size, and worth 6,500 S base price (<a href="#R229">R229</a>A) at any other palace |
-| 11  | you may steal the pet starfleeter of the King — a starfleeter is an alien lifeform with a psionic power of 20 that immediately attacks all persons in your party, evenly distributing its strength to each (see <a href="#E022">E022</a>), and each following day it makes another such attack, until it is exposed to vacuum which causes suspended animation for one week after which roll 1d6: 1-5 it revives 6 it dies — a starfleeter is worth 5,000 S base price (<a href="#R229">R229</a>A) anywhere in the New Karma system |
-| 12  | you may attempt to steal the crown jewels tonight; determine the makeup of your party, then consult <a href="#E059">E059</a>; if you survive that, you take the jewels; they can be sold to any gem dealer for a base price (<a href="#R229">R229</a>A) of 60,000 S and occupy 2 CU of space; any customs agent or inspector will recognize them instantly if found, and at that point (and only then) you will become “wanted” in this system. |
+| 10  | you may steal a collection of rare books from the palace, 18 CU in size, and worth 6,500 S base price (<a href="#R229A">R229A</a>) at any other palace |
+| 11  | you may steal the pet starfleeter of the King — a starfleeter is an alien lifeform with a psionic power of 20 that immediately attacks all persons in your party, evenly distributing its strength to each (see <a href="#E022">E022</a>), and each following day it makes another such attack, until it is exposed to vacuum which causes suspended animation for one week after which roll 1d6: 1-5 it revives 6 it dies — a starfleeter is worth 5,000 S base price (<a href="#R229A">R229A</a>) anywhere in the New Karma system |
+| 12  | you may attempt to steal the crown jewels tonight; determine the makeup of your party, then consult <a href="#E059">E059</a>; if you survive that, you take the jewels; they can be sold to any gem dealer for a base price (<a href="#R229A">R229A</a>) of 60,000 S and occupy 2 CU of space; any customs agent or inspector will recognize them instantly if found, and at that point (and only then) you will become “wanted” in this system. |
 
 ### Bliss
 
@@ -3951,10 +3948,10 @@ roll and consult results below:
 
 ## <a name="E132">E132 Wait or Flee Wardrone (takes 1 hour/round)</a>
 Without hesitation the Nipnan drone speeds towards your ship, trying to strike
-it. Roll as if being attacked by tech 6 starship guns (<a href="#R230">R230</a>L), If the drone
+it. Roll as if being attacked by tech 6 starship guns (<a href="#R230L">R230L</a>), If the drone
 hits, it detonates and causes 1d6+1 hits of damage. If the drone misses, you
-can reply that round by either making a hyperjump (<a href="#R212">R212</a>A) or opening fire —
-see <a href="#E079">E079</a>, or trying to escape (<a href="#R230">R230</a>L). If you try to escape, in addition to
+can reply that round by either making a hyperjump (<a href="#R212A">R212A</a>) or opening fire —
+see <a href="#E079">E079</a>, or trying to escape (<a href="#R230L">R230L</a>). If you try to escape, in addition to
 firing if you wish (and have both pilot and gunner), if you fail to escape for
 two hours in a row, during the third hour the drone’s engine runs down,
 preventing it from making a further attack. It will detonate (no damage to
@@ -3968,7 +3965,7 @@ instantly launch a suicide attack against you (<a href="#R327">R327</a>). They w
 death, regardless of odds or tactical situation. Mynkurian Death Squad Troops:
 two “miners”, each <a href="#E3">E3</a>, M0, H4 rigged with high explosives — if they contact
 any vehicle or robot (or failing that, any person) they blow themselves up
-(see <a href="#<a href="#R230">R230</a>">R230</a>E and R230K for explosive hits); two “gold slayers” who are <a href="#E5">E5</a>, M0,
+(see <a href="#R230E">R230E</a> and <a href="#R230K">R230K</a> for explosive hits); two “gold slayers” who are <a href="#E5">E5</a>, M0,
 H6 who attempt to contact any officer or leader (including yourself) and hit
 hand-to-hand with poison-tipped spikes that cause one wound and immediate
 disablement, furthermore, unless immediately treated with first aid (<a href="#R231">R231</a>)
@@ -3993,7 +3990,7 @@ try to bribe them for 50 S. If you do, roll 1d6
 | 1-3 | they accept the bribe                                                  |
 | 4-6 | they refuse and a battle ensues, refer to <a href="#R327">R327</a> and subtract two from the dice roll there. |
 
-Talitarian Patrol: composed of eight (8) men, each is <a href="#E6">E6</a>, M4, H4 armed with
+Talitarian Patrol: composed of eight (8) men, each is <a href="#E6">E6</a>, M4, H4 armed with 
 heavy hand weapons (see <a href="#R210">R210</a> for tech level).
 
 ## <a name="E135">E135 Hostile Life Force (takes no time)</a>
@@ -4003,7 +4000,7 @@ has Endurance 5, and appears to be trying to contact and engulf individuals,
 to destroy them. You may fire weapons at it — see <a href="#E163">E163</a>, attack it hand-to-hand
 — see <a href="#E170">E170</a>, abandon your vehicle and flee — see <a href="#E176">E176</a>, feed it life support
 units (decide how many now) — see <a href="#E194">E194</a>, or stand and let it engulf you — see
-<a href="#E187">E187</a>.
+E<a href="#187">187</a>.
 
 ## <a name="E136">E136 Imperial Guards (takes no time)</a>
 You meet a troop of 1d6+4 Imperial Guardsmen, with gleaming weapons and lavish
@@ -4033,7 +4030,7 @@ return to this planet.
 ## <a name="E140">E140 Attack by “Zombies” (takes 1 hour)</a>
 Your party is rushed by persons that seem stumbling and awkward, with a
 lifeless appearance in their eyes. There are 1d6 times ten (x10) of them, each
-<a href="#E10">E10</a>, M0, H1. If you are in a ship’s boat or starship they cannot hurt you, but
+E<a href="#10">10</a>, M0, H1. If you are in a ship’s boat or starship they cannot hurt you, but
 inflict one hit of damage to your vehicle. If you are in any other vehicle,
 they overturn and wreck it on the first rush, and begin smashing it around you.
 Therefore, in all other cases, the first round of combat begins (<a href="#R230">R230</a>) in the
@@ -4074,7 +4071,7 @@ If you don’t make the contribution, roll 1d6:
 | 5-6 | they become very hostile, see <a href="#E184">E184</a>                                     |
 
 ## <a name="E144">E144 Try to Flee (takes 1 hour/round)</a>
-The black ship immediately opens fire (<a href="#R230">R230</a>L) with its tech 1 starship guns,
+The black ship immediately opens fire (<a href="#R230L">R230L</a>) with its tech 1 starship guns,
 but will not pursue. It will continue to fire until you escape, are destroyed,
 or destroy it.
 
@@ -4140,8 +4137,8 @@ can examine it and attempt to use it, if you do, spend another hour and roll
 |  6  | small animal repeller that turns away any animal of Endurance 3 or less, costs 1S per day to operate, worth 35 S if sold in a rural area |
 |  7  | emits loud burbling sound but has no other effect unless you tried it on Uruskop, then refer to <a href="#E128">E128</a> |
 |  8  | causes an automatic breakdown (<a href="#R218">R218</a>) on your nearest vehicle, then melts |
-|  9  | a tech 5 ECM unit for your starship, that requires a full day of RRR, see <a href="#R230">R230</a>L for effect |
-| 10  | tech 4 starship defensive screen unit, takes a full day of RRR to install, see <a href="#R230">R230</a>L for effect |
+|  9  | a tech 5 ECM unit for your starship, that requires a full day of RRR, see <a href="#R230L">R230L</a> for effect |
+| 10  | tech 4 starship defensive screen unit, takes a full day of RRR to install, see <a href="#R230L">R230L</a> for effect |
 | 11  | trap-that goes off, see <a href="#E059">E059</a>, if you survive roll again for what the trap protected |
 | 12  | personal power armor of tech 6 in a suitcase; armor when powered-up is 1 CU and similar to utility suit, except it has integral life support that lasts for 2 days before it needs a 1 S recharge at a spaceport or space station, or a free recharge at your starship; in combat any one ranged weapon hit or two hand-to-hand hits each round can be ignored, and the tech level of all ranged weapons firing on it are reduced by one; if the armor breaks down, the wearer must get out of it to move (unless carried by others), and the powerless armor now is equivalent to 2 CU in weight and bulk. |
 
@@ -4178,7 +4175,7 @@ wishes you luck, and starts the machine, roll 1d6:
 
 ## <a name="E153">E153 High Technology Item (takes 1 hour)</a>
 You have the opportunity to buy one high-technology item. Roll 2d6 to determine
-which item is available. All items are tech 6, with the base price (<a href="#R229">R229</a>A)
+which item is available. All items are tech 6, with the base price (<a href="#R229A">R229A</a>)
 given in brackets [ ].
 
 | 2D6 | Result                                                                 |
@@ -4186,14 +4183,14 @@ given in brackets [ ].
 |  2  | upgraded sublight drive for your starship. Escape is automatic from any ship of tech 5 or less, normal escape ability against tech 6 ships. Upgrading takes a full day of RRR to install at a spaceport or station [10,000 s] |
 |  3  | ECCM electronic counter-countermeasures unit of 3 CU size that negates the effect of any ECM unit [800 S] |
 |  4  | Regrowth Tank that allows rapid healing for one person (<a href="#R231">R231</a>), with 1d6 hits healed per day if the person stays in the tank the entire day. The tank requires installation in the starship and takes 4 CU. If it breaks down the day it is in use, the person suffers 1d6 extra hits instead of healing that many [2,000 S] |
-|  5  | Shadow Suit that can be worn by anyone not in a utility suit. It will reduce the Detection Factor (<a href="#R238">R238</a>) by one (-1) of the wearer if entering a land area on foot and alone (or with other shadow suit wearers only). Anyone shooting at a wearer has accuracy (<a href="#R230">R230</a>D) reduced by two. Wearing a shadow suit costs 1 S per day for consumable items (IR filters, etc.) [200 S] |
+|  5  | Shadow Suit that can be worn by anyone not in a utility suit. It will reduce the Detection Factor (<a href="#R238">R238</a>) by one (-1) of the wearer if entering a land area on foot and alone (or with other shadow suit wearers only). Anyone shooting at a wearer has accuracy (<a href="#R230D">R230D</a>) reduced by two. Wearing a shadow suit costs 1 S per day for consumable items (IR filters, etc.) [200 S] |
 |  6  | Portable Life Support Unit that when collapsed is 4 CU in size with a 1 CU power plant. When the 4-CU unit is unfolded (takes 1 hour) it expands to hold 50 CU and provides life support (<a href="#R213">R213</a>) for a month. The 1 CU power plant only runs for that month, after which a week of recharging at a starship power plant is needed [40 S per collapsible unit, 300 S per plant] |
-|  7  | Starship Defensive Screens composed of two separate 2 CU devices, one installed in the engine compartment, and one in some other compartment of the starship, and controlled from the pilot’s compartment. Effects of screens are described in <a href="#R230">R230</a>L [500 S] |
-|  8  | ECM electronic countermeasures unit 1 CU in size. It provides added protection for a starship (see <a href="#R230">R230</a>L) if installed in the engine compartment [500 S] |
+|  7  | Starship Defensive Screens composed of two separate 2 CU devices, one installed in the engine compartment, and one in some other compartment of the starship, and controlled from the pilot’s compartment. Effects of screens are described in <a href="#R230L">R230L</a> [500 S] |
+|  8  | ECM electronic countermeasures unit 1 CU in size. It provides added protection for a starship (see <a href="#R230L">R230L</a>) if installed in the engine compartment [500 S] |
 |  9  | Vacuum Skimmer that performs like an ordinary skimmer, but able to function in bad air or no air, as well as good air. However, it does not provide life support unless a special version with this feature is purchased. [100 S for standard version, 200 S for version with integral life support] |
-| 10  | High Power Sidearm that is like a normal sidearm in size and use, (<a href="#R215">R215</a>D) except it fires like a heavy hand weapon with explosive charges (<a href="#R230">R230</a>E) [50 S] |
+| 10  | High Power Sidearm that is like a normal sidearm in size and use, (<a href="#R215D">R215D</a>) except it fires like a heavy hand weapon with explosive charges (<a href="#R230E">R230E</a>) [50 S] |
 | 11  | Power Pack fusion plant that never requires recharging or any additional cost. The fusion power pack replaces a normal fuel unit; a pack for a skimmer is 1 CU in size [80 S], a pack for a ship’s boat is 10 CU in size and provides power equivalent to 10 fuel units per hour [2,000 S] |
-| 12  | Personal Force Field that occupies 1 CU turned off, 2 CU activated, and surrounds the wearer when activated. When activated it prevents anyone from getting into contact (<a href="#R230">R230</a>B) with the wearer, and protects the wearer from explosive weapon effects, but not from normal hit effects. If the personal force field is activated when a hyperjump occurs, or inside a stasis field, it immediately explodes and kills the wearer. The force field when activated can surround a person in a utility suit [800 S] |
+| 12  | Personal Force Field that occupies 1 CU turned off, 2 CU activated, and surrounds the wearer when activated. When activated it prevents anyone from getting into contact (<a href="#R230B">R230B</a>) with the wearer, and protects the wearer from explosive weapon effects, but not from normal hit effects. If the personal force field is activated when a hyperjump occurs, or inside a stasis field, it immediately explodes and kills the wearer. The force field when activated can surround a person in a utility suit [800 S] |
 
 ## <a name="E154">E154 Volcanic Vents (takes no time)</a>
 You have entered an area with active volcanic vents. Roll immediately for
@@ -4221,10 +4218,10 @@ H5, half with heavy hand weapons, half with sidearms (see <a href="#R210">R210</
 ## <a name="E156">E156 Clone Bank (takes 1 hour)</a>
 You are offered the services of a clone bank. If you accept, the procedure will
 take the rest of the day. In a clone bank, a mental scan recording of your
-mind and body are made for a base price (<a href="#R229">R229</a>A) of 1,000 S, payed in advance.
+mind and body are made for a base price (<a href="#R229A">R229A</a>) of 1,000 S, payed in advance.
 Unless a message is received within 40 days, the bank will assume you have
 died, and will activate the clone, which has all of your memories, abilities,
-etc. up to this date (including location of any caches, <a href="#R229">R229</a>C). Normally you
+etc. up to this date (including location of any caches, <a href="#R229C">R229C</a>). Normally you
 send a “do not activate” message every month to prevent this, paying 100 S if
 in another star system for a special message-jump relay. You can also visit
 the bank in this area in the future, and for 50 S update the memories of your
@@ -4284,7 +4281,7 @@ thugs (each <a href="#E8">E8</a>, M4, H6 armed with a sidearm, see <a href="#R21
 ignore him, or you can attack him. If you attack, see <a href="#R302">R302</a>. You must defeat
 them in five combat rounds, since after that the rich man will escape. If you
 disable or kill the rich man, you find he has a base value wealth of 1d6 times
-100 (<a href="#R229">R229</a>A). If you attacked the rich man, you automatically become “wanted”
+100 (<a href="#R229A">R229A</a>). If you attacked the rich man, you automatically become “wanted”
 here.
 
 ## <a name="E160">E160 Royal Guards (takes 1 hour)</a>
@@ -4294,9 +4291,9 @@ hand-to-hand combat) and sidearms (see <a href="#R210">R210</a> for tech level).
 arrest you— if they do, see <a href="#E023">E023</a>. You can chose to resist, see <a href="#R327">R327</a>, but if
 you do, they have no scruples about killing you in combat. After five rounds
 of combat, another four royal guardsmen will appear.
-
+ 
 ## <a name="E161">E161 Attack the Ship’s Boat (takes 1 hour)</a>
-Your gunner fires on the boat — determine the effects of the shot (<a href="#R230">R230</a>L). If
+Your gunner fires on the boat — determine the effects of the shot (<a href="#R230L">R230L</a>). If
 you score a critical hit of any type, the boat explodes. Otherwise, three
 psionicists on the boat respond with a psionic attack (<a href="#E022">E022</a>) against your
 gunner. Each psionicist has <a href="#E10">E10</a> and psionic power 12, and will make a size 4
@@ -4343,7 +4340,7 @@ Roll 1d6:
 | D6  | Result                                                                 |
 |-----|------------------------------------------------------------------------|
 | 1-3 | combat ensues, see <a href="#R327">R327</a> and add one (+1) to your dice roll there                                               |
-| 4-6 | and they cry out in terror and run away, dropping their weapons. These may be sold for base price (<a href="#R229">R229</a>A) of 5 S at any city or colony on. Palatek, Byzantium, or Talitar. The weapons are virtually useless in combat and occupy 1 CU each. |
+| 4-6 | and they cry out in terror and run away, dropping their weapons. These may be sold for base price (<a href="#R229A">R229A</a>) of 5 S at any city or colony on. Palatek, Byzantium, or Talitar. The weapons are virtually useless in combat and occupy 1 CU each. |
 
 ## <a name="E167">E167 Alloy Comes to Life (takes 1 hour)</a>
 The item you purchased of bio-plastic alloy has actually come to life! It
@@ -4408,19 +4405,19 @@ M3, H4 and armed with a heavy hand weapons (see <a href="#R210">R210</a> for tec
 You make contact, and discover this is a ship of the Byzantine secret police.
 If you had any encounter with them before, or succeed with a Cunning roll
 (<a href="#R202">R202</a>), they wish to deal with you. Otherwise, of if you are “wanted” by
-Byzantium, they demand to board you for a search.
+Byzantium, they demand to board you for a search. 
 
 Dealing with the Byzantine Secret Police Ship - roll 1d6:
 
 | D6  | Result                                                                 |
 |-----|------------------------------------------------------------------------|
-| 1-2 | they wish you to smuggle a 4 CU stasis unit to the nearest planet for them, you will be paid 300 S after you land it on the planet; you can de-energize it yourself (<a href="#R212">R212</a>E), but if you do see <a href="#E425">E425</a> when it is opened, and you become “wanted” on Byzantium |
+| 1-2 | they wish you to smuggle a 4 CU stasis unit to the nearest planet for them, you will be paid 300 S after you land it on the planet; you can de-energize it yourself (<a href="#R212E">R212E</a>), but if you do see <a href="#E425">E425</a> when it is opened, and you become “wanted” on Byzantium |
 | 3-4 | conceal one of their men on your ship and take him to the nearest planet, you will be paid 550 S when he arrives undetected, and nothing otherwise (the man will dexterously disappear if found earlier) |
 | 5-6 | conceal one of their men and take him to the palace on Imperia, you will be paid 3,000 S when you return to Byzantium after a successful delivery, again their man must be undetected — if detected he disappears and you will not be paid anything. |
 
 Boarding for Search by Byzantine Secret Police: If you resist boarding, see
-<a href="#E189">E189</a>. If you allow boarding, two men come on board, each <a href="#E6">E6</a>, M2, H3 with
-tech-2 sidearms who search (<a href="#R229">R229</a>D) the ship for items worth more than 100 S
+E<a href="#189">189</a>. If you allow boarding, two men come on board, each <a href="#E6">E6</a>, M2, H3 with
+tech-2 sidearms who search (<a href="#R229D">R229D</a>) the ship for items worth more than 100 S
 per CU. If they find any, roll 1d6, 1-2 they make notes and ask for a 1 CU
 duty per CU of such goods, 3-6 they will take 1 CU of one such item (the most
 valuable) and then let you pass. If you attempt to stop them, or refuse to pay
@@ -4428,7 +4425,7 @@ the duty, a fight breaks out on board, see <a href="#R327">R327</a>. If you win 
 board, you will then have to fight the Byzantine ship, see <a href="#E189">E189</a>.
 
 ## <a name="E174">E174 Approach Battle (takes 1 hour)</a>
-You have wandered into a battle between Nipna and Mynkuria, and inadvertently
+You have wandered into a battle between Nipna and Mynkuria, and inadvertently 
 get involved. Roll 1d6:
 
 | D6  | Result   |
@@ -4468,7 +4465,7 @@ wait and let them dock — see <a href="#E169">E169</a>.
 
 ## <a name="E178">E178 Lost in Rough Terrain (takes rest of day)</a>
 If you have a ship’s boat or starship, you can spend one hour to climb to
-orbit, (<a href="#R214">R214</a> in boat, <a href="#R212">R212</a>G in starship). Otherwise, follow this result: You
+orbit, (<a href="#R214">R214</a> in boat, <a href="#R212G">R212G</a> in starship). Otherwise, follow this result: You
 have lost your way. At the end of the day, roll 1d6. A 1-3 result means you
 determine your location at night by starlight, no further effect. A 4-6
 results means you are unable to locate yourself, you are lost throughout
@@ -4488,9 +4485,9 @@ do anything else. If you loot the ship you’ll be “wanted” in this system, 
 | D6  | Result                                                                 |
 |-----|------------------------------------------------------------------------|
 |  1  | ship is empty, captain is nearly bankrupt                              |
-|  2  | find 30 CU of platinum ore concentrate, worth 800 S base price (<a href="#R229">R229</a>A) at any Industrial area |
+|  2  | find 30 CU of platinum ore concentrate, worth 800 S base price (<a href="#R229A">R229A</a>) at any Industrial area |
 |  3  | find 64 dead slaves — their life support failed during the battle, they are now worthless, but you won’t be “wanted” due to your piracy (slavers don’t complain to authorities!) |
-|  4  | find six luxury skimmers, each 10 CU, you can sell one per City or Gambling area if you roll 1d6 and get 5-6 for a base price (<a href="#R229">R229</a>A) of 400 S, each sales attempt takes 1 hour, no more than one attempt per day in an area |
+|  4  | find six luxury skimmers, each 10 CU, you can sell one per City or Gambling area if you roll 1d6 and get 5-6 for a base price (<a href="#R229A">R229A</a>) of 400 S, each sales attempt takes 1 hour, no more than one attempt per day in an area |
 |  5  | find 50 CU of luxury candies worth 200 S per CU at any palace, and a 2 CU unit of Vegan pomset oil (see below) |
 |  6  | find 44 U-type robots (<a href="#R222">R222</a>) that are all broken-down (<a href="#R218">R218</a>)           |
 
@@ -4514,7 +4511,7 @@ If you are entering in any vehicle other than commercial vehicles, you are
 stopped by a force of 20 union men, each <a href="#E12">E12</a>, M2, H6 with sidearms (see <a href="#R210">R210</a>
 for tech level). They have with them an all-terrain mover with a boat gun and
 gunner (<a href="#E8">E8</a>, M5, H3). They inform you that you cannot enter the area unless you
-hire commercial transport (<a href="#R215">R215</a>B), which they can call for you now. If you do,
+hire commercial transport (<a href="#R215B">R215B</a>), which they can call for you now. If you do,
 and pay the appropriate cost, you enter normally. If you refuse, you either
 cannot enter the area (and must go elsewhere), or you can try to shoot your
 way past — see <a href="#R327">R327</a>. Once in battle, any escape from it becomes a successful
@@ -4534,8 +4531,8 @@ loot the pirate ship for 2d6 times 100 S in fittings and treasure. You must
 then abandon it, as its engines are rapidly approaching the critical stage.
 
 ## <a name="E183">E183 Tortured by Mynkurians (times varies)</a>
-Believing you to be a Nipnan spy, the Mynkurians begin to torture and question
-you. You lose all your personal possessions permanently, and roll 1d6 for
+Believing you to be a Nipnan spy, the Mynkurians begin to torture and question 
+you. You lose all your personal possessions permanently, and roll 1d6 for 
 the result:
 
 | D6  | Result                                                                 |
@@ -4546,7 +4543,7 @@ the result:
 
 ## <a name="E184">E184 Cult Turns Hostile (takes 1 hour)</a>
 Each of the cult members suddenly pulls a needle-gun from beneath their robes
-and opens fire on your party with surprise, see <a href="#R230">R230</a>I. Each cultist is <a href="#E6">E6</a>, M2,
+and opens fire on your party with surprise, see <a href="#R230I">R230I</a>. Each cultist is <a href="#E6">E6</a>, M2,
 H2. If they disable your entire party, they will steal all of your party’s
 possessions and leave you, including any vehicles except a ship’s boat or
 starship (which they are unable to operate). Needle Guns: tech 3 weapon
@@ -4576,10 +4573,10 @@ The life force wraps around you, enclosing you in a painful greenish light that 
 ## <a name="E188">E188 Anagathic Venom (takes 1 hour)</a>
 You hear rumors of a rare arachnid that produces a venom that supposedly
 arrests aging. Your contact claims to have 1d6 doses of it, for a base price
-(<a href="#R229">R229</a>A) of 1,000 S per dose. If it is fresh and genuine, it may be resold in
+(<a href="#R229A">R229A</a>) of 1,000 S per dose. If it is fresh and genuine, it may be resold in
 any City or Palace for a base price of 10,000 S per dose.
 
-If you buy some, you may have it analyzed at any scientific area for 25 S per
+If you buy some, you may have it analyzed at any scientific area for 25 S per 
 dose to determine if it is salable. Otherwise, roll 1d6 at the time of sale:
 
 | D6  | Result                                                                 |
@@ -4597,7 +4594,7 @@ makes you “wanted” (<a href="#R228">R228</a>) at Byzantium. If you try to es
 
 ## <a name="E190">E190 Paid Companionship (takes 1 hour)</a>
 You meet several people, who wish to pay for the privilege of intimate
-companionship with you and your crew. Each day you spend here in RRR (<a href="#R203">R203</a>C)
+companionship with you and your crew. Each day you spend here in RRR (<a href="#R203C">R203C</a>)
 with them you earn a base price of 10 S, but cannot do anything during the
 day. You may stay as long as you wish. The crewmen will keep their own
 earnings, and will remain available even if you stop paying a salary to them
@@ -4634,7 +4631,7 @@ Situation die rolls are:
 
 ## <a name="E192">E192 Cargo Run to Palatek (takes rest of day)</a>
 You have an offer to pick up quaint hand carved items at the Colony on Regari
-for a base price (<a href="#R229">R229</a>A) of 5 S per CU, and to sell them at the City on
+for a base price (<a href="#R229A">R229A</a>) of 5 S per CU, and to sell them at the City on
 Palatek for a base price of 10 S per CU. Then, at the city you can buy
 electronics parts for a base price of 60 S per CU, and sell them at the Colony
 on Regari for 100 S per CU, You may continue this loop-run for as long as you
@@ -4655,7 +4652,7 @@ result prohibits further rolls. Rescue roll results are:
 | 1-3 | each person in the party saves one person on the damaged ship, then heavy explosions begin and it must be abandoned |
 |  4  | corrosive fumes melt the suit of one in your boarding party (select him randomly), killing him, rest must abandon the damaged ship instantly |
 |  5  | save two people in the crew quarters, may continue work next hour;                                             |
-|  6  | you save one person, then a high voltage arc in a passageway kills one in the party (determine which one randomly, could be the person saved) Insurance Reward for the people saved from the ship will be 500 S per person base payment (<a href="#R229">R229</a>A) when you land them on any planet. |
+|  6  | you save one person, then a high voltage arc in a passageway kills one in the party (determine which one randomly, could be the person saved) Insurance Reward for the people saved from the ship will be 500 S per person base payment (<a href="#R229A">R229A</a>) when you land them on any planet. |
 
 ## <a name="E194">E194 Feed It Life Support Units (takes 1 hour)</a>
 Pick a number of LSUs (<a href="#R213">R213</a>) to feed it. It will gain one Endurance point for
@@ -4666,7 +4663,7 @@ engulfs you) instead! If this happens, refer back to <a href="#E135">E135</a> ag
 option there, including this one again if you wish.
 
 ## <a name="E195">E195 Attack the Mynkurians (takes 1 hour)</a>
-You may fire twice before the ships reach you, see <a href="#R230">R230</a>L. They have neither ECM
+You may fire twice before the ships reach you, see <a href="#R230L">R230L</a>. They have neither ECM
 nor defensive screens, and each hit destroys one ship. Any Mynkurian ships
 that get past will collide with your ship, see <a href="#E165">E165</a>.
 
@@ -4678,7 +4675,7 @@ personal injury if on foot through a successful Cunning roll (<a href="#R202">R2
 
 ## <a name="E197">E197 Allow Them to Board (takes rest of day)</a>
 They board and escort you and your ship to a Palatek Space Station (or orbit,
-if no station) at the nearest planet. They then search your ship (<a href="#R229">R229</a>D)
+if no station) at the nearest planet. They then search your ship (<a href="#R229D">R229D</a>)
 looking for any item from an Industrial or Scientific area. If they find such
 an item, see <a href="#E021">E021</a>. If you had combat before allowing them to board, or any
 prior encounters with Palatek ships, you are fined 400 S for each hit you
@@ -4697,19 +4694,19 @@ join your crew (if he does, he won’t pay the 30 S).
 
 ## <a name="E199">E199 Palace Statuary (takes 1 hour per theft)</a>
 You have a chance to steal statuary from the gardens of the palace. Each statue
-is 3 CU and is worth a base price (<a href="#R229">R229</a>A) of 300 S on New Karma only. You can
+is 3 CU and is worth a base price (<a href="#R229A">R229A</a>) of 300 S on New Karma only. You can
 return to this area for more statues, but each time you must roll 1d6 (instead
 of normal Entry Encounter), unless the roll is greater than the number of
 trips already made, you are discovered by the palace guards — see <a href="#E160">E160</a>.
 
-Sections 200-399 are covered in the Rules booklet. Events continue with
+Sections 200-399 are covered in the Rules booklet. Events continue with 
 paragraph 400.
 
 ## <a name="E400">E400 Space Amoeba (takes 1 hour)</a>
 As the stasis unit is deactivated, you see a space amoeba in the act of
 fission, forming two new amoebas, each of 2 CU size. Each immediately rushes
 to engulf the nearest character (determine randomly), and combat ensues, see
-<a href="#R230">R230</a>. In the first round of combat the amoeba is moving to contact and sending
+R<a href="#230">230</a>. In the first round of combat the amoeba is moving to contact and sending
 tendrils into their victims, no wounds are suffered, but no suit will provide
 protection either. Thereafter, each round the victim suffers one hit while the
 amoeba gains one Endurance point. An amoeba cannot be injured in hand-to-hand
@@ -4743,7 +4740,7 @@ You are instructed to pay 80 S for pilot fees, 10 S visa charge for each person
 on board, and a 25 S entry permit fee for the starship. There is no choice but
 to pay, since they have overpowering force around and on board. However, if
 you or anyone else on board is “wanted” here (<a href="#R228">R228</a>) they seem unaware of it.
-If you are unable or unwilling to pay you must hyperjump (<a href="#R212">R212</a>A) out of the
+If you are unable or unwilling to pay you must hyperjump (<a href="#R212A">R212A</a>) out of the
 system, or have your starship impounded upon landing until you can pay the
 fees, plus 10% interest per day.
 
@@ -4760,7 +4757,7 @@ determine what effect it had on you (see <a href="#R230">R230</a>).
 ## <a name="E405">E405 Four Armed Men (takes 1 hour)</a>
 You surprise four armed men, who appear startled after the stasis unit is
 de-energized. Each is <a href="#E6">E6</a>, M4, H1 with a tech 5 sidearm. You may attack first
-with surprise (<a href="#R230">R230</a>I) or try to talk with them. If you talk, roll 1d6:
+with surprise (<a href="#R230I">R230I</a>) or try to talk with them. If you talk, roll 1d6:
 
 | D6  | Result                                                          |
 |-----|-----------------------------------------------------------------|
@@ -4781,14 +4778,14 @@ Roll 1d6 for the result of your bribe:
 If you cannot bribe them, they open fire, see <a href="#E428">E428</a>.
 
 ## <a name="E407">E407 Shoot at Object on Hull (takes 1 hour)</a>
-You fire at it: intense radiation is reflected back. It inflicts 1d6+2
-hits (<a href="#R231">R231</a>) on each person outside the hull of your starship, even if within a
-ship’s boat or utility suit. The object appears unaffected. Return to <a href="#E119">E119</a> and
+You fire at it: intense radiation is reflected back. It inflicts 1d6+2 
+hits (<a href="#R231">R231</a>) on each person outside the hull of your starship, even if within a 
+ship’s boat or utility suit. The object appears unaffected. Return to <a href="#E119">E119</a> and 
 select another option.
 
 ## <a name="E408">E408 Ship Darts Away (takes 1 hour)</a>
-As you first contact the hull of the strange ship, it suddenly withdraws a
-short distance, extends three projections, and rapidly accelerates away. Your
+As you first contact the hull of the strange ship, it suddenly withdraws a 
+short distance, extends three projections, and rapidly accelerates away. Your 
 scanners quickly lose it, and it is far too fast to pursue. Encounter ends.
 
 ## <a name="E409">E409 Religious Fanatics (takes rest of day)</a>
@@ -4860,24 +4857,24 @@ Your engineer tries to puzzle out the device, roll 1d6:
 | 1   | he touches the wrong thing, is bathed in intense radiation, suffers 2d6 hits — return to <a href="#E119">E119</a> and select another option |
 | 2   | he touches the wrong thing and it explodes, killing him and inflicting two hits on the starship, as well as destroying everything in the compartment or area to which it is attached |
 | 3   | he is unable to understand the device, but does get if off the hull, you proceed without further incident      |
-| 4   | he removes two servo-controllers of advanced design, each can be sold at a scientific or industrial area, in a system other than this, for 2,200 S base price (<a href="#R229">R229</a>A) each; the object is now inoperative, and he removes it |
-| 5   | it appears to be a self-propelled mine with 3 CU of explosives; he works the explosives loose, each is worth 300 S base price (<a href="#R229">R229</a>A) at any mining area, the rest of the device is unusable and he removes it |
-| 6   | he discovers it is a small, controllable craft with sublight drives (<a href="#R212">R212</a>F) that has a one-year power unit and life support. It has 3 CU internal space, and takes up 9 CU area. There is no way to mount guns upon it. It originally had 3 CU of explosives (see “5” above) in it, but the engineer removes these |
+| 4   | he removes two servo-controllers of advanced design, each can be sold at a scientific or industrial area, in a system other than this, for 2,200 S base price (<a href="#R229A">R229A</a>) each; the object is now inoperative, and he removes it |
+| 5   | it appears to be a self-propelled mine with 3 CU of explosives; he works the explosives loose, each is worth 300 S base price (<a href="#R229A">R229A</a>) at any mining area, the rest of the device is unusable and he removes it |
+| 6   | he discovers it is a small, controllable craft with sublight drives (<a href="#R212F">R212F</a>) that has a one-year power unit and life support. It has 3 CU internal space, and takes up 9 CU area. There is no way to mount guns upon it. It originally had 3 CU of explosives (see “5” above) in it, but the engineer removes these |
 
 ## <a name="E415">E415 Wounded Pilot/Navigator (takes 1 hour)</a>
-The stasis unit contains a starship pilot/navigator (<a href="#R221">R221</a>A) with <a href="#E7">E7</a>, M0, H2 and
+The stasis unit contains a starship pilot/navigator (<a href="#R221A">R221A</a>) with <a href="#E7">E7</a>, M0, H2 and
 1d6 wounds. In return for rescuing him, he will work without pay for. you for
 the next 40 days. If you don’t want his services, he will pay you by replacing
 the stasis unit you used to free him with one of equal size whenever you next
 arrive at a spaceport or space station.
 
 ## <a name="E416">E416 Ship Self-Destructs (instantly)</a>
-The ship suddenly erupts in a massive explosion, destroying you, you crew, and
+The ship suddenly erupts in a massive explosion, destroying you, you crew, and 
 your own starship. The game, is over, you lose.
 
 ## <a name="E417">E417 Escapee Seeks Help (takes 1 hour)</a>
-You are contacted by a person who has just escaped from the prisons of this
-system. He pleads with you to take him off planet before the end of the next
+You are contacted by a person who has just escaped from the prisons of this 
+system. He pleads with you to take him off planet before the end of the next 
 day, and to deliver him to his own planet. Roll 1d6:
 
 | D6  | Result                             |
@@ -4912,7 +4909,7 @@ Roll 1d6 to see what is found inside:
 |-----|------------------------------------------------------------------------|
 | 1   | interior is completely torn apart and unrecognizable, nothing of any value remains                             |
 | 2   | an apparently deformed person, now dead, is present, the remains are worth 100 S if brought to any Scientific area for examination |
-| 3-6 | an unconscious person in a utility suit is amid the battered interior. The person is wearing a beautiful glowing gem hanging on a chain around the neck, outside the suit. Out of curiosity, the gem is removed. The person goes into instant convulsions and dies, and the gem is returned to your ship. It is worth 20,000 S base price (<a href="#R229">R229</a>A) at any Mining area, or you can put it on and see what happens. If that occurs, roll 1d6 for the result: |
+| 3-6 | an unconscious person in a utility suit is amid the battered interior. The person is wearing a beautiful glowing gem hanging on a chain around the neck, outside the suit. Out of curiosity, the gem is removed. The person goes into instant convulsions and dies, and the gem is returned to your ship. It is worth 20,000 S base price (<a href="#R229A">R229A</a>) at any Mining area, or you can put it on and see what happens. If that occurs, roll 1d6 for the result: |
 
 
 | D6  | Result                                                                 |
@@ -4929,7 +4926,7 @@ considerable questioning, you discover that he was in a starship that must
 have been destroyed 84 years ago. All his friends and relatives are gone. He
 claims the robot is his, and wants to be set down on any planet with good air.
 He will work for you instead if you buy the robot for 100 S and pay him 12 S
-per week with a stasis unit at his work station (<a href="#R212">R212</a>E). He is <a href="#E8">E8</a>, M3, H3 and
+per week with a stasis unit at his work station (<a href="#R212E">R212E</a>). He is <a href="#E8">E8</a>, M3, H3 and
 a skimmer driver.
 
 ## <a name="E421">E421 Stasis Energized (takes rest of day)</a>
@@ -4937,13 +4934,13 @@ Once the stasis is energized, you are safe from mental attack, and no one else
 is attacked. Your crew radios for help, another ship comes out to yours, tows
 you to the nearest space station (or orbit around a planet, if no stations
 exist in this system), removes your energized stasis unit, deenergizes it
-(destroying it in the process, see <a href="#R212">R212</a>E), and replacing minor fixtures. The
+(destroying it in the process, see <a href="#R212E">R212E</a>), and replacing minor fixtures. The
 overall charges for the entire service are 450 S. If you can’t pay, they
 impound your starship until you do.
 
 ## <a name="E422">E422 Attack the Scout (takes 1 hour/round)</a>
 You fire first, then the scout returns fire. After that, a space battle
-continues (<a href="#R230">R230</a>L) until one ship is destroyed or escapes. If you attempt to
+continues (<a href="#R230L">R230L</a>) until one ship is destroyed or escapes. If you attempt to
 escape the scout will pursue. Scoutship data: two hits will destroy the scout
 ship. It carries standard tech 6 starship guns (one turret) and a
 magneto-plasma nose gun that fires once on the first turn and must recharge.
@@ -4963,7 +4960,7 @@ current. Roll 1d6 for each hit to see which compartment suffers:
 
 ## <a name="E423">E423 Attempt to Hyperjump (instantly)</a>
 If the object was located above the hypercharge storage area it explodes and
-destroys the starship. Any stasis units (<a href="#R212">R212</a>E) that automatically energize do
+destroys the starship. Any stasis units (<a href="#R212E">R212E</a>) that automatically energize do
 so, and remain in this star system. If the object was anyplace else, roll 1d6,
 on a “1” it destroys the whole ship and kills you, on any other result it is
 gone when you emerge from hyperspace — you’re none the wiser!
@@ -4981,7 +4978,7 @@ space on board. When you reach New Karma with them, see <a href="#E020">E020</a>
 ## <a name="E425">E425 Pure Dyla-Weed (takes no time)</a>
 The stasis unit contains 4 CU of pure dyla-weed, an illegal hallucinogenic drug
 worth a fortune anywhere in the sector. You can sell it in any Slum area for a
-base price (<a href="#R229">R229</a>A) of 16,000 S per CU, but cannot sell any more than one CU in
+base price (<a href="#R229A">R229A</a>) of 16,000 S per CU, but cannot sell any more than one CU in
 any one Slum area.
 
 ## <a name="E426">E426 Enter Strange Ship (takes 1 hour)</a>
@@ -5016,7 +5013,7 @@ After waiting an hour the scout finally acts. Roll 1d6:
 | 3-6 | he opens fire. If he opens fire you can either return fire or instantly escape (if still able). For the effect of his fire, and resolving any space battles (in case you decide not to escape right now) see <a href="#E422">E422</a>             |
 
 ## <a name="E429">E429 Try to Open without an Engineer (takes 1d6 hours)</a>
-Refer to <a href="#E414">E414</a> but subtract die roll there by one (-1). A result of “0” is
+Refer to <a href="#E414">E414</a> but subtract die roll there by one (-1). A result of “0” is 
 considered a “1” instead.
 
 ## <a name="E430">E430 Board the Ship (takes 3 hours)</a>
@@ -5024,7 +5021,7 @@ Upon boarding, you realize the ship is actually an Antelope class trader just
 like your own, but with external camouflage. Inside the ship is in perfect
 order but empty of all cargo, unarmed, and with a dead man in the pilot’s
 couch. It has no hyperdrive charges left, and the engines require repair
-before they will function (<a href="#R219">R219</a>) — a starship engineer (<a href="#R221">R221</a>B) is needed for
+before they will function (<a href="#R219">R219</a>) — a starship engineer (<a href="#R221B">R221B</a>) is needed for
 repairs. If you tow the ship to a space station or spaceport in this system
 (travel at half speed while towing) you can realize 12,000 S in salvage rights
 if the ship is unrepaired, 30,000 S resale if repaired. Selling the ship in
