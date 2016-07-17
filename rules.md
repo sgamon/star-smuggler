@@ -199,7 +199,7 @@ This action is allowed only if you spend a full day (all 10 hours) doing it. No
 travel and no contact is allowed during an RRR day.
 
 At the start of an RRR day, first determine if an unwanted contact occurs (see
-R<a href="#227A">227A</a>). If nothing happens, you can spend the day repairing equipment (<a href="#R219">R219</a>)
+<a href="#R227A">R227A</a>). If nothing happens, you can spend the day repairing equipment (<a href="#R219">R219</a>)
 or healing (<a href="#R231">R231</a>). A character cannot heal and repair at the same time, but
 some in your party could be healing while others are involved in repair work.
 If a repairman or mobile repairman is needed, you must have already arranged
@@ -208,7 +208,7 @@ not part of RRR.
 
 ### <a name="R203D">Breakdown (R203D)</a>
 At the end of each day, any vehicle or piece of equipment you used may break
-down. Consult <a href="#R218">R218</a> for details. Preventive maintenance (<a href="#<a href="#R218">R218</a>B"><a href="#R218">R218</a>B</a>) avoids the
+down. Consult <a href="#R218">R218</a> for details. Preventive maintenance (<a href="#<a href="#R218B">R218B</a>) avoids the
 danger of breakdown. Breakdown need not be checked for vehicles that didn’t
 move (even if providing life support and/or communications), or for starships
 and boats in orbit or docked at a space station. Breakdown of individual items
@@ -657,7 +657,7 @@ the only way to go to or from asteroids.
 
 ## <a name="R207">R207 Guide to the Pavonis Sector</a>
 Ten star systems make up the Pavonis Sector, connected in pattern “one” (see
-R<a href="#234">234</a>). Complete data on each is provided below. Planets and asteroids are
+<a href="#R234">R234</a>). Complete data on each is provided below. Planets and asteroids are
 listed with the closest one to the star (sun) of the system first, and given
 the lowest number (i.e.. Planet I is closer than Planet II).
 
@@ -701,7 +701,7 @@ conceal dire poverty and a mean existence. Imperia tends to waste its wealth
 on efforts of size and spectacle rather than quality, although some families
 possess valuable treasures.
 
-* System Entry 1d6 roll: 1- <a href="#E092">E092</a>, 2- <a href="#<a href="#E10">E10</a>0"><a href="#E10">E10</a>0</a>, 3- <a href="#E093">E093</a>, 4- <a href="#E114">E114</a>, 5- <a href="#E113">E113</a>, 6- <a href="#E10">E10</a>.
+* System Entry 1d6 roll: 1- <a href="#E092">E092</a>, 2- <a href="#E100">E100</a>, 3- <a href="#E093">E093</a>, 4- <a href="#E114">E114</a>, 5- <a href="#E113">E113</a>, 6- <a href="#E10">E10</a>.
 * System Codes: wealth 100, tech 25.
 * Planet I: layout C-G, gravity 11, good air.
 * System includes asteroids.
@@ -797,7 +797,6 @@ roll 1d6 to determine the overall composition of the system:
 
 |  D6 | Result                    |
 |-----|---------------------------|
-|  2  | hire repairman (<a href="#E060">E060</a>)     |
 | 1-2 | one planet                |
 |  3  | one planet and asteroids  |
 | 4-5 | two planets               |
@@ -813,7 +812,6 @@ To determine atmosphere, roll 2d6:
 
 | 2D6   | Result                    |
 |-------|---------------------------|
-|  2    | hire repairman (<a href="#E060">E060</a>)     |
 | 2-3   | is no air                 |
 | 4-9   | is good air               |
 | 10-12 | is bad air                |
@@ -951,7 +949,7 @@ reached from Regari in a hyper jump.
 ### <a name="R212C">Risk Factor in Hyper drive Jumps (R212C)</a>
 The Risk Factor is determined before each jump (<a href="#R212B">R212B</a>), and a 1d6 roll made. If
 the roll is less than or equal to the Risk Factor, the jump was a failure, see
-R<a href="#212D">212D</a> for effects. If the die roll is greater than the risk factor, the jump
+<a href="#R212D">R212D</a> for effects. If the die roll is greater than the risk factor, the jump
 was successful (see <a href="#R212D">R212D</a>). To determine the Risk Factor, add together all the
 situations below. If no situations apply, the factor is automatically zero and
 the jump cannot fail (will always be successful):
@@ -1242,7 +1240,7 @@ These large weapons require 5 CU of space and are installed only in a ship’s
 boat. A qualified starship gunner is needed to fire them, and a boat pilot
 cannot also fire the guns. When purchased, boat guns are installed at that
 time if the boat is present; otherwise a starship engineer can install them
-(<a href="#R22">R22</a>lb) in one day of RRR (<a href="#R203C">R203C</a>) devoted to the task.
+(<a href="#R221B">R221B</a>) in one day of RRR (<a href="#R203C">R203C</a>) devoted to the task.
 
 A hit from boat guns may reduce an individual’s Endurance or disable 
 him (<a href="#R231">R231</a>), or inflict one hit on a vehicle (may be a critical hit, see <a href="#R230K">R230K</a>).
@@ -1518,7 +1516,7 @@ roll (<a href="#R202">R202</a>) to prevent the hireling from quitting. If a hire
 and leaves, he automatically takes personal equipment with him, you are unable
 to take it back regardless of cunning (although you can try to use your
 cunning to have him continue working for you without pay for that day, see
-R<a href="#220A">220A</a>).
+<a href="#R220A">R220A</a>).
 
 ### <a name="R223B">Acquiring Equipment without Purchase (R223B)</a>
 Certain events may allow you to find intact or damaged equipment without
@@ -1537,7 +1535,7 @@ of 1 S times multiplier given on that table.
 
 ## <a name="R224">R224 Encounters</a>
 There are two main types of encounters: Entry Encounters and Contact Try
-Encounters. Each type is described in detail below (<a href="#R225">R225</a>-226-227). All
+Encounters. Each type is described in detail below (<a href="#R225">R225</a>-<a href="#R226">R226</a>-<a href="#R227">R227</a>). All
 encounters use the same standard resolution procedure:
 
 If you encounter any people, note the characteristics of each (<a href="#R201A">R201A</a>).
@@ -1589,7 +1587,7 @@ for the result before you continue play.
 ## <a name="R226">R226 System Entry Encounters</a>
 Whenever you hyperjump to a new star system you must check for a system entry
 encounter immediately upon arrival. To do this, refer to the proper system in
-R<a href="#207">207</a>, and roll 1d6. After this event, you can begin moving in your starship to
+<a href="#R207">R207</a>, and roll 1d6. After this event, you can begin moving in your starship to
 any planet or the asteroids (see <a href="#R212G">R212G</a>).
 
 Once you undergo the system entry table in <a href="#R207">R207</a>, you need not check it again
@@ -1606,7 +1604,7 @@ The result will be encounters, some of them unpleasant, of course.
 Contact tries are not possible in orbit, or at an asteroid.
 
 Contact tries during a normal day are entirely voluntary (except in RRR, see
-R<a href="#227A">227A</a> below). A contact try is only possible if at least one hour remains in
+<a href="#R227A">R227A</a> below). A contact try is only possible if at least one hour remains in
 the day. You must leave your vehicle (if any) to make a contact try, but if
 the resulting event occurs at “dispersed” (long) range, you can return to your
 vehicle for the start of the event, if desired.
@@ -1945,7 +1943,7 @@ they have no effect. Boat guns (and equivalent military weapons) have full
 effect against any target except a starship, where they are treated as
 starship guns of one tech level lower than normal (i.e., if the boat guns are
 normally tech 4, when firing at a starship they count as tech 3 instead) (see
-R<a href="#230L">230L</a>).
+<a href="#R230L">R230L</a>).
 
 *Vehicle Critical Hits*: any critical hit effect on a vehicle is resolved by 
 roll 1d6 and consulting <a href="#R237">R237</a>. The critical hit is in addition to normal hits.
@@ -2279,7 +2277,7 @@ Determine detection factor from the table below, add or subtract to it
 depending on the area you are entering, then roll 1d6; entry is not detected
 if roll is greater than factor; entry is detected if roll is less than or
 equal to factor; If your entry is detected, see <a href="#R233">R233</a> — for complete rules, see
-R<a href="#225">225</a>.
+<a href="#R225">R225</a>.
 
 ### Means of Star System’s Tech Code
 
@@ -2917,7 +2915,7 @@ You are suddenly confronted by a police special engagement team, trying to
 capture you, refer to <a href="#R312">R312</a>. The police team has three skimmers, each with a
 driver, skimmer gun and gunner (<a href="#E6">E6</a>, M5, H3) and two troopers (<a href="#E7">E7</a>, M4, H6) with
 heavy hand weapons and sidearms. Determine tech level of their equipment in
-R<a href="#210">210</a>. You can surrender and avoid combat, see <a href="#E023">E023</a> immediately. If you are
+<a href="#R210">R210</a>. You can surrender and avoid combat, see <a href="#E023">E023</a> immediately. If you are
 defeated in combat, see <a href="#E023">E023</a> also, but while there receive medical treatment
 for any wounds (<a href="#R231A">R231A</a>).
 
@@ -3298,7 +3296,7 @@ in your party who is “wanted” (<a href="#R228">R228</a>) in this system is r
 1d6+1 guards appear demanding surrender of all wanted persons. Each guard is 
 E 1d6+1, M 1d6, H 1d6 with a heavy hand weapon (<a href="#R216D">R216D</a>). You can surrender the
 wanted person(s), who goes to jail (<a href="#E023">E023</a>); or you can fight. If you fight, see
-R<a href="#327">327</a> and subtract one (-1) from your dice roll there.
+<a href="#R327">R327</a> and subtract one (-1) from your dice roll there.
 
 ## <a name="E074">E074 Commercial Transport Available (if not timed, takes 1 hour)</a>
 You may hire commercial transport (<a href="#R215B">R215B</a>). This may be a commercial vehicle, or
@@ -3643,7 +3641,7 @@ they are approaching from all sides.
 You are approached by two ships with Palatek markings. You may either hyperjump
 to another system (<a href="#R212A">R212A</a>), wait a few minutes and allow them to board you —
 see <a href="#E197">E197</a>, or attack them (<a href="#R230L">R230L</a>). If you attack, and later surrender, then see
-E<a href="#197">197</a>. Palatek Frigates Ship Data: each ship has 10 hit points and one gun
+<a href="#E197">E197</a>. Palatek Frigates Ship Data: each ship has 10 hit points and one gun
 turret with tech 4 starship guns. Roll 1d6:
 
 | D6  | Result                                    |
@@ -3784,7 +3782,7 @@ Roll 1d6 to see where it is attached:
 
 You can either (a) energize sublight drive and proceed on your way, ignoring it
 — see <a href="#E418">E418</a>, (b) hyperjump again (<a href="#R212A">R212A</a>) to a new system and ignore it — see
-E<a href="#423">423</a>, (c) send a starship engineer from your crew to examine it — see <a href="#E414">E414</a>,
+<a href="#E423">E423</a>, (c) send a starship engineer from your crew to examine it — see <a href="#E414">E414</a>,
 (d) send a nonengineer from your crew (or yourself) to examine it — see <a href="#E429">E429</a>,
 (e) send a non-engineer from your crew (or yourself) to shoot it — see <a href="#E407">E407</a>.
 You cannot exit the ship via a hatch or door on which the object is attached,
@@ -4000,7 +3998,7 @@ has Endurance 5, and appears to be trying to contact and engulf individuals,
 to destroy them. You may fire weapons at it — see <a href="#E163">E163</a>, attack it hand-to-hand
 — see <a href="#E170">E170</a>, abandon your vehicle and flee — see <a href="#E176">E176</a>, feed it life support
 units (decide how many now) — see <a href="#E194">E194</a>, or stand and let it engulf you — see
-E<a href="#187">187</a>.
+<a href="#E187">E187</a>.
 
 ## <a name="E136">E136 Imperial Guards (takes no time)</a>
 You meet a troop of 1d6+4 Imperial Guardsmen, with gleaming weapons and lavish
@@ -4030,7 +4028,7 @@ return to this planet.
 ## <a name="E140">E140 Attack by “Zombies” (takes 1 hour)</a>
 Your party is rushed by persons that seem stumbling and awkward, with a
 lifeless appearance in their eyes. There are 1d6 times ten (x10) of them, each
-E<a href="#10">10</a>, M0, H1. If you are in a ship’s boat or starship they cannot hurt you, but
+<a href="#E10">E10</a>, M0, H1. If you are in a ship’s boat or starship they cannot hurt you, but
 inflict one hit of damage to your vehicle. If you are in any other vehicle,
 they overturn and wreck it on the first rush, and begin smashing it around you.
 Therefore, in all other cases, the first round of combat begins (<a href="#R230">R230</a>) in the
@@ -4416,7 +4414,7 @@ Dealing with the Byzantine Secret Police Ship - roll 1d6:
 | 5-6 | conceal one of their men and take him to the palace on Imperia, you will be paid 3,000 S when you return to Byzantium after a successful delivery, again their man must be undetected — if detected he disappears and you will not be paid anything. |
 
 Boarding for Search by Byzantine Secret Police: If you resist boarding, see
-E<a href="#189">189</a>. If you allow boarding, two men come on board, each <a href="#E6">E6</a>, M2, H3 with
+<a href="#E189">E189</a>. If you allow boarding, two men come on board, each <a href="#E6">E6</a>, M2, H3 with
 tech-2 sidearms who search (<a href="#R229D">R229D</a>) the ship for items worth more than 100 S
 per CU. If they find any, roll 1d6, 1-2 they make notes and ask for a 1 CU
 duty per CU of such goods, 3-6 they will take 1 CU of one such item (the most
@@ -4706,7 +4704,7 @@ paragraph 400.
 As the stasis unit is deactivated, you see a space amoeba in the act of
 fission, forming two new amoebas, each of 2 CU size. Each immediately rushes
 to engulf the nearest character (determine randomly), and combat ensues, see
-R<a href="#230">230</a>. In the first round of combat the amoeba is moving to contact and sending
+<a href="#R230">R230</a>. In the first round of combat the amoeba is moving to contact and sending
 tendrils into their victims, no wounds are suffered, but no suit will provide
 protection either. Thereafter, each round the victim suffers one hit while the
 amoeba gains one Endurance point. An amoeba cannot be injured in hand-to-hand
