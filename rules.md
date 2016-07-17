@@ -2352,7 +2352,7 @@ a cache, 1d6 roll must be greater than the cache factor; see <a href="#R229C">R2
 | 4 | in Military or Slum Area +5 recover in 1,000 years or longer             |
 | 5 | in any other land area. Spaceport, Space Station                         |
 
-paragraphs <a href="#R243">R243</a> through <a href="#R299">R299</a> do not exist
+paragraphs R243 through R299 do not exist
 
 ## <a name="R300">R300 Surprise</a>
 Your party surprises those encountered, you can fight (<a href="#R230">R230</a>) or end the 
@@ -2700,9 +2700,9 @@ A repossession team is in the area. Ignore this event (they’re after someone
 else!) unless you have defaulted on your loan (<a href="#R203E">R203E</a>) and your starship is in
 this area. If they’re after you, the following occurs:
 
-The team of six men surround the spaceship. One is a mobile attorney (<a href="#E5">E5</a>, M0,
-H4) with repossession writs, two are heavy gunners (<a href="#E8">E8</a>, M6, H3) with explosive
-heavy hand weapons of tech 6, and three are bodyguards (<a href="#E9">E9</a>, M2, H6) with tech
+The team of six men surround the spaceship. One is a mobile attorney (E5, M0,
+H4) with repossession writs, two are heavy gunners (E8, M6, H3) with explosive
+heavy hand weapons of tech 6, and three are bodyguards (E9, M2, H6) with tech
 6 sidearms. They are deployed for battle and in the first round open fire on
 the starship, one heavy hand gunner at the airlock, the other at the cargo
 hold hatch, from dispersed range. They know their business, and will blast
@@ -2724,10 +2724,10 @@ the force:
 | 4-5 | two vehicles and four infantrymen  |
 | 6   | three vehicles and six infantrymen |
 
-Each infantryman is <a href="#E6">E6</a>, M4, H3. Each vehicle has heavy armor, reducing hit
+Each infantryman is E6, M4, H3. Each vehicle has heavy armor, reducing hit
 results by two (that is, a single or double hit becomes a miss, a triple hit
 becomes a single hit, etc.), and is armed with a boat gun (<a href="#R230K">R230K</a>). Each
-vehicle has a crew of three, a driver, gunner, and commander (each <a href="#E6">E6</a>, M3 with
+vehicle has a crew of three, a driver, gunner, and commander (each E6, M3 with
 sidearms), who only leave the tank if it is disabled, and then will attempt to
 flee. If you defeat the tank(s) but don’t destroy them, you can capture and
 repair them. A tank functions like a skimmer (<a href="#R215C">R215C</a>), with the following
@@ -2801,7 +2801,7 @@ do).
 
 ## <a name="E006">E006 Hit Man (takes 1 hour)</a>
 A hit man with a contract on you makes a surprise attack without warning
-(<a href="#R230I">R230I</a>). He is <a href="#E7">E7</a>, M6, H5 with a tech 6 heavy hand weapon. If he loses 4 or
+(<a href="#R230I">R230I</a>). He is E7, M6, H5 with a tech 6 heavy hand weapon. If he loses 4 or
 more endurance, he instantly escapes along a route he pre-planned (you cannot
 follow or continue the combat).
 
@@ -2815,7 +2815,7 @@ genuine, and take up no space.
 
 ## <a name="E008">E008 Escaped Prisoners (takes 1 hour)</a>
 Your party is suddenly rushed by a group of escaped prisoners. Determine number
-of prisoners by a 2d6 roll, each is <a href="#E6">E6</a>, M1, H4 and unarmed, although willing
+of prisoners by a 2d6 roll, each is E6, M1, H4 and unarmed, although willing
 to use any weapons they can capture. Refer to <a href="#R305">R305</a> for combat. They will
 instantly escape if they get a vehicle, otherwise they are trying to take your
 clothes, weapons, and other possessions, and will leave if these are given
@@ -2848,7 +2848,7 @@ another agent (which is why transactions take so long).
 ## <a name="E012">E012 Royal Party (takes 1 hour)</a>
 You encounter a group that includes a member of the royal family and 2d6
 bodyguards who ignore you. You, however, may decide to attempt an attack to
-kidnap the royal person, if you do, refer to <a href="#R302">R302</a>. Each bodyguard is <a href="#E5">E5</a>, M3,
+kidnap the royal person, if you do, refer to <a href="#R302">R302</a>. Each bodyguard is E5, M3,
 H4, armed with sidearms (determine tech level per <a href="#R210">R210</a>). If you kill every
 bodyguard, the royal prince will surrender to you, the kidnapping is
 successful. If you successfully kidnap the prince, on any subsequent day you
@@ -2861,7 +2861,7 @@ communications equipment, and be at his home planet). Roll 1d6 for result:
 |  3  | no deal, you get no ransom are are now “wanted” (<a href="#R228">R228</a>) in this system, you can dispose of the prince as you wish (he’s of no further use) |
 |  4  | they pay a base price (<a href="#R229A">R229A</a>) of 1000 S for his return                 |
 |  5  | they pay a base price (<a href="#R229A">R229A</a>) of 5000 S for his return                 |
-|  6  | they offer tons of money, but when you make the exchange (in this area) you are ambushed (see <a href="#R327">R327</a> and subtract one from the dice roll) by 20 men, each <a href="#E8">E8</a>, M6, H5 with heavy hand weapons (see <a href="#R210">R210</a> for tech level); the prince will be killed in the firefight, and you will discover that they did not bring anything but fake money that is totally worthless |
+|  6  | they offer tons of money, but when you make the exchange (in this area) you are ambushed (see <a href="#R327">R327</a> and subtract one from the dice roll) by 20 men, each E8, M6, H5 with heavy hand weapons (see <a href="#R210">R210</a> for tech level); the prince will be killed in the firefight, and you will discover that they did not bring anything but fake money that is totally worthless |
 
 ## <a name="E013">E013 Bandits (takes 1 hour)</a>
 You are trailed and attacked by a group of bandits. There are 1d6+2 of them,
@@ -2875,7 +2875,7 @@ the results of your activities for the day and evening:
 
 | D6  | Result                                                                 |
 |-----|------------------------------------------------------------------------|
-|  1  | you are attacked by three men, each <a href="#E5">E5</a>, M4, H4 with sidearms (see <a href="#R210">R210</a> for tech level), they demand your money and weapons and will leave with them, if you refuse see <a href="#R327">R327</a> and add one to your dice roll |
+|  1  | you are attacked by three men, each E5, M4, H4 with sidearms (see <a href="#R210">R210</a> for tech level), they demand your money and weapons and will leave with them, if you refuse see <a href="#R327">R327</a> and add one to your dice roll |
 |  2  | you have bad luck in the games, lose all the money you brought         |
 |  3  | you have poor luck in the games, lose half the money you brought       |
 |  4  | if you succeed with a Cunning roll (<a href="#R202">R202</a>) you double the money you brought, otherwise you break even |
@@ -2883,9 +2883,9 @@ the results of your activities for the day and evening:
 |  6  | you have excellent luck, if you succeed with a Cunning roll (<a href="#R202">R202</a>) you get five times the money you brought, if you fail, you get triple the money you brought |
 
 ## <a name="E015">E015 Gunrunner (takes rest of day)</a>
-You meet a gunrunner (<a href="#E8">E8</a>, M5, H4) who has a skimmer and a commercial vehicle.
-The skimmer has a driver, skimmer guns, and a gunner (<a href="#E7">E7</a>, M4, H5). He also has
-three bodyguards (each <a href="#E6">E6</a>, M5, H4) armed with heavy hand weapons. The skimmer
+You meet a gunrunner (E8, M5, H4) who has a skimmer and a commercial vehicle.
+The skimmer has a driver, skimmer guns, and a gunner (E7, M4, H5). He also has
+three bodyguards (each E6, M5, H4) armed with heavy hand weapons. The skimmer
 guns are tech 4, for all other items determine tech level (<a href="#R210">R210</a>). If you
 decide to attack them, see <a href="#R301">R301</a>. If you damage or destroy the commercial
 vehicle roll 1d6 below and get the indicated items free. If you decide to
@@ -2913,7 +2913,7 @@ base price (<a href="#R229A">R229A</a>).
 ## <a name="E017">E017 Police Try to Capture You (takes rest of day)</a>
 You are suddenly confronted by a police special engagement team, trying to
 capture you, refer to <a href="#R312">R312</a>. The police team has three skimmers, each with a
-driver, skimmer gun and gunner (<a href="#E6">E6</a>, M5, H3) and two troopers (<a href="#E7">E7</a>, M4, H6) with
+driver, skimmer gun and gunner (E6, M5, H3) and two troopers (E7, M4, H6) with
 heavy hand weapons and sidearms. Determine tech level of their equipment in
 <a href="#R210">R210</a>. You can surrender and avoid combat, see <a href="#E023">E023</a> immediately. If you are
 defeated in combat, see <a href="#E023">E023</a> also, but while there receive medical treatment
@@ -3287,7 +3287,7 @@ day, roll 1d6 for what you find:
 |  2  | 1d6 crystals worth 30 S each                                           |
 |  3  | cave in! roll 1d6 for each person in the party: 4-6 means they are buried, you can avoid this result with a successful Cunning roll (<a href="#R202">R202</a>), each survivor can dig out one buried person, who will have 1d6 hits when recovered, any others are lost |
 |  4  | acid drainage causes equipment corrosion, roll for breakdown (<a href="#R218">R218</a>) of each item taken into the mine |
-|  5  | attacked by 2d6 strange life forms, each with <a href="#E3">E3</a>, M0, H6 which start in contact and fight to the death, see <a href="#R304">R304</a> |
+|  5  | attacked by 2d6 strange life forms, each with E3, M0, H6 which start in contact and fight to the death, see <a href="#R304">R304</a> |
 |  6  | workable deposits found, may extract 5 CU of ore per day for each person working in the mine. Each CU of ore may be sold at any industrial area for a base price (<a href="#R229A">R229A</a>) of 20 S. Hirelings working in a mine require double normal salary due to dangers and difficulty of the work, and will need a successful Cunning roll (<a href="#R202">R202</a>) by you each subsequent week (can make one roll for all, or deal with them individually, as you desire). U Robots can also work it if directed by yourself or a controller (available only through events) which was reprogrammed for the job (requires repair work <a href="#R219">R219</a> to reprogram). Robots in the mine must roll twice after each day for break-down (<a href="#R218">R218</a>). |
 
 ## <a name="E073">E073 “Wanted” Person Recognized (takes 1 hour)</a>
@@ -3333,7 +3333,7 @@ day, and roll 1d6 for the result:
 |  2  | you are offered pure dylaweed extract at 25 S per CU                   |
 |  3  | you are offered one night of absolute delight for 3 S                  |
 |  4  | you are offered a stolen collection of rare illustrated books for 10 S, they take up 2 CU of space |
-|  5  | you are jumped by three men, each <a href="#E6">E6</a>, M4, H5 with side-arms (see <a href="#R210">R210</a> for tech level), one will begin in contact, attacking, see <a href="#R305">R305</a> |
+|  5  | you are jumped by three men, each E6, M4, H5 with side-arms (see <a href="#R210">R210</a> for tech level), one will begin in contact, attacking, see <a href="#R305">R305</a> |
 |  6  | you are offered counterfeit money up to 5,000 S face value, each 100 S of fake money will cost you 10 S of your real money. |
 
 For details on base price in purchase and resale, see <a href="#R229A">R229A</a>. If you buy any of
@@ -3389,7 +3389,7 @@ and surrender, see <a href="#E023">E023</a>, your starship can be found at the s
 station, or colony (in that order, depending on the world), with the rest of
 your equipment and any crew whose salaries are still paid up. If you decide to
 resist, see <a href="#R301">R301</a> for the battle situation. There are two men in Contact with
-you, and two more men in your vehicle, all are <a href="#E5">E5</a>, M4, H6 armed with sidearms.
+you, and two more men in your vehicle, all are E5, M4, H6 armed with sidearms.
 If you succeed in killing them, the customs post itself has a starship gun
 (see <a href="#R210">R210</a> for tech level) with gunner in a turret-area protected like a
 starship and is inaccessible to boarding, but also immobile.
@@ -3452,7 +3452,7 @@ the endurance!)(<a href="#R231">R231</a>).
 A group of 1d6+10 mutants charge out to attack your party, starting at
 dispersed range. See <a href="#R327">R327</a> and subtract one (-1) from your dice roll there. The
 leader has <a href="#E12">E12</a>, M3, H4 and a tech 2 heavy hand weapon, the others are unarmed
-and are each <a href="#E9">E9</a>, M0, H3.
+and are each E9, M0, H3.
 
 ## <a name="E086">E086 Unguarded Office on Military Base (takes 1 hour)</a>
 You can slip into an office unseen and search it. If you do so, take 1 more 
@@ -3465,7 +3465,7 @@ hour and roll 1d6:
 |  3  | you are surprised by an overwhelming force of military police who arrest you and your party unless you succeed with a Cunning roll (<a href="#R202">R202</a>), if arrested they take all your possessions and imprison you for 20 days, after which you may attempt to leave once at the start of each 10-day week with a 1d6 result of 4-6, when you leave they will not return what was confiscated, and imprisoned hirelings will leave unless immediately paid any back-salaries due |
 |  4  | you find secret defense plans for the base, which you can sell for a base price of 500 S at a military area in another star system (or a base price of 5,000 S if the other star system is at war with this one) |
 |  5  | alarms go off! immediately roll for an entry encounter (<a href="#R225A">R225A</a>) for a military land area, including the standard subtracting one (-1) from the die roll on the table (<a href="#R239">R239</a>) |
-|  6  | two guards, each <a href="#E8">E8</a>, M6, H4 with heavy hand weapons (see <a href="#R210">R210</a> for tech level) challenge you, see <a href="#R323">R323</a> unless on Imperia or Talitar, then see <a href="#R319">R319</a> (20 S). |
+|  6  | two guards, each E8, M6, H4 with heavy hand weapons (see <a href="#R210">R210</a> for tech level) challenge you, see <a href="#R323">R323</a> unless on Imperia or Talitar, then see <a href="#R319">R319</a> (20 S). |
 
 ## <a name="E087">E087 Prisoner Pleads for Escape (takes 1 hour)</a>
 If you are with one or more people as a party, ignore this event. If you are
@@ -3475,7 +3475,7 @@ Imperia he can pay you 8,000 S. He is telling the truth on a result of 1-5
 with a 1d6 roll. You can determine that now if you make a successful Cunning
 roll (<a href="#R202">R202</a>), otherwise you don’t find out the truth until you deliver him. If
 he is lying, you’ll get nothing for your pains. To get him out takes the rest
-of the day, and requires that you disable or kill a guard with <a href="#E7">E7</a>, M 1d6, H5
+of the day, and requires that you disable or kill a guard with E7, M 1d6, H5
 with a sidearm (see <a href="#R210">R210</a> for tech level). See <a href="#R301">R301</a> for the attack. You then
 escape, and will leave this area and enter another as part of the activity
 (with an appropriate entry encounter). The former prisoner is “wanted” in this
@@ -3818,18 +3818,18 @@ join your crew free if you take him permanently off planet. He will be
 
 | D6  | Result                                                                 |
 |-----|------------------------------------------------------------------------|
-|  1  | Pilot/Navigator (<a href="#R221A">R221A</a>) with <a href="#E7">E7</a>, M2, H1                                |
-|  2  | Starship Engineer (<a href="#R221B">R221B</a>) with <a href="#E4">E4</a>, M0, H2 and a qualified skimmer driver |
-|  3  | Starship Gunner (<a href="#R221C">R221C</a>) with <a href="#E6">E6</a>, M3, H3                                |
-|  4  | Ship’s Steward and skimmer driver (<a href="#R221E">R221E</a>) with <a href="#E8">E8</a>, M0, H1 who is an excellent cook and very knowledgeable about wine and spirits |
-|  5  | Robot Repairman who can repair any type of robot (<a href="#R219">R219</a>) of tech level 4 or less, and who also will act as bodyguard (<a href="#R221D">R221D</a>) although he cannot use ranged weapons, being <a href="#E6">E6</a>, M0, H4 |
+|  1  | Pilot/Navigator (<a href="#R221A">R221A</a>) with E7, M2, H1                                |
+|  2  | Starship Engineer (<a href="#R221B">R221B</a>) with E4, M0, H2 and a qualified skimmer driver |
+|  3  | Starship Gunner (<a href="#R221C">R221C</a>) with E6, M3, H3                                |
+|  4  | Ship’s Steward and skimmer driver (<a href="#R221E">R221E</a>) with E8, M0, H1 who is an excellent cook and very knowledgeable about wine and spirits |
+|  5  | Robot Repairman who can repair any type of robot (<a href="#R219">R219</a>) of tech level 4 or less, and who also will act as bodyguard (<a href="#R221D">R221D</a>) although he cannot use ranged weapons, being E6, M0, H4 |
 |  6  | retired merchant supply officer who can drive a skimmer (<a href="#R221E">R221E</a>) and has experience in jury-rigged equipment, making deals and trades, etc. His presence in your party will add one (+1) to your Cunning, and his presence with equipment during a day reduces its tech level by one (-1) for break-down purposes only (<a href="#R218">R218</a>). |
 
 ## <a name="E123">E123 Guns to Talitar (takes rest of day)</a>
 Two men ask you to take them and a cargo of guns to the underground movement on
 Talitar. If you deliver the men and 50 CU of cargo (heavy hand weapons - tech
 4, in 25 2-CU cases) to any area on Talitar undetected they will pay you 600 S
-now and another 6,000 S at the time of safe delivery. Each man is <a href="#E8">E8</a>, M5, H3
+now and another 6,000 S at the time of safe delivery. Each man is E8, M5, H3
 and has his own utility suit and heavy hand weapons of Tech 4. If you take
 this offer, the men are “wanted” and the weapons are considered contraband on
 Talitar, Palatek, Byzantium, and Imperia. Anywhere else the guns are
@@ -3889,7 +3889,7 @@ preventing any further progress. If you and your party abandon everything you
 have, including robots, vehicles, etc., but excluding utility suits and
 sidearms (which you can keep), you escape without harm. If you do not abandon
 items and flee, as indicated above, each member of your party is in contact
-and combat by 1d6 people of the mob. Each person in the mob is <a href="#E5">E5</a>, M0, H2 and
+and combat by 1d6 people of the mob. Each person in the mob is E5, M0, H2 and
 unarmed. You must fight your way out, see <a href="#R230">R230</a>. When at least half the mob
 persons originally in contact are killed or disabled, the remainder flee, the
 battle ends. The battle will not end until this occurs, or you and your party
@@ -3941,7 +3941,7 @@ roll and consult results below:
 |-----|------------------------------------------------------------------------|
 | 1-2 | unsatisfactory performance, the guards are called, see (<a href="#E160">E160</a>).         |
 | 3-5 | pleasing performance, you are given 1,000 S gift                       |
-|  6  | she falls in love with you, wants to leave for a life of adventure, although she is <a href="#E3">E3</a>, M0, H1 and penniless! her family will pay you 50,000 S for her safe return to the palace within five weeks (50 days) otherwise you become “wanted” (<a href="#R228">R228</a>) in the system |
+|  6  | she falls in love with you, wants to leave for a life of adventure, although she is E3, M0, H1 and penniless! her family will pay you 50,000 S for her safe return to the palace within five weeks (50 days) otherwise you become “wanted” (<a href="#R228">R228</a>) in the system |
 
 
 ## <a name="E132">E132 Wait or Flee Wardrone (takes 1 hour/round)</a>
@@ -3961,9 +3961,9 @@ the drone yourself.
 You are “recognized” as a Nipnan agent by a Mynkurian death squad. They
 instantly launch a suicide attack against you (<a href="#R327">R327</a>). They will fight to the
 death, regardless of odds or tactical situation. Mynkurian Death Squad Troops:
-two “miners”, each <a href="#E3">E3</a>, M0, H4 rigged with high explosives — if they contact
+two “miners”, each E3, M0, H4 rigged with high explosives — if they contact
 any vehicle or robot (or failing that, any person) they blow themselves up
-(see <a href="#R230E">R230E</a> and <a href="#R230K">R230K</a> for explosive hits); two “gold slayers” who are <a href="#E5">E5</a>, M0,
+(see <a href="#R230E">R230E</a> and <a href="#R230K">R230K</a> for explosive hits); two “gold slayers” who are E5, M0,
 H6 who attempt to contact any officer or leader (including yourself) and hit
 hand-to-hand with poison-tipped spikes that cause one wound and immediate
 disablement, furthermore, unless immediately treated with first aid (<a href="#R231">R231</a>)
@@ -3972,7 +3972,7 @@ after each later round of combat roll 1d6
 | D6  | Result                                                                 |
 |-----|------------------------------------------------------------------------|
 | 1-4 | the victim suffers another hit from poison                             |
-| 5-6 | the poison has no more potency, there is no further effect; finally, the squad has two “spitters” each <a href="#E4">E4</a>, M4, H2 armed with heavy hand weapons (see <a href="#R210">R210</a> for tech level) who fire at anyone holding a weapon (if none, any opponent). |
+| 5-6 | the poison has no more potency, there is no further effect; finally, the squad has two “spitters” each E4, M4, H2 armed with heavy hand weapons (see <a href="#R210">R210</a> for tech level) who fire at anyone holding a weapon (if none, any opponent). |
 
 ## <a name="E134">E134 Talitarian Troopers (takes 1 hour)</a>
 You have met a patrol of troopers. If you wish to fight at once, refer to <a href="#R327">R327</a>
@@ -3988,7 +3988,7 @@ try to bribe them for 50 S. If you do, roll 1d6
 | 1-3 | they accept the bribe                                                  |
 | 4-6 | they refuse and a battle ensues, refer to <a href="#R327">R327</a> and subtract two from the dice roll there. |
 
-Talitarian Patrol: composed of eight (8) men, each is <a href="#E6">E6</a>, M4, H4 armed with 
+Talitarian Patrol: composed of eight (8) men, each is E6, M4, H4 armed with 
 heavy hand weapons (see <a href="#R210">R210</a> for tech level).
 
 ## <a name="E135">E135 Hostile Life Force (takes no time)</a>
@@ -4002,7 +4002,7 @@ units (decide how many now) — see <a href="#E194">E194</a>, or stand and let i
 
 ## <a name="E136">E136 Imperial Guards (takes no time)</a>
 You meet a troop of 1d6+4 Imperial Guardsmen, with gleaming weapons and lavish
-uniforms. Each is <a href="#E5">E5</a>, M2, H2. You may wait to see what they do — see <a href="#R322">R322</a>, or
+uniforms. Each is E5, M2, H2. You may wait to see what they do — see <a href="#R322">R322</a>, or
 attack them instantly — see <a href="#E166">E166</a>.
 
 ## <a name="E137">E137 Sabotage/Theft (takes 1 hour)</a>
@@ -4087,9 +4087,9 @@ consult <a href="#E167">E167</a>.
 You encounter a cult dedicated to the destruction of robots. If your party has
 no robots, they pass peacefully. If you have robots, they will immediately
 attack them, and anyone in the way (<a href="#R230">R230</a>), fighting to the death to destroy
-the robots. There is one leader of the cultists, <a href="#E7">E7</a>, M3, H4 with a magnetic
+the robots. There is one leader of the cultists, E7, M3, H4 with a magnetic
 scrambler of tech 5 that does no harm to humans, but destroys a robot beyond
-repair if it hits one. There are ten additional cultists, each <a href="#E4">E4</a>, M0H4 who
+repair if it hits one. There are ten additional cultists, each E4, M0H4 who
 will wreck a robot with their hammers if they make any successful hit in
 hand-to-hand combat. The battle and aftermath will consume one hour of time.
 
@@ -4097,7 +4097,7 @@ hand-to-hand combat. The battle and aftermath will consume one hour of time.
 Your party is engulfed in a crowd of beggars, irate because you are obviously
 better off than they! Roll 2d6 and multiply by five (x5) for how much money,
 in Secs (S), you must throw at them to drive them away. If you don’t pay them,
-1d6 times four (x4) will attack you, see <a href="#R230">R230</a>. Each beggar is <a href="#E2">E2</a>, M1, H2 with
+1d6 times four (x4) will attack you, see <a href="#R230">R230</a>. Each beggar is E2, M1, H2 with
 the ranged weapons being stones and other hard objects, tech level 1. Their
 objective is to steal, and a successful hit in hand-to-hand combat means they
 will carry off one item from that person and disappear, rather than actually
@@ -4107,7 +4107,7 @@ hit instead (due to rage).
 ## <a name="E148">E148 Mindcrawler on Ship (takes 1 hour if you are present)</a>
 Wherever you are, your starship has been infiltrated by a mindcrawler. It
 chooses one person on board at random, and attempts to take over the person’s
-brain. It is an <a href="#E20">E20</a>, M0, H0 creature with limitless psionic power that it uses
+brain. It is an E20, M0, H0 creature with limitless psionic power that it uses
 to make a 2-point attack each round (see <a href="#E022">E022</a> for procedure). You can attack
 it using normal combat (<a href="#R230">R230</a>) to kill it.
 
@@ -4178,7 +4178,7 @@ given in brackets [ ].
 
 | 2D6 | Result                                                                 |
 |-----|------------------------------------------------------------------------|
-|  2  | upgraded sublight drive for your starship. Escape is automatic from any ship of tech 5 or less, normal escape ability against tech 6 ships. Upgrading takes a full day of RRR to install at a spaceport or station [10,000 s] |
+|  2  | upgraded sublight drive for your starship. Escape is automatic from any ship of tech 5 or less, normal escape ability against tech 6 ships. Upgrading takes a full day of RRR to install at a spaceport or station [10,000 S] |
 |  3  | ECCM electronic counter-countermeasures unit of 3 CU size that negates the effect of any ECM unit [800 S] |
 |  4  | Regrowth Tank that allows rapid healing for one person (<a href="#R231">R231</a>), with 1d6 hits healed per day if the person stays in the tank the entire day. The tank requires installation in the starship and takes 4 CU. If it breaks down the day it is in use, the person suffers 1d6 extra hits instead of healing that many [2,000 S] |
 |  5  | Shadow Suit that can be worn by anyone not in a utility suit. It will reduce the Detection Factor (<a href="#R238">R238</a>) by one (-1) of the wearer if entering a land area on foot and alone (or with other shadow suit wearers only). Anyone shooting at a wearer has accuracy (<a href="#R230D">R230D</a>) reduced by two. Wearing a shadow suit costs 1 S per day for consumable items (IR filters, etc.) [200 S] |
@@ -4210,7 +4210,7 @@ as you), or engaged in any bribery or theft, the secret police have discovered
 this already and arrest you. If you haven’t, they let you proceed.
 
 If arrested, you can go peacefully, see <a href="#E023">E023</a>. Alternately, you can resist
-arrest by fighting, see <a href="#R230">R230</a>. There are twelve officers present, each <a href="#E6">E6</a>, M3,
+arrest by fighting, see <a href="#R230">R230</a>. There are twelve officers present, each E6, M3,
 H5, half with heavy hand weapons, half with sidearms (see <a href="#R210">R210</a> for tech).
 
 ## <a name="E156">E156 Clone Bank (takes 1 hour)</a>
@@ -4275,7 +4275,7 @@ increased gravity may prevent takeoff by a ship’s boat.
 
 ## <a name="E159">E159 Rich Man & Thugs (takes 1 hour)</a>
 You see a party comprised of an obviously rich individual, guarded by 1d6+6
-thugs (each <a href="#E8">E8</a>, M4, H6 armed with a sidearm, see <a href="#R210">R210</a> for tech level). You can
+thugs (each E8, M4, H6 armed with a sidearm, see <a href="#R210">R210</a> for tech level). You can
 ignore him, or you can attack him. If you attack, see <a href="#R302">R302</a>. You must defeat
 them in five combat rounds, since after that the rich man will escape. If you
 disable or kill the rich man, you find he has a base value wealth of 1d6 times
@@ -4283,7 +4283,7 @@ disable or kill the rich man, you find he has a base value wealth of 1d6 times
 here.
 
 ## <a name="E160">E160 Royal Guards (takes 1 hour)</a>
-Five men dressed in uniforms of the palace guard appear. Each is <a href="#E8">E8</a>, M3, H6 and
+Five men dressed in uniforms of the palace guard appear. Each is E8, M3, H6 and
 armed with ceremonial halberds (inflict double damage if they hit in
 hand-to-hand combat) and sidearms (see <a href="#R210">R210</a> for tech level). They move to
 arrest you— if they do, see <a href="#E023">E023</a>. You can chose to resist, see <a href="#R327">R327</a>, but if
@@ -4355,7 +4355,7 @@ Terrain is dull and boring, you find nothing of interest.
 ## <a name="E169">E169 Wait for Boat (takes 1 hour)</a>
 You allow the boat to dock with your starship. Three persons come on board,
 leaving the pilot/navigator they hired on the boat, which then disengages and
-departs. The three who boarded are psionicists, each <a href="#E10">E10</a>, M1, H2 with psionic
+departs. The three who boarded are psionicists, each E10, M1, H2 with psionic
 power (<a href="#E022">E022</a>) of 12. Roll 1d6 to see what they want (below). If you refuse,
 each immediately launches an attack against you (or your psionicist if a
 mental shield is raised), continuing until you or they are dead, or you agree
@@ -4396,7 +4396,7 @@ your party, so will the alien.
 
 ## <a name="E172">E172 Mine Guards (takes 1 hour)</a>
 You attract the attention of mine guards, who think you intend to jump a claim,
-or steal valuable minerals. See <a href="#R324">R324</a>. There are eight (8) guards, each is <a href="#E5">E5</a>,
+or steal valuable minerals. See <a href="#R324">R324</a>. There are eight (8) guards, each is E5,
 M3, H4 and armed with a heavy hand weapons (see <a href="#R210">R210</a> for tech level).
 
 ## <a name="E173">E173 Try for Contact (takes 1 hour)</a>
@@ -4414,7 +4414,7 @@ Dealing with the Byzantine Secret Police Ship - roll 1d6:
 | 5-6 | conceal one of their men and take him to the palace on Imperia, you will be paid 3,000 S when you return to Byzantium after a successful delivery, again their man must be undetected — if detected he disappears and you will not be paid anything. |
 
 Boarding for Search by Byzantine Secret Police: If you resist boarding, see
-<a href="#E189">E189</a>. If you allow boarding, two men come on board, each <a href="#E6">E6</a>, M2, H3 with
+<a href="#E189">E189</a>. If you allow boarding, two men come on board, each E6, M2, H3 with
 tech-2 sidearms who search (<a href="#R229D">R229D</a>) the ship for items worth more than 100 S
 per CU. If they find any, roll 1d6, 1-2 they make notes and ask for a 1 CU
 duty per CU of such goods, 3-6 they will take 1 CU of one such item (the most
@@ -4506,9 +4506,9 @@ spoiled. If not sold within 5 days, all the food spoils and becomes worthless.
 
 ## <a name="E181">E181 Union Roadblock (takes 1 hour)</a>
 If you are entering in any vehicle other than commercial vehicles, you are
-stopped by a force of 20 union men, each <a href="#E12">E12</a>, M2, H6 with sidearms (see <a href="#R210">R210</a>
+stopped by a force of 20 union men, each E12, M2, H6 with sidearms (see <a href="#R210">R210</a>
 for tech level). They have with them an all-terrain mover with a boat gun and
-gunner (<a href="#E8">E8</a>, M5, H3). They inform you that you cannot enter the area unless you
+gunner (E8, M5, H3). They inform you that you cannot enter the area unless you
 hire commercial transport (<a href="#R215B">R215B</a>), which they can call for you now. If you do,
 and pay the appropriate cost, you enter normally. If you refuse, you either
 cannot enter the area (and must go elsewhere), or you can try to shoot your
@@ -4518,7 +4518,7 @@ way past — see <a href="#R327">R327</a>. Once in battle, any escape from it be
 ## <a name="E182">E182 Answer Distress Call (takes 2 hours)</a>
 You approach the starship and notice pieces of debris nearby. However as you
 dock, both your airlock and main cargo hold doors are blown open, and two
-groups of space pirates rush into your ship. Each pirate is <a href="#E8">E8</a>, M4, H6 in a
+groups of space pirates rush into your ship. Each pirate is E8, M4, H6 in a
 utility suit, with a sidearm (see <a href="#R210">R210</a> for tech level), and carries a
 xen-alloy axe that cuts through interior doors and walls easily, and will
 disable any utility-suit wearer with a single hit. 2d6 pirates enter through
@@ -4541,7 +4541,7 @@ the result:
 
 ## <a name="E184">E184 Cult Turns Hostile (takes 1 hour)</a>
 Each of the cult members suddenly pulls a needle-gun from beneath their robes
-and opens fire on your party with surprise, see <a href="#R230I">R230I</a>. Each cultist is <a href="#E6">E6</a>, M2,
+and opens fire on your party with surprise, see <a href="#R230I">R230I</a>. Each cultist is E6, M2,
 H2. If they disable your entire party, they will steal all of your party’s
 possessions and leave you, including any vehicles except a ship’s boat or
 starship (which they are unable to operate). Needle Guns: tech 3 weapon
@@ -4551,7 +4551,7 @@ similar to sidearm, but any hit results in automatic disablement of the target.
 If you are travelling with two or more companions in your party, this result is
 no encounter and no effect. Otherwise, you are accosted by two men who hold
 you up, trying to take all your money and possessions. You can give it to
-them, or fight. If you fight, see <a href="#R305">R305</a>. Each holdup man is <a href="#E7">E7</a>, M5, H5, one has
+them, or fight. If you fight, see <a href="#R305">R305</a>. Each holdup man is E7, M5, H5, one has
 a sidearm, the other a heavy hand weapon (see <a href="#R210">R210</a> for tech level).
 
 ## <a name="E186">E186 Mental Shields Up (takes no time)</a>
@@ -4606,9 +4606,9 @@ target, and where he can be found:
 
 | D6  | Result                                                                 |
 |-----|------------------------------------------------------------------------|
-| 1-2 | the “Devil of Talitar,” <a href="#E9">E9</a>, M5, H5, a high official in the dictatorship, found in any area in the Talitar system |
-| 3-4 | Grand Duke of Imperia, <a href="#E3">E3</a>, M3, H2, found in any Palace or City area of the Imperia system                      |
-| 5   | Byzantine Police Inspector, <a href="#E8">E8</a>, M4, H6, found in any area of Byzantium                                         |
+| 1-2 | the “Devil of Talitar,” E9, M5, H5, a high official in the dictatorship, found in any area in the Talitar system |
+| 3-4 | Grand Duke of Imperia, E3, M3, H2, found in any Palace or City area of the Imperia system                      |
+| 5   | Byzantine Police Inspector, E8, M4, H6, found in any area of Byzantium                                         |
 | 6   | Palatek corporate president, <a href="#E4">E4</a>, M0, H2, found in any area of Palatek with life support                        |
 
 To find your target, roll 1d6 when you enter an area where he may be, “6”
@@ -4625,7 +4625,7 @@ Situation die rolls are:
 | 1-2 | he is alone wearing only a sidearm (see <a href="#R210">R210</a> for tech level, weapon is two levels above normal, up to a maximum of level 6) |
 | 3-4 | he has two bodyguards                                                                                          |
 |  5  | he has four bodyguards                                                                                         |
-|  6  | he is in an armored limousine skimmer with driver and bodyguard manning skimmer guns The bodyguards are <a href="#E8">E8</a>, M5, H5 with sidearms one above normal tech level (see <a href="#R210">R210</a>) with a maximum of tech 6. Armored limousine skimmer will reduce all hits by two (i.e., a single or double hit does no damage, a triple hit does one hit of damage, etc.). The bodyguards will fight to the death, but the target will attempt to escape as soon as his side is hit more often (over all) than your side. If you have already assassinated the target, ignore this encounter. |
+|  6  | he is in an armored limousine skimmer with driver and bodyguard manning skimmer guns The bodyguards are E8, M5, H5 with sidearms one above normal tech level (see <a href="#R210">R210</a>) with a maximum of tech 6. Armored limousine skimmer will reduce all hits by two (i.e., a single or double hit does no damage, a triple hit does one hit of damage, etc.). The bodyguards will fight to the death, but the target will attempt to escape as soon as his side is hit more often (over all) than your side. If you have already assassinated the target, ignore this encounter. |
 
 ## <a name="E192">E192 Cargo Run to Palatek (takes rest of day)</a>
 You have an offer to pick up quaint hand carved items at the Colony on Regari
@@ -4754,7 +4754,7 @@ determine what effect it had on you (see <a href="#R230">R230</a>).
 
 ## <a name="E405">E405 Four Armed Men (takes 1 hour)</a>
 You surprise four armed men, who appear startled after the stasis unit is
-de-energized. Each is <a href="#E6">E6</a>, M4, H1 with a tech 5 sidearm. You may attack first
+de-energized. Each is E6, M4, H1 with a tech 5 sidearm. You may attack first
 with surprise (<a href="#R230I">R230I</a>) or try to talk with them. If you talk, roll 1d6:
 
 | D6  | Result                                                          |
@@ -4860,7 +4860,7 @@ Your engineer tries to puzzle out the device, roll 1d6:
 | 6   | he discovers it is a small, controllable craft with sublight drives (<a href="#R212F">R212F</a>) that has a one-year power unit and life support. It has 3 CU internal space, and takes up 9 CU area. There is no way to mount guns upon it. It originally had 3 CU of explosives (see “5” above) in it, but the engineer removes these |
 
 ## <a name="E415">E415 Wounded Pilot/Navigator (takes 1 hour)</a>
-The stasis unit contains a starship pilot/navigator (<a href="#R221A">R221A</a>) with <a href="#E7">E7</a>, M0, H2 and
+The stasis unit contains a starship pilot/navigator (<a href="#R221A">R221A</a>) with E7, M0, H2 and
 1d6 wounds. In return for rescuing him, he will work without pay for. you for
 the next 40 days. If you don’t want his services, he will pay you by replacing
 the stasis unit you used to free him with one of equal size whenever you next
@@ -4924,7 +4924,7 @@ considerable questioning, you discover that he was in a starship that must
 have been destroyed 84 years ago. All his friends and relatives are gone. He
 claims the robot is his, and wants to be set down on any planet with good air.
 He will work for you instead if you buy the robot for 100 S and pay him 12 S
-per week with a stasis unit at his work station (<a href="#R212E">R212E</a>). He is <a href="#E8">E8</a>, M3, H3 and
+per week with a stasis unit at his work station (<a href="#R212E">R212E</a>). He is E8, M3, H3 and
 a skimmer driver.
 
 ## <a name="E421">E421 Stasis Energized (takes rest of day)</a>
