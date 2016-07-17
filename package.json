@@ -1,6 +1,6 @@
 {
   "name": "star-smuggler",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A project to convert the paper game _Star Smuggler_ to an electronic format.",
   "main": "rules.md",
   "scripts": {

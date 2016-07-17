@@ -34,8 +34,13 @@ web page that lets me play the game on a phone or tablet.
 
 ### 2016-03-25
 
+The markdown rules now have cross-ref links for all rules and encounters.
+
+
+### 2016-03-25
+
 Wow, it took _way_ more effort to convert to markdown than I anticipated. 
-Converting wargame rules to markdown is not to taken lightly.
+Converting wargame rules to markdown is not to be taken lightly.
 
 That said - mission accomplished! Rules are now in clean markdown format.
 
@@ -44,4 +49,3 @@ made: Typos were fixed. Some text was expanded for readability. Some adaptations
 were made to allow for markdown.
 
 I will freeze work on ```rules.md```. Next up: begin work on a json file. 
-
