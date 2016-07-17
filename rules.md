@@ -11,8 +11,9 @@ paragraphs (<a href="#E000">E000</a> numbers).
 
 You can learn this game as you play. Simply start with the first event (<a href="#E001">E001</a>
 and then read sections as necessary. You may find it convenient to read
-important rules sections first, including (<a href="#R203">R203</a>), (<a href="#R212">R212</a>), (<a href="#R221">R221</a>), (<a href="#R230">R230</a>) and 
-(<a href="#R232">R232</a>), or if ambitious, read all the rules sections first (<a href="#R201">R201</a>-<a href="#R232">R232</a>).
+important rules sections first, including (<a href="#R203">R203</a>), (<a href="#R212">R212</a>), 
+(<a href="#R221">R221</a>), (<a href="#R230">R230</a>) and (<a href="#R232">R232</a>), or if ambitious, read all the 
+rules sections first (<a href="#R201">R201</a>-<a href="#R232">R232</a>).
 
 A pencil and some paper is needed for this game — to keep track of your
 possessions, current situation, special events, etc. You may even wish to
@@ -71,27 +72,27 @@ Depew. Re-designed components and player aids by Todd Sanders.
 
 |                                                      |                                                      |
 |------------------------------------------------------|------------------------------------------------------|
-| <a href="#R201">R201 Characters</a>                  | <a href="#R201">R222 Robots</a>                      |
-| <a href="#R202">R202 Cunning</a>                     | <a href="#R201">R223 Hirelings’ Equipment</a>        |
-| <a href="#R203">R203 Daily Actions</a>               | <a href="#R201">R224 Encounters</a>                  |
-| <a href="#R204">R204 Maps & Classifications</a>      | <a href="#R201">R225 Entry Detection/Encounters</a>  |
-| <a href="#R205">R205 Area Types</a>                  | <a href="#R201">R226 System Entry Encounters</a>     |
-| <a href="#R206">R206 Asteroids</a>                   | <a href="#R201">R227 Contact Try Encounters</a>      |
-| <a href="#R207">R207 Guide to the Pavonis Sector</a> | <a href="#R201">R228 Ship’s Papers, ID, Wanted</a>   |
-| <a href="#R208">R208 Random System Connections</a>   | <a href="#R201">R229 Cargo, Goods and Services</a>   |
-| <a href="#R209">R209 Random System Design</a>        | <a href="#R201">R230 Combat</a>                      |
-| <a href="#R210">R210 Vehicles & Equipment</a>        | <a href="#R201">R231 Wounds & Endurance</a>          |
-| <a href="#R211">R211 CU, RU and FU</a>               | <a href="#R201">R232 Record keeping</a>              |
-| <a href="#R212">R212 Antelope Class Starship</a>     | <a href="#R201">R233 Entry & Contact Table</a>       |
-| <a href="#R213">R213 Life Support</a>                | <a href="#R201">R234 Sector: System Connections</a>  |
-| <a href="#R214">R214 Ship’s Boat</a>                 | <a href="#R201">R235 Tech Level of Equipment</a>     |
-| <a href="#R215">R215 Planetary Vehicles</a>          | <a href="#R201">R236 Equipment Table</a>             |
-| <a href="#R216">R216 Weaponry</a>                    | <a href="#R201">R237 Critical Hit Table</a>          |
-| <a href="#R217">R217 Damage</a>                      | <a href="#R201">R238 Entry Detection Table</a>       |
-| <a href="#R218">R218 Breakdown</a>                   | <a href="#R201">R240 Recovery from Stasis Table</a>  |
-| <a href="#R219">R219 Repair</a>                      | <a href="#R201">R241 Base Price Multiplier Table</a> |
-| <a href="#R220">R220 Retinue</a>                     | <a href="#R201">R242 Cache Factor Table</a>          |
-| <a href="#R221">R221 Roles of Hirelings</a>          | <a href="#R201">R300+ Rules References</a>           |
+| <a href="#R201">R201 Characters</a>                  | <a href="#R222">R222 Robots</a>                      |
+| <a href="#R202">R202 Cunning</a>                     | <a href="#R223">R223 Hirelings’ Equipment</a>        |
+| <a href="#R203">R203 Daily Actions</a>               | <a href="#R224">R224 Encounters</a>                  |
+| <a href="#R204">R204 Maps & Classifications</a>      | <a href="#R225">R225 Entry Detection/Encounters</a>  |
+| <a href="#R205">R205 Area Types</a>                  | <a href="#R226">R226 System Entry Encounters</a>     |
+| <a href="#R206">R206 Asteroids</a>                   | <a href="#R227">R227 Contact Try Encounters</a>      |
+| <a href="#R207">R207 Guide to the Pavonis Sector</a> | <a href="#R228">R228 Ship’s Papers, ID, Wanted</a>   |
+| <a href="#R208">R208 Random System Connections</a>   | <a href="#R229">R229 Cargo, Goods and Services</a>   |
+| <a href="#R209">R209 Random System Design</a>        | <a href="#R230">R230 Combat</a>                      |
+| <a href="#R210">R210 Vehicles & Equipment</a>        | <a href="#R231">R231 Wounds & Endurance</a>          |
+| <a href="#R211">R211 CU, RU and FU</a>               | <a href="#R232">R232 Record keeping</a>              |
+| <a href="#R212">R212 Antelope Class Starship</a>     | <a href="#R233">R233 Entry & Contact Table</a>       |
+| <a href="#R213">R213 Life Support</a>                | <a href="#R234">R234 Sector: System Connections</a>  |
+| <a href="#R214">R214 Ship’s Boat</a>                 | <a href="#R235">R235 Tech Level of Equipment</a>     |
+| <a href="#R215">R215 Planetary Vehicles</a>          | <a href="#R236">R236 Equipment Table</a>             |
+| <a href="#R216">R216 Weaponry</a>                    | <a href="#R237">R237 Critical Hit Table</a>          |
+| <a href="#R217">R217 Damage</a>                      | <a href="#R238">R238 Entry Detection Table</a>       |
+| <a href="#R218">R218 Breakdown</a>                   | <a href="#R240">R240 Recovery from Stasis Table</a>  |
+| <a href="#R219">R219 Repair</a>                      | <a href="#R241">R241 Base Price Multiplier Table</a> |
+| <a href="#R220">R220 Retinue</a>                     | <a href="#R242">R242 Cache Factor Table</a>          |
+| <a href="#R221">R221 Roles of Hirelings</a>          | <a href="#R300">R300+ Rules References</a>           |
 
 ## <a name="R201">R201 Characters</a>
 Each character in the game has three ratings: Marksmanship (“M”), Hand-to-Hand
@@ -208,8 +209,8 @@ not part of RRR.
 
 ### <a name="R203D">Breakdown (R203D)</a>
 At the end of each day, any vehicle or piece of equipment you used may break
-down. Consult <a href="#R218">R218</a> for details. Preventive maintenance (<a href="#<a href="#R218B">R218B</a>) avoids the
-danger of breakdown. Breakdown need not be checked for vehicles that didn’t
+down. Consult <a href="#R218">R218</a> for details. Preventive maintenance (<a href="#<a href="#R218B">R218B</a>) 
+avoids the danger of breakdown. Breakdown need not be checked for vehicles that didn’t
 move (even if providing life support and/or communications), or for starships
 and boats in orbit or docked at a space station. Breakdown of individual items
 (such as weapons) is separate from any vehicle carrying them, or any other
@@ -4768,10 +4769,10 @@ Roll 1d6 for the result of your bribe:
 
 | D6  | Result                                                                 |
 |-----|------------------------------------------------------------------------|
-| 1   | they accept it and let you pass                                            |
+| 1   | they accept it and let you pass                                        |
 | 2   | they demand triple what you offered, and will let you pass if you pay it   |
 | 3   | they demand 1d6 times 1,000 S for a bribe, will let you pass if you pay it |
-| 4-6 | they refuse your bribe                                                     |
+| 4-6 | they refuse your bribe                                                 |
 
 If you cannot bribe them, they open fire, see <a href="#E428">E428</a>.
 
@@ -4932,20 +4933,20 @@ Once the stasis is energized, you are safe from mental attack, and no one else
 is attacked. Your crew radios for help, another ship comes out to yours, tows
 you to the nearest space station (or orbit around a planet, if no stations
 exist in this system), removes your energized stasis unit, deenergizes it
-(destroying it in the process, see <a href="#R212E">R212E</a>), and replacing minor fixtures. The
-overall charges for the entire service are 450 S. If you can’t pay, they
-impound your starship until you do.
+(destroying it in the process, see <a href="#R212E">R212E</a>), and replacing 
+minor fixtures. The overall charges for the entire service are 450 S. If you 
+can’t pay, they impound your starship until you do.
 
 ## <a name="E422">E422 Attack the Scout (takes 1 hour/round)</a>
 You fire first, then the scout returns fire. After that, a space battle
-continues (<a href="#R230L">R230L</a>) until one ship is destroyed or escapes. If you attempt to
-escape the scout will pursue. Scoutship data: two hits will destroy the scout
-ship. It carries standard tech 6 starship guns (one turret) and a
-magneto-plasma nose gun that fires once on the first turn and must recharge.
-Each following turn roll 1d6, on a 5 or 6 it is recharged and fires again. The
-magneto-plasma gun always hits, but does no physical damage. Instead, it
-penetrates into one compartment and kills everyone inside by induced neural
-current. Roll 1d6 for each hit to see which compartment suffers:
+continues (<a href="#R230L">R230L</a>) until one ship is destroyed or escapes. 
+If you attempt to escape the scout will pursue. Scoutship data: two hits will 
+destroy the scout ship. It carries standard tech 6 starship guns (one turret) 
+and a magneto-plasma nose gun that fires once on the first turn and must 
+recharge. Each following turn roll 1d6, on a 5 or 6 it is recharged and fires 
+again. The magneto-plasma gun always hits, but does no physical damage. 
+Instead, it penetrates into one compartment and kills everyone inside by 
+induced neural current. Roll 1d6 for each hit to see which compartment suffers:
 
 | D6  | Result                             |
 |-----|------------------------------------|
@@ -4958,10 +4959,11 @@ current. Roll 1d6 for each hit to see which compartment suffers:
 
 ## <a name="E423">E423 Attempt to Hyperjump (instantly)</a>
 If the object was located above the hypercharge storage area it explodes and
-destroys the starship. Any stasis units (<a href="#R212E">R212E</a>) that automatically energize do
-so, and remain in this star system. If the object was anyplace else, roll 1d6,
-on a “1” it destroys the whole ship and kills you, on any other result it is
-gone when you emerge from hyperspace — you’re none the wiser!
+destroys the starship. Any stasis units (<a href="#R212E">R212E</a>) that 
+automatically energize do so, and remain in this star system. If the object was 
+anyplace else, roll 1d6, on a “1” it destroys the whole ship and kills you, on 
+any other result it is gone when you emerge from hyperspace — you’re none the 
+wiser!
 
 ## <a name="E424">E424 Space Gypsies (takes rest of day)</a>
 You are approached by the clan leader for some space gypsies. They need
@@ -4971,13 +4973,14 @@ the clan, he will give you another ruby of equal value for each person in the
 clan — and there are 110 in the clan! The only condition is that they must all
 travel together and arrive in New Karma in good condition. If you refuse, he
 will leave, and you keep the ruby. If you agree, you must provide sufficient
-space on board. When you reach New Karma with them, see <a href="#E020">E020</a>.
+space on board. When you reach New Karma with them, 
+see <a href="#E020">E020</a>.
 
 ## <a name="E425">E425 Pure Dyla-Weed (takes no time)</a>
 The stasis unit contains 4 CU of pure dyla-weed, an illegal hallucinogenic drug
 worth a fortune anywhere in the sector. You can sell it in any Slum area for a
-base price (<a href="#R229A">R229A</a>) of 16,000 S per CU, but cannot sell any more than one CU in
-any one Slum area.
+base price (<a href="#R229A">R229A</a>) of 16,000 S per CU, but cannot sell any 
+more than one CU in any one Slum area.
 
 ## <a name="E426">E426 Enter Strange Ship (takes 1 hour)</a>
 You discover the ship is made principally of the new bio-plastic alloys, and
@@ -5011,15 +5014,16 @@ After waiting an hour the scout finally acts. Roll 1d6:
 | 3-6 | he opens fire. If he opens fire you can either return fire or instantly escape (if still able). For the effect of his fire, and resolving any space battles (in case you decide not to escape right now) see <a href="#E422">E422</a>             |
 
 ## <a name="E429">E429 Try to Open without an Engineer (takes 1d6 hours)</a>
-Refer to <a href="#E414">E414</a> but subtract die roll there by one (-1). A result of “0” is 
-considered a “1” instead.
+Refer to <a href="#E414">E414</a> but subtract die roll there by one (-1). 
+A result of “0” is considered a “1” instead.
 
 ## <a name="E430">E430 Board the Ship (takes 3 hours)</a>
 Upon boarding, you realize the ship is actually an Antelope class trader just
 like your own, but with external camouflage. Inside the ship is in perfect
 order but empty of all cargo, unarmed, and with a dead man in the pilot’s
 couch. It has no hyperdrive charges left, and the engines require repair
-before they will function (<a href="#R219">R219</a>) — a starship engineer (<a href="#R221B">R221B</a>) is needed for
+before they will function (<a href="#R219">R219</a>) — a starship engineer 
+(<a href="#R221B">R221B</a>) is needed for
 repairs. If you tow the ship to a space station or spaceport in this system
 (travel at half speed while towing) you can realize 12,000 S in salvage rights
 if the ship is unrepaired, 30,000 S resale if repaired. Selling the ship in
