@@ -701,7 +701,7 @@ conceal dire poverty and a mean existence. Imperia tends to waste its wealth
 on efforts of size and spectacle rather than quality, although some families
 possess valuable treasures.
 
-* System Entry 1d6 roll: 1- <a href="#E092">E092</a>, 2- <a href="#<a href="#E10">E10</a>0">E100</a>, 3- <a href="#E093">E093</a>, 4- <a href="#E114">E114</a>, 5- <a href="#E113">E113</a>, 6- E10.
+* System Entry 1d6 roll: 1- <a href="#E092">E092</a>, 2- <a href="#E100">E100</a>, 3- <a href="#E093">E093</a>, 4- <a href="#E114">E114</a>, 5- <a href="#E113">E113</a>, 6- <a href="#E10">E10</a>.
 * System Codes: wealth 100, tech 25.
 * Planet I: layout C-G, gravity 11, good air.
 * System includes asteroids.
@@ -712,7 +712,7 @@ the army is in firm control, and troopers vigorously patrol both the planets
 and the space lanes of the system. Careful bribery can be useful here, but it
 is exceedingly risky.
 
-* System Entry 1d6 roll: 1- <a href="#E120">E120</a>, 2- <a href="#<a href="#E118">E118</a>">E118</a>, 3-<a href="#E096">E096</a>, 4- <a href="#E106">E106</a>, 5- <a href="#E093">E093</a>, 6- E118
+* System Entry 1d6 roll: 1- <a href="#E120">E120</a>, 2- <a href="#E118">E118</a>, 3-<a href="#E096">E096</a>, 4- <a href="#E106">E106</a>, 5- <a href="#E093">E093</a>, 6- <a href="#E118">E118</a>
 * System Codes: wealth 25, tech 30.
 * Planet I: layout F-l, gravity 13, good air.
 * Planet II: layout E-H, gravity 4, good air.
@@ -736,7 +736,7 @@ moderately advanced technology, but its machines and devices tend to confuse
 outsiders. Foreigners also tend to make social errors, which offend or anger
 the residents. For these reasons, this system is avoided by wise travelers.
 
-* System Entry 1d6 roll: 1-<a href="#<a href="#<a href="#<a href="#E119">E119</a>">E119</a>">E119</a>">E119</a>, 2-<a href="#E093">E093</a>, 3-E119, 4-<a href="#E109">E109</a>, 5-E119, 6-E119
+* System Entry 1d6 roll: 1- <a href="#<a href="#E119">E119</a>, 2- <a href="#E093">E093</a>, 3- <a href="#E119">E119</a>, 4- <a href="#E109">E109</a>, 5- <a href="#E119">E119</a>, 6- <a href="#E119">E119</a>
 * System Codes: wealth 40, tech 40
 * Planet I: layout G-B, gravity 6, bad air.
 * System includes asteroids.
@@ -749,7 +749,7 @@ uses the long-range strategy of high-technology weapons, especially due to its
 population losses, and all industrial and scientific efforts are devoted to
 armaments.
 
-* System Entry 1d6 roll: 1-<a href="#<a href="#E098">E098</a>">E098</a>, 2-<a href="#E110">E110</a>, 3-<a href="#E094">E094</a>, 4-E098, 5-<a href="#E120">E120</a>, 6-<a href="#E112">E112</a>
+* System Entry 1d6 roll: 1- <a href="#E098">E098</a>, 2- <a href="#E110">E110</a>, 3- <a href="#E094">E094</a>, 4- <a href="#E098">E098</a>, 5- <a href="#E120">E120</a>, 6- <a href="#E112">E112</a>
 * System Codes: wealth 60, tech 100.
 * Planet I: layout J-D, gravity 12, good air.
 * Planet II: layout A-l, gravity 9, no air.
