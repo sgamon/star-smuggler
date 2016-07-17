@@ -17,8 +17,8 @@ This project will gradually convert **_Star Smuggler_** to an electronic
 format. The plan of action is something like:
 
 1. ~~Convert rules to markdown~~
+1. ~~Generate cross-linked html~~
 1. Convert rules to json
-1. Generate cross-linked html from the json
 1. Automate die rolls in html rules
 1. Create vector graphics
 1. Record keeping system
@@ -32,10 +32,11 @@ web page that lets me play the game on a phone or tablet.
 
 ## Work Notes
 
-### 2016-03-25
+### 2016-07-16
 
 The markdown rules now have cross-ref links for all rules and encounters.
 
+I wrote a generator to do this, then hand-edited to fix things the program missed.
 
 ### 2016-03-25
 
