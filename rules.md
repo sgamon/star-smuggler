@@ -155,7 +155,7 @@ your rating. If you have played before, you can adjust your Cunning by one in
 each subsequent game. If you found the game too difficult, or if you lost,
 increase your Cunning by one (+1). If you wish more challenge, or if you won,
 reduce your Cunning by one (-1). When you feel you have become an expert,
-trying playing with a Cunning rating of 0! When an event calls for a “Cunning
+try playing with a Cunning rating of 0! When an event calls for a “Cunning
 roll,” you roll one die and must get less than or equal to your Cunning rating
 to succeed, unless some other requirement is indicated.
 
@@ -4688,15 +4688,17 @@ none, then Rural or Mining areas instead). There are 1d6 times ten colonists
 who wish to go, each pays you 30 S, but only on delivery to their new home.
 Each colonist with his/her possessions takes up 2 CU. You can take as many as
 you wish, but if you take less than half those present, roll 1d6, on “3” or
-higher see <a href="#E142">E142</a>. If you take them all, see <a href="#E122">E122</a>, one of the colonists wants to
-join your crew (if he does, he won’t pay the 30 S).
+higher see <a href="#E142">E142</a>. If you take them all, 
+see <a href="#E122">E122</a>, one of the colonists wants to join your crew 
+(if he does, he won’t pay the 30 S).
 
 ## <a name="E199">E199 Palace Statuary (takes 1 hour per theft)</a>
 You have a chance to steal statuary from the gardens of the palace. Each statue
-is 3 CU and is worth a base price (<a href="#R229A">R229A</a>) of 300 S on New Karma only. You can
-return to this area for more statues, but each time you must roll 1d6 (instead
-of normal Entry Encounter), unless the roll is greater than the number of
-trips already made, you are discovered by the palace guards — see <a href="#E160">E160</a>.
+is 3 CU and is worth a base price (<a href="#R229A">R229A</a>) of 300 S on 
+New Karma only. You can return to this area for more statues, but each time you 
+must roll 1d6 (instead of normal Entry Encounter), unless the roll is greater 
+than the number of trips already made, you are discovered by the palace 
+guards — see <a href="#E160">E160</a>.
 
 Sections 200-399 are covered in the Rules booklet. Events continue with 
 paragraph 400.
@@ -4705,15 +4707,15 @@ paragraph 400.
 As the stasis unit is deactivated, you see a space amoeba in the act of
 fission, forming two new amoebas, each of 2 CU size. Each immediately rushes
 to engulf the nearest character (determine randomly), and combat ensues, see
-<a href="#R230">R230</a>. In the first round of combat the amoeba is moving to contact and sending
-tendrils into their victims, no wounds are suffered, but no suit will provide
-protection either. Thereafter, each round the victim suffers one hit while the
-amoeba gains one Endurance point. An amoeba cannot be injured in hand-to-hand
-combat, and each hit from a ranged weapon also inflicts one hit on the
-amoeba’s current victim. A successful hand-to-hand attack with dyla-weed or
-hallucinogenic drugs will disable the amoeba for 1d6 rounds, during which time
-it can be placed in a stasis unit (one CU needed per four Endurance points of
-amoeba). Amoebas fresh from fission are Endurance 5, and when it grows to
+<a href="#R230">R230</a>. In the first round of combat the amoeba is moving to 
+contact and sending tendrils into their victims, no wounds are suffered, but no 
+suit will provide protection either. Thereafter, each round the victim suffers 
+one hit while the amoeba gains one Endurance point. An amoeba cannot be injured 
+in hand-to-hand combat, and each hit from a ranged weapon also inflicts one hit 
+on the amoeba’s current victim. A successful hand-to-hand attack with dyla-weed 
+or hallucinogenic drugs will disable the amoeba for 1d6 rounds, during which 
+time it can be placed in a stasis unit (one CU needed per four Endurance points 
+of amoeba). Amoebas fresh from fission are Endurance 5, and when it grows to
 Endurance 10 it will fission again into two Endurance 5 amoebas, with one or
 both seeking new targets as necessary. A known amoeba in stasis can be sold at
 any scientific area for 1,000 S per CU of amoeba.
@@ -4738,9 +4740,10 @@ You examine the damaged gun buoy for anything of value, roll 1d6:
 You are instructed to pay 80 S for pilot fees, 10 S visa charge for each person
 on board, and a 25 S entry permit fee for the starship. There is no choice but
 to pay, since they have overpowering force around and on board. However, if
-you or anyone else on board is “wanted” here (<a href="#R228">R228</a>) they seem unaware of it.
-If you are unable or unwilling to pay you must hyperjump (<a href="#R212A">R212A</a>) out of the
-system, or have your starship impounded upon landing until you can pay the
+you or anyone else on board is “wanted” here (<a href="#R228">R228</a>) they 
+seem unaware of it. If you are unable or unwilling to pay you must 
+hyperjump (<a href="#R212A">R212A</a>) out of the system, or have your starship 
+impounded upon landing until you can pay the
 fees, plus 10% interest per day.
 
 ## <a name="E404">E404 Try to Energize Stasis (time varies)</a>
@@ -4749,14 +4752,15 @@ crewman fires his weapon. Unfortunately for the crewman, he is partly in the
 stasis field, and is killed instantly. The ship cannot be operated with the
 stasis unit in the pilot’s pod energized, so the remaining crewmen on board
 depart with the ship’s boat and as much valuable cargo as they can fit into
-it. The rest remains intact until your recovery from stasis (see <a href="#R240">R240</a>). At the
-instant the stasis field drops the crewman’s shot finishes, and you must
+it. The rest remains intact until your recovery from stasis (see <a href="#R240">R240</a>). 
+At the instant the stasis field drops the crewman’s shot finishes, and you must
 determine what effect it had on you (see <a href="#R230">R230</a>).
 
 ## <a name="E405">E405 Four Armed Men (takes 1 hour)</a>
 You surprise four armed men, who appear startled after the stasis unit is
 de-energized. Each is E6, M4, H1 with a tech 5 sidearm. You may attack first
-with surprise (<a href="#R230I">R230I</a>) or try to talk with them. If you talk, roll 1d6:
+with surprise (<a href="#R230I">R230I</a>) or try to talk with them. 
+If you talk, roll 1d6:
 
 | D6  | Result                                                          |
 |-----|-----------------------------------------------------------------|
@@ -4778,9 +4782,9 @@ If you cannot bribe them, they open fire, see <a href="#E428">E428</a>.
 
 ## <a name="E407">E407 Shoot at Object on Hull (takes 1 hour)</a>
 You fire at it: intense radiation is reflected back. It inflicts 1d6+2 
-hits (<a href="#R231">R231</a>) on each person outside the hull of your starship, even if within a 
-ship’s boat or utility suit. The object appears unaffected. Return to <a href="#E119">E119</a> and 
-select another option.
+hits (<a href="#R231">R231</a>) on each person outside the hull of your 
+starship, even if within a ship’s boat or utility suit. The object appears 
+unaffected. Return to <a href="#E119">E119</a> and select another option.
 
 ## <a name="E408">E408 Ship Darts Away (takes 1 hour)</a>
 As you first contact the hull of the strange ship, it suddenly withdraws a 
@@ -4832,10 +4836,10 @@ ship, it is gone forever. You will never again encounter the mutinous crewman.
 
 ## <a name="E413">E413 Try to Escape Scout (takes 1 hour)</a>
 As you try to escape, the scout fires once with each gun, hitting with each.
-The standard guns inflict one hit (<a href="#R217">R217</a>) on the starship. The unusual nose gun
-fires a magneto-plasma that penetrates the hull without doing any physical
-damage. However, induced neural currents kill all individuals in one
-compartment, determined by a 1d6 roll:
+The standard guns inflict one hit (<a href="#R217">R217</a>) on the starship. 
+The unusual nose gun fires a magneto-plasma that penetrates the hull without 
+doing any physical damage. However, induced neural currents kill all 
+individuals in one compartment, determined by a 1d6 roll:
 
 | D6  | Result                             |
 |-----|------------------------------------|
@@ -4861,11 +4865,11 @@ Your engineer tries to puzzle out the device, roll 1d6:
 | 6   | he discovers it is a small, controllable craft with sublight drives (<a href="#R212F">R212F</a>) that has a one-year power unit and life support. It has 3 CU internal space, and takes up 9 CU area. There is no way to mount guns upon it. It originally had 3 CU of explosives (see “5” above) in it, but the engineer removes these |
 
 ## <a name="E415">E415 Wounded Pilot/Navigator (takes 1 hour)</a>
-The stasis unit contains a starship pilot/navigator (<a href="#R221A">R221A</a>) with E7, M0, H2 and
-1d6 wounds. In return for rescuing him, he will work without pay for. you for
-the next 40 days. If you don’t want his services, he will pay you by replacing
-the stasis unit you used to free him with one of equal size whenever you next
-arrive at a spaceport or space station.
+The stasis unit contains a starship pilot/navigator (<a href="#R221A">R221A</a>)
+with E7, M0, H2 and 1d6 wounds. In return for rescuing him, he will work without 
+pay for. you for the next 40 days. If you don’t want his services, he will pay 
+you by replacing the stasis unit you used to free him with one of equal size 
+whenever you next arrive at a spaceport or space station.
 
 ## <a name="E416">E416 Ship Self-Destructs (instantly)</a>
 The ship suddenly erupts in a massive explosion, destroying you, you crew, and 
@@ -4888,8 +4892,8 @@ day, and to deliver him to his own planet. Roll 1d6:
 He promises a rich reward if you get him there. He is emaciated and sickly,
 unable to fight or perform any other task. You may ignore him, turn him into
 the authorities (if you are not “wanted” here) for a 10 S reward, or take him
-along. If you decide to take him, see <a href="#E427">E427</a> when you deliver him to any area at
-his destination which has life support.
+along. If you decide to take him, see <a href="#E427">E427</a> when you deliver 
+him to any area at his destination which has life support.
 
 ## <a name="E418">E418 Sub light Drive Energized (takes 1 hour)</a>
 When you energize the sublight drive, roll 1d6:
@@ -4920,13 +4924,13 @@ Roll 1d6 to see what is found inside:
 
 ## <a name="E420">E420 Starship Engineer (takes 1d6 hours)</a>
 When the stasis unit is de-energized, you discover a starship engineer in a
-utility suit, with tools, equipment, and a tech-1 utility robot (<a href="#R222">R222</a>). After
-considerable questioning, you discover that he was in a starship that must
-have been destroyed 84 years ago. All his friends and relatives are gone. He
-claims the robot is his, and wants to be set down on any planet with good air.
-He will work for you instead if you buy the robot for 100 S and pay him 12 S
-per week with a stasis unit at his work station (<a href="#R212E">R212E</a>). He is E8, M3, H3 and
-a skimmer driver.
+utility suit, with tools, equipment, and a tech-1 utility 
+robot (<a href="#R222">R222</a>). After considerable questioning, you discover 
+that he was in a starship that must have been destroyed 84 years ago. All his 
+friends and relatives are gone. He claims the robot is his, and wants to be set 
+down on any planet with good air. He will work for you instead if you buy the 
+robot for 100 S and pay him 12 S per week with a stasis unit at his work 
+station (<a href="#R212E">R212E</a>). He is E8, M3, H3 and a skimmer driver.
 
 ## <a name="E421">E421 Stasis Energized (takes rest of day)</a>
 Once the stasis is energized, you are safe from mental attack, and no one else
