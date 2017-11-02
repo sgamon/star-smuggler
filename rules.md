@@ -209,7 +209,7 @@ not part of RRR.
 
 ### <a name="R203D">Breakdown (R203D)</a>
 At the end of each day, any vehicle or piece of equipment you used may break
-down. Consult <a href="#R218">R218</a> for details. Preventive maintenance (<a href="#<a href="#R218B">R218B</a>) 
+down. Consult <a href="#R218">R218</a> for details. Preventive maintenance (<a href="#R218B">R218B</a>)
 avoids the danger of breakdown. Breakdown need not be checked for vehicles that didn’t
 move (even if providing life support and/or communications), or for starships
 and boats in orbit or docked at a space station. Breakdown of individual items
@@ -1200,7 +1200,9 @@ A commercial vehicle must be paid in advance, and remains available (once
 hired) only for the paid-in-advance period. During the period, you can
 increase the time available by paying more, but as soon as money runs out the
 vehicle instantly departs and cannot be recalled without a new contact try,
-etc. Commercial vehicles can travel to areas of bad or no air. Skimmers (<a href="#R215C">R215C</a>)
+etc. Commercial vehicles can travel to areas of bad or no air.
+
+### <a name="R215C">Skimmers (R215C)</a>
 
 These are small private vehicles typical to inhabited planets of the sector.
 They use air-breathing engines, and thus are limited to areas of good or bad
@@ -3044,10 +3046,10 @@ sell, as indicated.
 (<a href="#R211">R211</a>) each unit 2 S to buy, 1 S to sell, base price.
 
 ### <a name="E028">E028 Life Support Units:</a>
-(<a href="#R211">R211</a>) each unit 1 S to buy base, cannot sell.
+(<a href="#R213">R213</a>) each unit 1 S to buy base, cannot sell.
 
 ### <a name="E029">E029 Life Support Units:</a>
-(<a href="#R211">R211</a>) each unit 2 S to buy base, cannot sell.
+(<a href="#R213">R213</a>) each unit 2 S to buy base, cannot sell.
 
 ### <a name="E030">E030 Repair Units:</a>
 (<a href="#R211">R211</a>) each unit 1 S to buy, 1 S to sell, base price.
