@@ -726,7 +726,7 @@ finds, but they are relatively small, and depend more on luck than prospecting
 skill. Cubro now has become a center of industrial development using
 non-metallic materials, especially the still experimental “bio-plastic” alloys.
 
-* System Entry 1 d6 roll: 1- <a href="#E121">E121</a>-2- <a href="#E104">E104</a>, 3- <a href="#E117">E117</a>, 4- <a href="#E103">E103</a>, 5- <a href="#E105">E105</a>, 6- <a href="#E092">E092</a>
+* System Entry 1 d6 roll: 1- <a href="#E121">E121</a>, 2- <a href="#E104">E104</a>, 3- <a href="#E117">E117</a>, 4- <a href="#E103">E103</a>, 5- <a href="#E105">E105</a>, 6- <a href="#E092">E092</a>
 * System Codes: wealth 15, tech 70.
 * Planet I: layout K-A, gravity 7, good air.
 
